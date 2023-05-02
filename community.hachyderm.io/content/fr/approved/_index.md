@@ -7,7 +7,7 @@ description: >
 ##       empty paragraph, since this page isn't a "normal"
 ##       page it doesn't render below the top menu otherwise.
 ---
-
+#NOTE : there is no apparent link to this page from the menu or other pages (that i could find)
 <p></p>
 
 # Approved Specialized Accounts
