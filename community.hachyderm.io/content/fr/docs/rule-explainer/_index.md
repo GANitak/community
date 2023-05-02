@@ -282,20 +282,19 @@ Transphobia in any form is not tolerated on this server. Some specifics:
 
 These are being worked on to expand on the above.
 
-## The three grey areas
-### Current events, past events, and personal experience
+## Les trois zones grises
+### Actualité, événements passés et expérience personnelle
 
-Hachydermians may need to discuss some topics on the above "No" list
-from time to time. Whether it is sharing current news, feelings about
-current news, personal experiences and/or impacts, or making historical
-connections the fact is that the world is a bit on fire. **Conversations
-from these perspectives are welcome, however: use content warnings on text
-and media whenever discussing or sharing anything that might fall under
-these rules.** If you are unsure, use a content warning as that is why the
-feature is there. This is how we as a community can give space to as many as
-we can: both those who need to talk about certain topics and spread knowledge
-about them as well as protect those who are actively experiencing, or
-recovering from, the topic in the discussion. To put it another way:
-**one person's case study is another person's life and trauma, treat these
-conversations with respect**.
+Les hachydermiens pourraient avoir besoin de discuter de temps à autre de certains sujets sur 
+la liste « non » ci-dessus. Qu’il s’agisse de partager des nouvelles actuelles, des sentiments 
+au sujet des nouvelles actuelles, des expériences personnelles et/ou des impacts, ou d’établir 
+des liens historiques, le fait est que le monde est un peu en feu. Les conversations de ce point 
+de vue sont toutefois les bienvenues : utilisez les avertissements de contenu sur les textes et
+les médias lorsque vous discutez ou partagez quelque chose qui pourrait être assujetti à ces règles.
+Si vous n’êtes pas sûr, utilisez un avertissement de contenu car c’est pour ça que la fonctionnalité 
+est là. C’est ainsi que nous, en tant que communauté, pouvons donner de l’espace à autant de 
+personnes que nous le pouvons : à la fois ceux qui ont besoin de parler de certains sujets et de 
+diffuser des connaissances à leur sujet, ainsi que ceux qui vivent activement le sujet de la discussion
+ou qui s’en remettent. Autrement dit, **l’étude de cas d’une personne, est la vie et le traumatisme d’une 
+autre personne, traitez ces conversations avec respect.**
 
