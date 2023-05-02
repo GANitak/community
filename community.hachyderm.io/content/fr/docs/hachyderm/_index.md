@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "Bienvenue"
 linkTitle: "How to Hachyderm"
 weight: 1
 description: >

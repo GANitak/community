@@ -1,5 +1,5 @@
 ---
-title: "Hachyderm Community Documentation"
+title: "Documentation communautaire de Hachyderm"
 linkTitle: "Documentation"
 weight: 20
 menu:
@@ -7,7 +7,7 @@ menu:
     weight: 20
 ---
 
-## Welcome to Hachyderm!
+## Bienvenue à Hachyderm !
 
 Here we are trying to build a curated network of respectful professionals in the tech industry around the globe. Welcome anyone who follows the rules and needs a safe home or fresh start.
 
@@ -17,9 +17,9 @@ Safe space. Tech Industry. Economics. OSINT. News. Rust. Linux. Aurae. Kubernete
 
 ## Quick FAQs to Get Started
 
-#### How do you pronounce "Hachyderm"?
+#### Comment prononcer "Hachyderm"?
 
-Pronounced hack-a-derm like [pachyderm](https://forvo.com/word/pachyderm/#en). (Audio link.)
+Pronouncé hack-a-derm comme [pachyderm](https://forvo.com/word/pachyderm/#en). (Audio link.)
 
 ([What is a pachyderm?](https://en.wikipedia.org/wiki/Pachydermata))
 

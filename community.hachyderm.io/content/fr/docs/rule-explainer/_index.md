@@ -1,15 +1,15 @@
 ---
-title: "Rule Explainer"
-linkTitle: "Rule Explainer"
+title: "Explication des règles"
+linkTitle: "Explication des règles"
 weight: 4
 description: >
-  Expanded explanation of the rules that govern user conduct on Hachyderm.
+  Explication élargie des règles qui gouvernent la conduite des utilisateurs sur Hachyderm.
 ---
 
-## The Rule Explainer
+## Explication des règles
 
-The Rules / Code of Conduct are the most important thing to understand when
-on Hachyderm. A quick recap of the rules:
+Les règles et le code de conduite sont les choses la plus importantes à comprendre lorsque vous êtes
+sur Hachyderm. Un bref résumé des règles :
 
 1. Don't be a dick
 1. No hacking
@@ -25,41 +25,45 @@ on Hachyderm. A quick recap of the rules:
 1. Safe space: LGBTQIA+
 1. Safe space: neurodivergent (ADHD, Autism, etc.)
 
-As a general rule to keep in mind:
+Règle générale à garder à l’esprit :
 
-> **If your intended post is in a grey area for one of these rules, then err on the
-> side of caution and reach out to the mods via our [GitHub issue tracker](https://github.com/hachyderm/community/issues).**
+> **Si votre message est dans une zone grise pour l’une de ces règles, alors err sur le
+> côté de la prudence et joignez les mods via notre [GitHub issue tracker](https://github.com/hachyderm/community/issues).**
 
 ### Don't be a dick
 
-Hachyderm and its surrounding community have found safety and value in a
-primary guiding principle, that is often hard to interpret.
+Hachyderm et sa communauté environnante ont trouvé sécurité et valeur dans un
+principe directeur primaire, qui est souvent difficile à interpréter.
 
 > Don't be a dick.
+> Ne soit pas un con.
 
-We believe that everyone knows when they are "being a dick", and we do not
-tolerate this level of aggression towards our community.
+Nous croyons que tout le monde sait quand ils sont "being a dick" être un con, et nous ne
+tolérons pas ce niveau d’agression envers notre communauté.
 
-In short, we believe that you know if you are being a dick, and therefore you
-should be able to stop. If you do not stop, you will no longer be welcome on
-Hachyderm.
+En bref, nous croyons que vous savez si vous êtes un con(ne) et donc vous
+devriez pouvoir arrêter. Si vous ne vous arrêtez pas, vous ne serez plus les bienvenus sur
+Hachyderme.
 
-Being a dick is measured by "self control" and "intent". 
+"Being a dick" Être un con(ne) se mesure par "maîtrise de soi" et "intention". 
 
 > Are you able to restrain yourself? What are your intentions?
+> Êtes-vous capable de vous retenir? Quelles sont vos intentions?
 
-If your intentions are to hurt, brandish, slander, diminish, insult, or offend 
-someone you are likely being a dick. If you are commenting on anyone's "tone"
-or whether or not they are "having a civilized" discussion you are _also_
-being a dick. We believe you should be able to restrain yourself in these situations.
-If you do not restrain yourself, we believe that you are likely being a dick.
+Si vos intentions sont de blesser, de brandir, de calomnier, de diminuer, d’insulter ou 
+d’offenser quelqu’un, vous êtes probablement "being a dick". Si vous commentez sur le "ton" de 
+quelqu’un, sur si ils ont ou non, une discussion civilisée, vous êtes _aussi_ un con. 
+Nous pensons que vous devriez être capable de vous contenir dans ces situations.
+Si vous ne vous retenez pas, nous pensons que vous êtes probablement un con.
 
-Being a dick is the opposite of respect. We believe all "bad takes" on a topic
-can be voiced with respect.
-We hold each member of the community accountable for managing themselves and
-finding a respectful way of communicating their contrarian views.
+Être un con est le contraire du respect. Nous croyons que tous les "bad takes" sur un sujet
+peut être exprimé avec respect.
+Nous tenons chaque membre de la communauté responsable de sa gestion et doivent trouver une 
+façon respectueuse de communiquer leurs points de vue contraires.
 
-We expect all members to be respectful and thus, not be a dick.
+
+Nous nous attendons à ce que tous les membres soient respectueux et, par conséquent, 
+qu’ils ne soient pas des cons.
 
 #### What about "shitposting"?
 
