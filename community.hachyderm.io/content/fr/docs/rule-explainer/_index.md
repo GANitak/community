@@ -7,7 +7,7 @@ description: >
 ---
 
 {{% pageinfo %}}
-This page was manually translated on 05/05/23. Please utilize the English docs for the most up to date policies.
+<h5 class="text-center">This page was manually translated on 05/05/23. Please utilize the English docs for the most up to date policies.</h5>
 {{% /pageinfo %}}
 
 ## Explication des règles
