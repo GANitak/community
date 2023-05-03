@@ -12,11 +12,11 @@ This page was manually translated on 05/05/23. Please utilize the English docs f
 {{% /pageinfo %}}
 ## Bienvenue à Hachyderm !
 
-Here we are trying to build a curated network of respectful professionals in the tech industry around the globe. Welcome anyone who follows the rules and needs a safe home or fresh start.
+Ici, nous essayons de construire un réseau organisé de professionnels respectueux dans l’industrie de la technologie autour du monde. Accueillant toute personne qui suit les règles et ayant besoin d’un foyer sûr ou d’un nouveau départ.
 
-We are hackers, professionals, enthusiasts, and are passionate about life, respect, and digital freedom. We believe in peace and balance.
+Nous sommes des hackers, des professionnels, des passionnés de vie, de respect et de liberté numérique. Nous croyons en la paix et l’équilibre.
 
-Safe space. Tech Industry. Economics. OSINT. News. Rust. Linux. Aurae. Kubernetes. Go. C. Infrastructure. Security. Black Lives Matter. LGTBQIA+. Pets. Hobbies.
+Espace Sûr. Industrie Technologique. Economies. OSINT. News. Rust. Linux. Aurae. Kubernetes. Go. C. Infrastructure. Securité. Black Lives Matter. LGTBQIA+. Animaux de compagnies. Loisirs.
 
 ## FAQ rapide pour commencer
 
