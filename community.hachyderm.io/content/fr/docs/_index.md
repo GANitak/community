@@ -18,75 +18,71 @@ We are hackers, professionals, enthusiasts, and are passionate about life, respe
 
 Safe space. Tech Industry. Economics. OSINT. News. Rust. Linux. Aurae. Kubernetes. Go. C. Infrastructure. Security. Black Lives Matter. LGTBQIA+. Pets. Hobbies.
 
-## Quick FAQs to Get Started
+## FAQ rapide pour commencer
 
 #### Comment prononcer "Hachyderm"?
 
-Pronouncé hack-a-derm comme [pachyderm](https://forvo.com/word/pachyderm/#en). (Audio link.)
+Pronouncé hack-a-derm comme [pachyderm](https://forvo.com/word/pachyderm/#en). (Lien Audio)
 
-([What is a pachyderm?](https://en.wikipedia.org/wiki/Pachydermata))
+([Qu’est-ce qu’un pachyderme ?](https://fr.wikipedia.org/wiki/Pachydermata))
 
-#### Running a service is expensive. How can I donate?
+#### Opérer un service coûte cher. Comment puis-je faire un don?
 
-There are a few ways to support us, including through [Hachyderm's GitHub Sponsors page](https://github.com/sponsors/hachyderm).
-For additional ways to support, including supporting via Nivenly, please take a look at [our Funding and Thank You doc](thank-you/).
+Il y a quelques façons de nous soutenir, y compris par la page [Hachyderm's GitHub Sponsors](https://github.com/sponsors/hachyderm).
+ Pour d’autres façons de soutenir, y compris le soutien via Nivenly, veuillez consulter [Financement et remerciements Doc](thank-you/).
 
-#### Is Hachyderm down or just me? Or: I think I'm having a service issue.
+#### Est-ce que Hachyderm est en panne ou juste moi ? Ou : Je pense que j’ai un problème de service.
 
-To see if Hachyderm itself is up and running, please look at:
+Pour voir si Hachyderm est opérationnel, veuillez consulter :
 
-* [Our Grafana Dashboard](https://grafana.hachyderm.io/public)
-* [Our Status Page](https://status.hachyderm.io)
+* [Notre Grafana Dashboard](https://grafana.hachyderm.io/public)
+* [Notre Status Page](https://status.hachyderm.io)
 
-To report a full or partial outage, or an issue with a particular feature not working as expected, please use
-[our Community Issues on GitHub](https://github.com/hachyderm/community/issues/new/choose).
+Pour signaler une panne complète ou partielle ou un problème lié à une caractéristique particulière qui ne fonctionne pas comme prévu, veuillez utiliser :
+[Nos Community Issues sur GitHub](https://github.com/hachyderm/community/issues/new/choose).
 
-#### Where are all those great incident reports I keep hearing about?
+#### Où sont tous ces super rapports d’incidents dont j’entends parler ?
 
-[On our blog](../blog).
+[Sur notre blog](../blog).
 
-Also: [The famous "The Queues ☃️ down in Queueville" Incident Report](../blog/2022/12/20/the-queues-%EF%B8%8F-down-in-queueville/)
+Aussi: [The famous "The Queues ☃️ down in Queueville" Incident Report](../blog/2022/12/20/the-queues-%EF%B8%8F-down-in-queueville/)
 
-#### I'm new to Mastodon in general. Help?
+#### Je suis nouveau à Mastodon en général. Aide?
 
-If you're new to Mastodon in general, we recommend taking a look at [Mastodon.Help's brief explainer](https://mastodon.help/)
-about what Mastodon is and isn't, as well as taking a look at [fedi.tips](https://fedi.tips/) for some How To Dos.
+Si vous êtes nouveau à Mastodon en général, nous vous recommandons de jeter un oeil à [Mastodon.Aide bref explication](https://mastodon.help/)
+sur ce que Mastodon est et n’est pas, ainsi que de jeter un oeil à [fedi.tips](https://fedi.tips/) pour certains Comment Faire.
 
 As for How to be a Hachydermian, take a look at the docs in [our Hachyderm section](/docs/hachyderm/).
 
-#### Can I create a non-user account?
+#### Puis-je créer un compte non-utilisateur ?
 
-Accounts that are not for an individual person's personal use are referred to as "Specialized Accounts"
-and are categorized as corporate, bots, curated, OSS Project, Community Event, and Influencer Accounts.
-Some accounts are restricted and/or invite-only and many have rules governing how they can interact with
-the platform. Unrecognized account types are suspended. Please read our [Account Types documentation](account-types/)
-for more information.
+Les comptes qui ne sont pas destinés à l’usage personnel d’une personne sont appelés « comptes spécialisés ».
+et sont classés dans les catégories Corporate, Bots, Curated, OSS Project, Community Event et Influencer Accounts.
+Certains comptes sont restreints ou sur invitation seulement, et bon nombre d’entre eux ont des règles régissant la façon dont ils peuvent interagir avec
+la plateforme. Les types de comptes non reconnus sont suspendus. Veuillez lire notre [Documents sur les Types de Comptes](account-types/)
+pour plus d'information.
 
-#### I am the mod / admin of another instance and need to contact the Hachyderm mods / admins.
+#### Je suis le mod / admin d’une autre instance et je dois contacter les mods / admins Hachyderm.
 
-Please email us at [admin@hachyderm.io](mailto:admin@hachyderm.io).
+Veuillez nous envoyer un courriel à [admin@hachyderm.io](mailto:admin@hachyderm.io).
 
-#### I have an issue that requires the moderation team, please help.
+#### J’ai un problème qui nécessite l’aide de l’équipe de modération.
 
-If the issue is regarding a user or post, please use the report feature in Mastodon. If you need to
-reach the mods another way, please look at our [Reporting and Communication page](moderation/reporting/).
+Si le problème concerne un utilisateur ou une publication, veuillez utiliser la fonction de rapport dans Mastodon. Si vous avez besoin de communiquer avec les mods d’une autre façon, s’il vous plaît regarder notre [Page Rapports et Communications](moderation/reporting/).
 
-#### I have been moderated and would like to know what to do.
+#### J’ai été modéré et j’aimerais savoir quoi faire.
 
-Please take a look at our [Moderation Actions and Appeals page](moderation/actions-and-appeals/).
+Veuillez jeter un coup d’œil à notre [Actions de modération et Appels](moderation/actions-and-appeals/).
 
-#### I would like to know more about how Hachyderm is moderated, so that I can determine if Hachyderm is a safe space for me.
+#### J’aimerais en savoir plus sur la façon dont Hachyderm est modéré, afin que je puisse déterminer si Hachyderm est un endroit sûr pour moi.
 
-Please start by looking at both [our Rule Explainer](rule-explainer/) and [our Moderator Covenant](moderation/covenant/).
-The main rule of Hachyderm is "Don't Be A Dick" and the remaining rules explicitly call out common
-"whataboutisms". The Rule Explainer dives into these different facets to provide additional clarity.
-The Moderator Covenant is to show how the rules are enforced and what is used to guide our decisions.
+Veuillez commencer par regarder les deux [Explication des règles](rule-explainer/) et [notre Convention de modérateur](moderation/covenant/).
+ La règle principale de Hachyderm est « Don’t Be A Dick » et les autres règles énoncent explicitement les « whataboutisms » courants. L’explication des règles traite de ces différentes facettes pour apporter des précisions supplémentaires. La Convention de modération doit montrer comment les règles sont appliquées et ce qui est utilisé pour guider nos décisions.
 
-The other rules we have are governing [the account types](account-types/) permitted on Hachyderm and how
-often they can post and how they can interact on the platform.
+Les autres règles que nous avons régissent [les Types de Comptes](account-types/) permis sur Hachyderm et la fréquence à laquelle ils peuvent publier et comment ils peuvent interagir sur la plateforme.
 
-#### Who designed the Hachyderm logo?
+#### Qui a conçu le logo Hachyderm ?
 
-Our logo was designed by the lovely Ashton Rainbows. ([website](https://ashtonrainbows.com/), [Instagram](https://www.instagram.com/ashtonrainbows/)) 
+Notre logo a été conçu par la charmante Ashton Rainbows. ([Site web](https://ashtonrainbows.com/), [Instagram](https://www.instagram.com/ashtonrainbows/)) 
 
-Thank you Ashton!
+Merci Ashton!
