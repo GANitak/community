@@ -7,7 +7,10 @@ description: >
 ##       empty paragraph, since this page isn't a "normal"
 ##       page it doesn't render below the top menu otherwise.
 ---
-#NOTE : there is no apparent link to this page from the menu or other pages (that i could find)
+
+{{% pageinfo %}}
+This page was manually translated on 05/05/23. Please utilize the English docs for the most up to date policies.
+{{% /pageinfo %}}
 <p></p>
 
 # Approved Specialized Accounts

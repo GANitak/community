@@ -6,6 +6,10 @@ description: >
   Explication élargie des règles qui gouvernent la conduite des utilisateurs sur Hachyderm.
 ---
 
+{{% pageinfo %}}
+This page was manually translated on 05/05/23. Please utilize the English docs for the most up to date policies.
+{{% /pageinfo %}}
+
 ## Explication des règles
 
 Les règles et le code de conduite sont les choses la plus importantes à comprendre lorsque vous êtes

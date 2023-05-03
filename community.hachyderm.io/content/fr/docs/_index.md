@@ -7,6 +7,9 @@ menu:
     weight: 20
 ---
 
+{{% pageinfo %}}
+This page was manually translated on 05/05/23. Please utilize the English docs for the most up to date policies.
+{{% /pageinfo %}}
 ## Bienvenue à Hachyderm !
 
 Here we are trying to build a curated network of respectful professionals in the tech industry around the globe. Welcome anyone who follows the rules and needs a safe home or fresh start.
