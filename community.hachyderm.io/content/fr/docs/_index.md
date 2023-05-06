@@ -8,8 +8,9 @@ menu:
 ---
 
 {{% pageinfo %}}
-<h5 class="text-center">This page was manually translated on 05/05/23. Please utilize the English docs for the most up to date policies.</h5>
+<h5 class="text-center">This page was manually translated on 05/06/23. </br>Please utilize the English docs for the most up to date policies.</h5>
 {{% /pageinfo %}}
+
 ## Bienvenue à Hachyderm !
 
 Ici, nous essayons de construire un réseau organisé de professionnels respectueux dans l’industrie de la technologie autour du monde. Accueillant toute personne qui suit les règles et ayant besoin d’un foyer sûr ou d’un nouveau départ.

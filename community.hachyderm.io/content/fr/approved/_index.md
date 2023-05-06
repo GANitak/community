@@ -4,18 +4,19 @@ linkTitle: Hachyderm approuvé
 description: >
   Comptes spécialisés ayant fait l’objet d’une vérification avec Hachyderm
 ## Note: the topmost header must appear twice, and under the
-##       empty paragraph, since this page isn't a "normal"
+##       empty paragraph, since this page isn't a "normal" for content/en/
 ##       page it doesn't render below the top menu otherwise.
 ---
 `
 `
 `
 {{% pageinfo %}}
-This page was manually translated on 05/06/23. Please utilize the English docs for the most up to date policies.
+<h5 class="text-center">This page was manually translated on 05/06/23. </br>Please utilize the English docs for the most up to date policies.</h5>
 {{% /pageinfo %}}
-<p></p>
+<!-- <p></p>
 
-# Comptes spécialisés approuvés
+
+<!-- # Comptes spécialisés approuvés  -->
 # Comptes spécialisés approuvés
 
 Les comptes suivants ont été approuvés par Hachyderm.
@@ -24,6 +25,8 @@ Les comptes suivants ont été approuvés par Hachyderm.
 
 * <a rel="me" href="https://hachyderm.io/@aurae">Aurae</a>
 * <a rel="me" href="https://hachyderm.io/@hachyderm">Hachyderm</a>
+<!-- * <a rel="me" href="https://hachyderm.io/@hachyinfra">Hachyderm Infra</a>
+ -->
 * <a rel="me" href="https://hachyderm.io/@zomg">Compte Hachyderm ZOMG </a>
 * <a rel="me" href="https://hachyderm.io/@nivenly">Nivenly Foundation</a>
 

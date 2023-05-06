@@ -1,16 +1,18 @@
-
 ---
-title: "Opening Hachyderm Registrations"
-linkTitle: "Open Registrations"
+title: "Ouverture des inscriptions Hachyderm"
+linkTitle: "Inscriptions Ouvertes"
 date: 2022-12-04
 author: Kris Nóva ([@krisnova](https://hachyderm.io/@nova))
 description: >
-  Update on the current state of Hachyderm user registrations.
+  Mise à jour sur l’état actuel des inscriptions des utilisateurs de Hachyderm.
 ---
 
-Yesterday I made the decision to temporarily close user registrations for the main site: [hachyderm.io](https://hachyderm.io).
+Hier, j’ai pris la décision de fermer temporairement les inscriptions des utilisateurs pour le site principal :  [hachyderm.io]().
 
-Today I am making the decision to re-open user registrations again for Hachyderm.
+Aujourd’hui, je prends la décision de rouvrir les inscriptions des utilisateurs pour Hachyderm.
+{{% pageinfo %}}
+<h5 class="text-center">This page was manually translated on 05/06/23. </br>Please utilize the English docs for the most up to date policies.</h5>
+{{% /pageinfo %}}
 
 ### Reason for Closing 
 
