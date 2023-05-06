@@ -1,62 +1,62 @@
 ---
-title: Specialized Accounts that have Verified with Hachyderm
-linkTitle: Hachyderm Approved
+title: Comptes spécialisés ayant fait l’objet d’une vérification avec Hachyderm
+linkTitle: Hachyderm approuvé
 description: >
-  Specialized accounts that have verified with Hachyderm
+  Comptes spécialisés ayant fait l’objet d’une vérification avec Hachyderm
 ## Note: the topmost header must appear twice, and under the
 ##       empty paragraph, since this page isn't a "normal"
 ##       page it doesn't render below the top menu otherwise.
 ---
-
+`
+`
+`
 {{% pageinfo %}}
-This page was manually translated on 05/05/23. Please utilize the English docs for the most up to date policies.
+This page was manually translated on 05/06/23. Please utilize the English docs for the most up to date policies.
 {{% /pageinfo %}}
 <p></p>
 
-# Approved Specialized Accounts
-# Approved Specialized Accounts
+# Comptes spécialisés approuvés
+# Comptes spécialisés approuvés
 
-The following accounts that have gone through the approval process with Hachyderm.
+Les comptes suivants ont été approuvés par Hachyderm.
 
-### Hachyderm and/or Nivenly Official Accounts
+### Hachyderm et/ou Nivenly Comptes Officiels
 
 * <a rel="me" href="https://hachyderm.io/@aurae">Aurae</a>
 * <a rel="me" href="https://hachyderm.io/@hachyderm">Hachyderm</a>
-* <a rel="me" href="https://hachyderm.io/@zomg">Hachyderm ZOMG account</a>
+* <a rel="me" href="https://hachyderm.io/@zomg">Compte Hachyderm ZOMG </a>
 * <a rel="me" href="https://hachyderm.io/@nivenly">Nivenly Foundation</a>
 
-### Corporate Accounts
+### Comptes Corporatifs
 
 * <a rel="me" href="https://hachyderm.io/@adminmagazine">ADMIN Magazine</a>
 * <a rel="me" href="https://hachyderm.io/@oxidecomputer">Oxide Computer Company</a>
 * <a rel="me" href="https://hachyderm.io/@tailscale">Tailscale</a>
 * <a rel="me" href="https://hachyderm.io/@tremolo">Tremolo</a>
 
-### Individual / Self Run Entities and similar
+### Entités individuelles ou autogérées et similaires
 
-This is for individuals that are founding small businesses and
-such where their individual account functions as "corporate"
-and/or there is a lot of overlap. This is **not** for general
-users.
+Il s’agit des particuliers qui fondent de petites entreprises et dont le compte individuel fonctionne comme "entreprise"
+et/ou il y a beaucoup de chevauchements. Ceci n'est **pas** pour général utilisateurs.
 
 * <a rel="me" href="https://hachyderm.io/@mariyadelano">Mariya Delano</a>
 
 ### Bot Accounts / Automated Posting Accounts
 
 * <a rel="me" href="https://hachyderm.io/@cowsay">cowsay bot</a>
-* <a rel="me" href="https://hachyderm.io/@ietf_wg_dnsop">DNS Operations Working Group of the Internet Engineering Task Force (IETF)</a>
+* <a rel="me" href="https://hachyderm.io/@ietf_wg_dnsop">Groupe de travail sur les opérations DNS de l’**Internet Engineering Task Force** (IETF)</a>
 * <a rel="me" href="https://hachyderm.io/@vecka">vecka</a>
 
-### Curated Content Accounts
+### Comptes de contenu soigneusement sélectionnés
 
-**This can include, but is not limited to: newsletters, blogs /
-other API hooks, podcasts, and so forth.**
+**Cela peut comprendre, sans s’y limiter : newsletters, blogues/
+autres API hooks, podcasts, etc.**
 
 * <a rel="me" href="https://hachyderm.io/@SIGCPP">Special Interest Group on C++</a>
 * <a rel="me" href="https://hachyderm.io/@ThingsDrawnByTextModels">Things Drawn By Text Models</a>
 * <a rel="me" href="https://hachyderm.io/@TwosComplement">Two's Complement</a>
 
-### OSS Projects
+### Projects OSS
 
 * <a rel="me" href="https://hachyderm.io/@AnySoftKeyboard">AnySoftKeyboard</a>
 * <a rel="me" href="https://hachyderm.io/@Backloggery">Backloggery</a>
@@ -69,7 +69,7 @@ other API hooks, podcasts, and so forth.**
 * <a rel="me" href="https://hachyderm.io/@rOpenSci">rOpenSci</a>
 * <a rel="me" href="https://hachyderm.io/@zellij">Zellij</a>
 
-### Community Events, Groups, and similar
+### Événements communautaires, groupes et similaires
 
 * <a rel="me" href="https://hachyderm.io/@barcampbangalore">Barcamp Bangalore</a>
 * <a rel="me" href="https://hachyderm.io/@CodeAndSupply">Code & Supply</a>
