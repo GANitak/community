@@ -3,14 +3,13 @@ title: Specialized Accounts that have Verified with Hachyderm
 linkTitle: Hachyderm Approved
 description: >
   Specialized accounts that have verified with Hachyderm
-## Note: the topmost header must appear twice, and under the
-##       empty paragraph, since this page isn't a "normal"
-##       page it doesn't render below the top menu otherwise.
+## Note: added {{- /* whitespace control */ -}} as this page isn't "normal"
+##       it doesn't render below the top menu otherwise.
 ---
+{{- /* whitespace control */ -}}
+</br>
+{{- /* whitespace control */ -}}
 
-<p></p>
-
-# Approved Specialized Accounts
 # Approved Specialized Accounts
 
 The following accounts that have gone through the approval process with Hachyderm.

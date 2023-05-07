@@ -1,97 +1,84 @@
 ---
-title: "Funding Hachyderm"
-linkTitle: "Funding and Thank You"
+title: "Financement d'Hachyderm"
+linkTitle: "Financement et Remerciements"
 weight: 1
 description: >
-  How to fund Hachyderm and our sponsor list.
+  Comment financer Hachyderm et notre liste de sponsors.
 ---
 
 {{% pageinfo %}}
-<p align="center"><strong>🎉 Thank you to all our donors and sponsors!</strong> 🎉</p>
+<p align="center"><strong>🎉 Merci à tous nos donateurs et sponsors!</strong> 🎉</p>
+{{% /pageinfo %}}
+{{% pageinfo %}}
+<h5 class="text-center">This page was manually translated on 05/07/23. </br>Please utilize the English docs for the most up to date policies.</h5>
 {{% /pageinfo %}}
 
-Hachyderm is primarily funded by individual Hachydermians either directly to the Hachyderm project
-or to Hachyderm's parent org, the Nivenly Foundation. Although corporate accounts assist with paying
-for Hachyderm's infrastructure costs, they are not the primary source of funding for Hachyderm.
+Hachyderm est principalement financé par des Hachydermiens individuels, soit directement par le projet Hachyderm ou par l’organisation parente de Hachyderm, la Fondation Nivenly. 
+Bien que les comptes d’entreprise aident à payer pour les coûts d’infrastructure de Hachyderm, 
+ils ne sont pas la principale source de financement pour Hachyderm.
 
-Note that we moved off Kris Nóva's Ko-Fi as of March 2023. As we start receiving other sponsorship
-sources we will post updates here.
+Notez que nous avons quitté Ko-Fi de Kris Nóva en mars 2023. 
+Lorsque nous commencions à recevoir d’autres sources de sponsorship, nous publierons des mises à jour ici.
 
-## How to donate
+## Comment faire un don
 
-One fast, easy way to donate to help finance Hachyderm is directly via Hachyderm's GitHub
-Sponsors page:
+Un moyen rapide et facile de faire un don pour aider à financer Hachyderm est directement via la page Sponsors GitHub de Hachyderm :
 
 <a class="btn btn-primary mb-4" href="https://github.com/sponsors/hachyderm">Donate <i class="fa-brands fa-github ml-1"></i></a>
 
-Hachyderm's GitHub sponsors page has a few benefits, including:
+La page des sponsors GitHub de Hachyderm offre quelques avantages, notamment :
 
-* Sponsor icon on your GitHub profile
-* (Optional) A shout out on our [#ThankYouThursday](https://hachyderm.io/tags/ThankYouThursday) on Hachyderm's Hachyderm account starting in April.<br />
-* (Optional) Added to our Thank You list at the bottom of this page starting in April.
+*  Icône de sponsor dans votre profil GitHub
+* (Facultatif) Un grand merci à notre [#ThankYouThursday](https://hachyderm.io/tags/ThankYouThursday) sur le compte Hachyderm de Hachyderm à partir d’avril.<br />
+* (Facultatif) Ajouté à notre Liste de Remerciements au bas de cette page à partir d’avril.
 
-For both the shoutouts and Thank You list: we will use your GitHub username by default.
-If you would like this changed please either [submit a PR](https://github.com/hachyderm/community/pulls) or email us at [admin@hachyderm.io](admin@hachyderm.io).
+Pour les remerciements et la liste de remerciements : nous utiliserons votre nom d’utilisateur GitHub par défaut.
+Si vous souhaitez que cela soit modifié, veuillez [soumettre un PR](https://github.com/hachyderm/community/pulls) ou nous envoyer un courriel à [admin@hachyderm.io](admin@hachyderm.io).
 
-### Donation Options
+### Options de don
 
-The three ways to support Hachyderm are:
+Les trois façons de soutenir Hachyderm sont:
+* Don direct au projet Hachyderm
+* Don à l’organisation parente de Hachyderm, la Fondation Nivenly
+* Acheter des articles "swag"
 
-* Donating directly to the Hachyderm project
-* Donating to Hachyderm's parent organization, the Nivenly Foundation
-* Purchasing swag
+#### Dons réguliers
 
-#### Regular Donations
+(... et swag)
 
-(... and swag)
+* [Page Sponsor GitHub de Hachyderm](https://github.com/sponsors/hachyderm) <i class="fa-brands fa-github"></i> <br />
+  C’est le même que le bouton Faire un don ci-dessus.
+* [Page Sponsor GitHub de Nivenly](https://github.com/sponsors/nivenly) <i class="fa-brands fa-github"></i> <br />
+  La Fondation Nivenly est l’organisation parente de Hachyderm. Vous pouvez configurer des
+  dons ponctuels ou récurrents.
+* [Page Ko-fi Nivenly](https://ko-fi.com/nivenly) <i class="far fa-coffee"></i><br />
+  Si vous cherchez à continuer à faire un don à Nivenly, Hachyderm, à travers Ko-fi et que vous êtes en train de migrer votre manière de donner via Ko-fi de Kris Nóva, c’est l’endroit pour vous!
+* [Stripe Donation pour Nivenly](https://donate.stripe.com/3cs8Apb7R6eK3a83cd) <i class="fa-solid fa-credit-card"></i> <br />
+  Il s’agit d’un don unique par carte de crédit à la Fondation Nivenly.
 
-* [Hachyderm's GitHub Sponsor page](https://github.com/sponsors/hachyderm) <i class="fa-brands fa-github"></i> <br />
-  This is the same as the Donate button above.
-* [Nivenly's GitHub Sponsor page](https://github.com/sponsors/nivenly) <i class="fa-brands fa-github"></i> <br />
-  The Nivenly Foundation is the parent organization for Hachyderm. You can configure
-  either one-time or recurring donations.
-* [Nivenly's Ko-fi page](https://ko-fi.com/nivenly) <i class="far fa-coffee"></i><br />
-  If you're looking to continue donating to Nivenly, Hachyderm, et al through Ko-fi
-  and are just migrating away from donating to us via Kris Nóva's Ko-fi, this is the
-  place for you!
-* [Nivenly Donation via Stripe](https://donate.stripe.com/3cs8Apb7R6eK3a83cd) <i class="fa-solid fa-credit-card"></i> <br />
-  This is a one-time donation via credit card payment to the Nivenly Foundation.
+S’il vous plaît visitez notre magasin de cadeaux si vous cherchez à mettre à jour votre assortiment génial
+des chemises, des tasses, des autocollants, et ainsi de suite :
 
-Please visit our swag store if you're looking to update your awesome assortment
-of shirts, mugs, stickers, and so on:
+* [La Boutique Swag de Nivenly Foundation](https://nivenly.myspreadshop.com/) <i class="fa-solid fa-shirt"></i> <br />
+  Il a du swag pour Nivenly, Hachyderm et Aurae !
 
-* [The Nivenly Foundation Swag Store](https://nivenly.myspreadshop.com/) <i class="fa-solid fa-shirt"></i> <br />
-  Has swag for Nivenly, Hachyderm, and Aurae!
+#### La Fondation Nivenly et ses membres
 
-#### The Nivenly Foundation and Membership
+[La Nivenly Foundation](https://nivenly.org) est l’organisation parente de Hachyderm. L’organisme coopérative à but non-lucratif, est elle-même fondée au cours de 2023. Nivenly est actuellement un organisme sans but lucratif reconnu par l’État de Washington, avec les jalons à venir à compléter avec l’IRS. Veuillez consultez la page web [Nivenly](https://nivenly.org) et le [Compte Hachyderm](https://hachyderm.io/@nivenly) pour les mises à jour, lorsque nous atteignons différentes étapes. 
 
-[The Nivenly Foundation](https://nivenly.org) is the parent organization for Hachyderm. The non-profit
-co-op itself is being founded over the course of 2023. Currently, Nivenly is a recognized non-profit in
-the State of Washington, with upcoming milestones to be completed with the IRS. Please check out Nivenly's
-[webpage](https://nivenly.org) and [Hachyderm account](https://hachyderm.io/@nivenly) for updates as we
-reach different milestones. 
+En ce qui concerne Hachyderm : puisque la Fondation Nivenly finance Hachyderm et d’autres projets, cela signifie que Nivenly dons et adhésions supportent _aussi_ Hachyderm. La principale différence entre les façons
+de soutenir Hachyderm est que les membres Nivenly participent aux élections des membres et les parrains non-membres et les donateurs ne le font pas. Les dons réguliers ne comptent pas pour les adhésions, mais vous pouvez changer votre préférence de donateur à membre à tout moment.
 
-As relevant to Hachyderm: since the Nivenly Foundation funds Hachyderm and other projects, this means
-that Nivenly donations and memberships _also_ support Hachyderm. The main difference between the paths
-of supporting Hachyderm is that Nivenly members take part in member elections and non-member sponsors
-and donors do not. Regular donations do not count as or toward memberships, but you can change your
-preference from donor to member at any time.
-
-General Nivenly Membership can be purchased through [Nivenly's new Open Collective page](https://opencollective.com/nivenly-foundation).
-If you are looking to join Nivenly as a project or trade member, you must email [info@nivenly.org](mailto:info@nivenly.org).
+L’Adhésion Générale peut être achetée par l’intermédiaire de [Nouvelle Page Open Collective de Nivenly](https://opencollective.com/nivenly-foundation).
+Si vous souhaitez rejoindre Nivenly en tant que membre de projet ou trader, vous devez envoyer un courriel à [info@nivenly.org](mailto:info@nivenly.org).
 
 
-#### Kris Nóva's Ko-Fi
+#### Ko-Fi de Kris Nóva 
 
-Originally, Hachyderm was primarily funded through donations to Kris Nóva's Ko-Fi. Although her
-Ko-Fi page is still active for her Twitch stream, please donate to Hachyderm using one of the paths
-above.
+À l’origine, Hachyderm était principalement financé par des dons via Ko-Fi de Kris Nóva. Bien que sa
+Ko-Fi page est toujours actif pour son flux Twitch, s’il vous plaît donner à Hachyderm en utilisant l’un des moyens ci-dessus.
+## Merci tout le monde!
 
-## Thank you everyone!
-
-Our first set of Thank Yous will be added here in April, one month after our March 2023 release.
-Updates afterward will be quarterly in June, September, and December 2023. We will update from our
-public GitHub Sponsors primarily, as we are treating private GitHub Sponsors, Ko-fi, and Stripe donations
-private. If you have sent us a donation via one of these and do _not_ want it to be private, and _do_ want
-to be on this page, please contact us at [admin@hachyderm.io](mailto:admin@hachyderm.io). The amount
-each donor donated will _not_ be listed on this page, name/handle only.
+Notre premier ensemble de remerciements sera ajouté ici en avril, un mois après notre publication de mars 2023. Les mises à jour subséquentes seront trimestrielles en juin, en septembre et en décembre 2023. 
+Nous mettrons à jour via notre publique Sponsors page de GitHub principalement, de ma même manière, nous traitons les sponsors de GitHub privés, les dons de Ko-fi et de Stripe privé.
+Si vous nous avez envoyé un don par l’un de ces moyens et que vous ne souhaitez pas qu’il soit privé, et que vous _voulez_ être sur cette page, veuillez nous contacter à [admin@hachyderm.io](mailto:admin@hachyderm.io). Le montant donné par chaque donateur ne sera pas indiqué sur cette page, nom/handle seulement.
