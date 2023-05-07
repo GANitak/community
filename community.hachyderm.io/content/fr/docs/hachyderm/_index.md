@@ -1,79 +1,66 @@
 ---
 title: "Bienvenue"
-linkTitle: "How to Hachyderm"
+linkTitle: "Comment Hachydermer"
 weight: 1
 description: >
-  New to Hachyderm and Mastodon in general? These docs are for
-  you! For deeper documentation about Mastodon features, please
-  refer to the Mastodon section.
+  Nouveau à Hachyderm et Mastodon en général? Ces documents sont pour
+  vous! Pour plus de documentation sur les caractéristiques de Mastodon, s’il vous plaît
+  se référer à la section Mastodon.
 ---
 
-## Hello Hachydermians
+## Bonjour Hachydermiens
 
-Hachydermians new and old, and recent migrants from other instances
-and platforms: hello and welcome!
+Hachydermiens nouveaux et anciens, et les migrants récents d’autres instances
+et plateformes : bonjour et bienvenue !
 
-This section is devoted to materials that help Hachydermians interact
-with each other and on the platform.
+Cette section est consacrée aux outils qui aident les Hachydermiens à interagir
+entre eux et sur la plateforme.
 
-## Quick FAQs for this section
+{{% pageinfo %}}
+<h5 class="text-center">This page was manually translated on 05/07/23. </br>Please utilize the English docs for the most up to date policies.</h5>
+{{% /pageinfo %}}
 
-### I'm new to Mastodon and the Fediverse - help?
+## Rapide FAQs pour cette section
 
-The two largest external resources we'd recommend are FediTips and Mastodon Help.
-FediTips are great for iterating as you become more and more familiar with engaging
-on the Fediverse. Mastodon Help is a great "101 Guide" to just get started.
+### Je suis nouveau à Mastodon et le Fediverse - aide?
 
-* [Mastodon Help site](https://mastodon.help/) (site only)
+Les deux plus importantes ressources externes que nous recommandons sont FediTips et Mastodon Help.
+FediTips est idéal pour itérer à mesure que vous vous familiarisez avec l'engagement sur le Fediverse. Mastodon Aide est un grand "101 Guide" pour juste commencer.
+
+* [Mastodon Help site](https://mastodon.help/) (juste le site)
 * [FediTips site](https://fedi.tips)
 * [FediTips Mastodon account](https://mstdn.social/@FediTips/)
 * [FediTips Hashtag](https://hachyderm.io/tags/FediTips)
 
-### I'm new to Hachyderm - help?
+### Je suis nouveau à Hachyderm - aide?
 
-First of all: welcome! We encourage new users to post an [introduction post](https://hachyderm.io/tags/Introduction)
-if and when they feel comfortable and ready. This can also help you engage with the community
-here as people follow that hashtag.
+Tout d’abord : bienvenue! Nous encourageons les nouveaux utilisateurs à publier un [post d'introduction](https://hachyderm.io/tags/Introduction) si et quand ils se sentent à l’aise et prêts. Cela peut également vous aider à engager avec la communauté ici comme les gens suivent ce mot-clic.
 
-Accessible content is important on the Fediverse. The quick asks of our server are outlined
-[near the top of our Accessible Posting doc](https://hachyderm.io/tags/Introduction). The doc
-itself dives into those with more nuance, thus the doc page itself is quite long. We recommend
-reading and understanding just the asks when you're getting started, then coming back once you're
-in a place to dive into the deeper explainations.
+Contenu accessible est important sur le Fediverse. Les demandes rapides de notre serveur sont décrites
+[vers le haut de notre doc Publication Accessible](https://hachyderm.io/tags/Introduction). Le doc
+lui-même plonge dans ceux avec plus de nuance, ainsi la page de doc elle-même est assez long. Nous recommandons de lire et comprendre juste les demandes quand vous commencez, puis revenir une fois que vous êtes en position pour plonger dans les explications plus profondes.
 
-Beyond that, you will need to understand [our server rules](/docs/server-rules/)
-and [permitted account types](/docs/account-types/) (if you're looking to create a non-general
-user account). The Rule Explainer doc, like the Accessible Posting doc, has the short
-list of rules at the top and then delves into them. Similar to Accessible Posting, we recommend
-that you familiarize yourself with the short list first, then read more once you're in a
-place to read the nuance.
+Au-delà de cela, vous devrez comprendre [nos règles de serveur](/docs/server-rules/)
+et [types de comptes autorisés](/docs/account-types/) (si vous cherchez à créer un compte utilisateur non-générique). Le document Rule Explainer, comme le document Publications Accessibles, contient la courte liste des règles en haut de la page, ensuite explorez-les Comme pour les publications accessibles, nous recommandons que vous vous familiarisez avec la courte liste d’abord, puis lisez plus, une fois que vous êtes prêts à lire les nuances.
 
-### What is hashtag etiquette on the Fediverse?
+### Qu’est-ce que le hashtag étiquette sur le Fediverse?
 
-Hashtag casing, and not misusing restricted hashtags, are important
-aspects of hashtag use on the Fediverse. For more, read [our Hashtag
-doc](hashtags/).
+La syntaxe hashtag, et ne pas mal utiliser les hashtags restreints, sont des aspects importants de l’utilisation hashtag sur le Fediverse. Pour en savoir plus, lire [notre doc Hashtag](hashtags/).
 
-### What are content warnings and how/when do I use them?
+### Que sont les avertissements de contenu et comment/quand les utiliser ?
 
-Content warnings are a feature that allows users to click-through to opt-in to
-your content rather than be opted-in by default. [Our Content Warnings doc](content-warnings/)
-explains this, and how to create an effective content warning, in more detail.
+Les avertissements de contenu sont une fonction qui permet aux utilisateurs de cliquer pour s’inscrire à votre contenu plutôt que d’opter par défaut. [Notre doc d'Avertissements de Contenu](content-warnings/)
+explique ceci, et comment créer un avertissement de contenu efficace, plus en détail.
 
-Content warnings are most commonly used for spoilers and for accessibility. For more about
-the latter, please read [our Accessible Posting doc](accessible-posts/).
+Les avertissements de contenu sont le plus souvent utilisés pour les spoilers et l’accessibilité. Pour en savoir plus ce dernier, veuillez lire [our Accessible Posting doc](accessible-posts/).
 
-### Why are the links in some profiles highlighted and green? What is verification?
+### Pourquoi les liens dans certains profils sont-ils mis en évidence et en vert? Qu’est-ce que la vérification?
 
-Mastodon uses a concept of verification that works like
-identity verification (Keybase, KeyOxide). For information about
-how you can verify your domains and so on, please see our
-[Mastodon Verification doc](/docs/mastodon/user/verification/).
+Mastodon utilise un concept de vérification qui fonctionne comme vérification de l’identité (Keybase, KeyOxide). Pour savoir comment vous pouvez vérifier vos domaines et ainsi de suite, s’il vous plaît voir notre
+[doc Mastodon Verification](/docs/mastodon/user/verification/).
 
-### The world is on fire, how do I help support myself while enjoying Hachyderm and the Fediverse?
+### Le monde est en feu, comment puis-je m'aider à me soutenir tout en appréciant Hachyderm et la Fediverse?
 
-There are many tools that allow you to control what content you
-are exposed to and how visible you want your account and posts to
-be. For information about these features and more, please see
-[our Mental Health doc](mental-health/).
+Il existe de nombreux outils qui vous permettent de contrôler le contenu auquel vous êtes exposé et la visibilité que vous souhaitez pour votre compte et vos publications. Pour plus d’informations sur ces fonctionnalités, veuillez consulter
+[notre doc Santé Mentale](mental-health/).
 

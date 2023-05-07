@@ -46,7 +46,7 @@ and [permitted account types](/docs/account-types/) (if you're looking to create
 user account). The Rule Explainer doc, like the Accessible Posting doc, has the short
 list of rules at the top and then delves into them. Similar to Accessible Posting, we recommend
 that you familiarize yourself with the short list first, then read more once you're in a
-place to read the nuance.
+place to read the nuances.
 
 ### What is hashtag etiquette on the Fediverse?
 
