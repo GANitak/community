@@ -1,432 +1,298 @@
 ---
-title: "Accessible Posting"
-linkTitle: "Accessible Posting"
+title: "Publication Accessible"
+linkTitle: "Publication Accessible"
 weight: 40
 description: >
-  Introduction to posting accessibly for new users.
+  Introduction à la publication accessible pour les nouveaux utilisateurs.
 ---
 
-## How to create accessible posts <!-- omit from toc -->
+## Comment créer des publications accessibles? <!-- omit from toc -->
+{{% pageinfo %}}
+<h5 class="text-center">This page was manually translated on 05/07/23. </br> Please utilize the English docs for the most up to date policies.</h5>
+{{% /pageinfo %}}
 
-This documentation page is an introductory guide for about posting
-accessibly on Hachyderm. As an introductory guide there are topics
-and sections that will need to be added and improved upon over time.
+Cette page de documentation est un guide d’introduction de publication accessiblement sur Hachyderm. Comme guide d’introduction il y a des sujets et des sections qui devront être ajoutées et améliorées au fil du temps.
 
-If you are looking for the short version of our asks here on Hachyderm,
-please read "What do we mean when we talk about accessibility",
-"what you should know and our asks", as well as the summary at the end of
-the document.
+Si vous cherchez la version courte de nos questions ici sur Hachyderm,
+s’il vous plaît lisez "Que voulons-nous dire quand nous parlons d’accessibilité",
+"ce que vous devez savoir et nos demandes", ainsi que le résumé à la fin du document.
 
-If you are looking for the underlying nuance and context to apply them more
-effectively and and take an active part in maintaining
-Hachyderm as a safe, active community, please read and reflect on each of the
-deeper sections.
+Si vous cherchez la nuance et le contexte sous-jacents pour les appliquer plus efficacement et participer activement au maintien de Hachyderm en tant que communauté sûre et active, veuillez lire et réfléchir plus en profondeur à chacune des sections.
 
-- [What do we mean when we talk about accessibility?](#what-do-we-mean-when-we-talk-about-accessibility)
-  - [What you should know and our asks](#what-you-should-know-and-our-asks)
-  - [Interactions on the internet](#interactions-on-the-internet)
-  - [Mastodon and Hachyderm](#mastodon-and-hachyderm)
-- [Navigating the complexity](#navigating-the-complexity)
-  - [Sensory](#sensory)
-    - [Visual](#visual)
+- [Qu’entendons-nous par accessibilité?](#what-do-we-mean-when-we-talk-about-accessibility)
+  - [Ce que vous devriez savoir et nos demandes](#what-you-should-know-and-our-asks)
+  - [Interactions sur internet](#interactions-on-the-internet)
+  - [Mastodon et Hachyderm](#mastodon-and-hachyderm)
+- [Naviguer la complexité](#navigating-the-complexity)
+  - [Sensoriel](#sensory)
+    - [Visuel](#visual)
     - [Audio](#audio)
-    - [Noise](#noise)
-  - [Interpretive](#interpretive)
+    - [Bruit](#noise)
+  - [Interprétatif](#interpretive)
     - [Neurodiverse](#neurodiverse)
-    - [Medical](#medical)
-    - [Traumas and phobias](#traumas-and-phobias)
-    - [Language accessibility and ease of translation](#language-accessibility-and-ease-of-translation)
-  - [Economic](#economic)
-- [Summary](#summary)
+    - [Médical](#medical)
+    - [Traumatismes et phobies](#traumas-and-phobias)
+    - [Accessibilité linguistique et facilité de traduction](#language-accessibility-and-ease-of-translation)
+  - [Economique](#economic)
+- [Synthèse](#summary)
 
 
-## What do we mean when we talk about accessibility?
+## Qu’entendons-nous par accessibilité?
 
-Accessibility means that as many people as possible can
-access your content if they choose to. Accessibility does not mean
-that you cannot otherwise _intentionally_ gate your content,
-for example via a [content warning](../content-warnings/). Rather,
-accessibility refers to the many ways that people typically create
-_unintentional_ gates around their content.
+L’accessibilité signifie que le plus grand nombre de personnes possible peuvent accéder à votre contenu s’il le souhaite. L’accessibilité ne signifie pas que vous ne pouvez pas _intentionnellement_ gérer votre contenu autrement, par exemple via un [avertissement de contenu](../content-warnings/). L’accessibilité renvoie, plutôt, aux nombreuses façons dont les gens créent habituellement des points de contrôle _non intentionnels_ autour de leur contenu.
 
-### What you should know and our asks
+### Ce que vous devriez savoir et nos demandes
 
-> No one on Hachyderm is expected to be an expert. Everyone on Hachyderm
-> is asked to approach accessibility with a growth mindset and to iterate
-> and change over time.
+> Personne sur Hachyderm n’est censé être un expert. Tout le monde sur Hachyderm
+> est invité à aborder l’accessibilité dans un esprit de croissance et à l'itérer
+> ainsi qu'à la changer au fil du temps.
 
-Whenever you receive a request from a group you are not yet
-familiar with, or who you do not interact with often enough to have cultural
-fluency, please take that request as a growth opportunity. This growth
-can happen with sustainable time and effort on your part.
+Chaque fois que vous recevez une demande d’un groupe que vous ne connaissez pas encore ou avec lequel vous n’interagissez pas assez souvent pour avoir une aisance culturelle, veuillez considérer cette demande comme une occasion de croissance. Cette croissance peut se produire avec du temps et des efforts durables de votre part.
 
-#### Our asks <!-- omit in toc -->
+#### Nos demandes <!-- omit in toc -->
 
-When posting accessibly:
+Lorsque vous publiez accessiblement :
 
-1. Include effective alt text for images.
-   * Note you cannot add alt text after posting by editing a post. This includes both creating
-     new alt text that was neglected or fixing existing alt text. The common work around
-     is to comment to your post with the alt text.
-1. Use PascalCase or camelCase for your hashtags.
-1. Learn how to write effective summaries for audio / video content.
-1. Prioritize audio content with captions and transcripts where available.
-1. Be aware how often you post paywalled content; not everyone has the same purchasing power.
-1. Learn how and when to use [effective content warnings](../content-warnings/).
-1. When writing posts for an international audience, minimize use of slang
-   and metaphor and instead use literal, direct, phrasing that can be easily
-   translated by translation tools.
-1. When someone makes a mistake regarding any of the above, please either help
-   them if you have the emotional space to do so or move on. Do not shame them
-   or sealion them.
+1. Inclure un texte **alt**ernatif efficace pour les images.
+   * Notez que vous ne pouvez pas ajouter de texte **alt**ernatif après avoir posté en éditant un message. Cela comprend à la fois la création d’un nouveau texte **alt**ernatif qui a été négligé ou la correction de texte de **alt**ernatif existant. Une technique courante est de commenter votre poste avec le texte **alt**ernatif
+1. Utilisez PascalCase ou camelCase pour vos hashtags.
+1. Apprenez à rédiger des synthèses efficaces pour du contenu audio ou vidéo.
+1. Prioriser le contenu audio avec sous-titres et transcriptions, si possible.
+1. Soyez conscient de la fréquence à laquelle vous publiez du contenu payant; tout le monde n’a pas le même pouvoir d’achat.
+1. Apprendre comment et quand utiliser [avertissements de contenu efficace](../content-warnings/).
+1. Lorsque vous rédigez des messages pour un public international, minimisez l’utilisation de l’argot et métaphore et au lieu d’utiliser littérale, directe, phrasé de manière à être facilement traduit par des outils de traduction.
+1. Lorsque quelqu’un commet une erreur à l’égard de l’une ou l’autre des situations ci-dessus, veuillez l’aider si vous avez l’espace émotionnel nécessaire ou passer à autre chose. Ne honte pas ou n'agit pas de manière toxique.
 
-Content warnings in particular are a useful feature that applies to many
-situations. As a reminder, we _request_ and _recommend_ content warnings
-as a general rule as opposed to _requiring_ them. (Please see
-[this document's summary](#summary) for more information about why this is.)
+Les avertissements de contenu en particulier sont une fonctionnalité utile qui s’applique à de nombreuses situations. À titre de rappel, nous _demandons_ et _recommendons_ les avertissements de contenu en règle générale plutôt qu'ils soient nécessaires.
+[Synthèse de ce document](#summary) pour en savoir plus sur les raisons.)
 
-The remainder of this introductory doc page will supply context
-and nuance to the above asks. The use of content warnings will come up
-heavily for [the interpretive section](#interpretive).
+Le reste de cette page de doc d’introduction fournira le contexte et la nuance aux demandes ci-dessus. L’utilisation des avertissements de contenu viendra fortement pour [la section d’interprétation](#interpretive).
 
-### Interactions on the internet
+### Interactions sur internet
 
-Breaking down the different ways that we send, receive, and interpret
-content on the internet can help when building an internal framework
-for "what is accessible".
+La décomposition des différentes façons dont nous envoyons, recevons et interprétons le contenu sur internet peut aider à construire un cadre interne pour "ce qui est accessible".
 
-When _receiving_ content on the internet, that content is typically:
+Lorsque _récevoir_ du contenu sur Internet, ce contenu est généralement :
 
-* Visual<br />
-  The text on this page, static or animated images, video
-* Auditory<br />
-  Non-visual audio content like podcasts, or audio content with visuals like a video.
+* Visuel<br />
+  Le texte sur cette page, images statiques ou animées, vidéo
+* Audition<br />
+  Contenu audio non visuel comme les podcasts, ou contenu audio avec des visuels comme une vidéo.
 * Tactile<br />
-  How we interact with visual content by "clicking here" or otherwise
-  interacting with the content we are receiving.<br />
-* Economic<br />
-  Content that requires individual purchase or subscription to access.
+  Comment nous interagissons avec le contenu visuel en « cliquant ici » ou autrement en interagissant avec le contenu que nous recevons.<br />
+* Economique<br />
+  Contenu qui nécessite un achat individuel ou un abonnement pour y accéder.
 
-When _sending_ content on the internet, the content is typically:
+Lors de _l’envoi_ de contenu sur Internet, le contenu est généralement :
 
-* Visual<br />
-  Same as the above, but something we are sending rather than receiving.
-* Auditory<br />
-  Same as the above, but something we are sending rather than receiving.
+* Visuel<br />
+  Même chose que ci-dessus, mais quelque chose que nous envoyons plutôt que de recevoir.
+* Audition<br />
+  Même chose que ci-dessus, mais quelque chose que nous envoyons plutôt que de recevoir.
 * Tactile<br />
-  Same as the above, but something we are sending rather than receiving.
-
-When _interpreting_ content on the internet, we are using:
-
-* Our available senses
-* Our neurodiversity
-* Our lived experiences, including but not limited to our socialization and culture
-* Our moral compasses and ethical alignments
-* Our primary language(s), spoken and signed
-* And so on.
-
-Generating _accessible content_ is the combinatorics problem of the above. Most commonly,
-accessibility is implemented by creating a "sensory backup" of the primary delivery of the
-content. For example, if the content is audio, it will have a (visual) transcript. If the
-content is visual, it will have descriptive text that can be audibly read. And so on.
-
-The interpretation aspect content is where "sensory backups" alone fall short. If
-someone is a trauma survivor, having a "sensory backup" of the content does not
-solve the particular difficulty they are having. If someone is having sensory overwhelm,
-pivoting to a different sense _may_ solve the particular difficulty they are having
-but it may also not. To dive into that a little deeper: if the difficulty they are
-having is that the web page is visually noisy, having a transcript that deeply
-describes all that visual noise and instead makes it auditory doesn't necessarily
-solve the difficulty. In fact, it might not even be desirable.
-
-### Mastodon and Hachyderm
-
-For the rest of this article, we will describe the ways that Hachydermians can
-begin to maximize the accessibility of their posts within the context of Mastodon.
-We will _not_ describe how the Mastodon software itself can be improved.
-This is only because that exceeds the scope of this
-page and our influence, not because it is unimportant. For those of you who have
-ideas for how Mastodon itself can be more accessible, we recommend
-[making PRs or opening GitHub issues on the Mastodon project repo](https://github.com/mastodon/mastodon).
+  Même chose que ci-dessus, mais quelque chose que nous envoyons plutôt que de recevoir.
 
 
-## Navigating the complexity
+Lorsque nous interprétons du contenu sur Internet, nous utilisons :
 
-To restate, this an introduction to some of what you will want to learn and internalize
-in order to create posts that are more accessible. Note that we didn't say "posts that
-are accessible", only "posts that are more accessible". The reason for this is the
-scope of humanity is broad, and learning about others is a lifelong journey. Being
-truly accessible not only with posts, but with software design and just general life,
-is an end goal you should strive to attain even if it can't be truly achieved.
+* Nos sens disponibles
+* Notre neurodiversité
+* Nos expériences, y compris, mais sans s’y limiter, notre socialisation et notre culture
+* Nos compas moraux et nos alignements éthiques
+* Notre langue principale, parlée et signée
+* Et ainsi de suite.
 
-### Sensory
+Générer du _contenu accessible_ est le problème combinatoire de ce qui précède. Le plus souvent,
+l’accessibilité est mise en œuvre par la création d’une "sauvegarde sensorielle" de la livraison principale du contenu. Par exemple, si le contenu est audio, il aura une transcription (visuelle). Si le contenu est visuel, il aura un texte descriptif qui peut être lu de façon audible. Et ainsi de suite.
 
-This first set of "things to consider" when you are creating content is based on
-the senses we described above that are used when others are _receiving_ the content
-you are creating.
+Le contenu de l’aspect interprétation est celui où les "sauvegardes sensorielles" seules sont insuffisantes. Si quelqu’un est un survivant de traumatisme, avoir une "sauvegarde sensorielle" du contenu ne résout pas la difficulté particulière qu’ils ont. Si quelqu’un est submergé sensoriellement, pivoter vers un sens différent _pourrai_ résoudre la difficulté particulière qu’il a, mais il peut aussi ne pas la résoudre. Si la difficulté qu’ils ont est que la page Web est visuellement bruyante, avoir une transcription qui décrit profondément tout ce bruit visuel et la rend auditive ne résout pas nécessairement la difficulté. En fait, ce n’est peut-être même pas souhaitable.
 
-#### Visual
 
-This section will be the longest one and will interplay with other sections below. That is
-because a lot of the content on Mastodon is _visual_ in nature, whether it is plain text,
-memes, or animated GIFs. Some common examples:
+### Mastodon et Hachyderm
 
-* Images, static and animated
-* Videos
-* "Fancy Text" and special characters
+Pour le reste de cet article, nous décrirons les façons dont les Hachydermiens peuvent commencer à maximiser l’accessibilité de leurs postes dans le contexte de Mastodon.
+Nous _ne décrirons pas_ comment le logiciel Mastodon lui-même peut être amélioré.
+C’est seulement parce que cela dépasse la portée de cette
+page et notre influence, pas parce qu’il est sans importance. Pour ceux d’entre vous qui ont des idées sur la façon dont Mastodon peut être plus accessible, nous vous recommandons de
+[faire des PR ou ouvrir des issues GitHub sur le projet Mastodon repo](https://github.com/mastodon/mastodon).
+
+
+## Naviguer la complexité
+
+Pour reformuler, ceci est une introduction de ce que vous voudrez apprendre et intérioriser afin de créer des messages qui sont plus accessibles. Notez que nous n’avons pas dit "publications qui sont accessibles", seulement "publications qui sont plus accessibles". La raison en est que la portée de l’humanité est vaste, et apprendre à connaître les autres est un voyage à vie. Être vraiment accessible non seulement avec des messages, mais avec la conception de logiciels et juste la vie en général, est un but final que vous devriez vous efforcer d’atteindre, même si elle ne peut pas être vraiment réalisé.
+
+### Sensoriel
+
+Ce premier ensemble de "choses à considérer" lorsque vous créez du contenu est fondé sur les sens que nous avons décrits ci-dessus et qui sont utilisés lorsque d’autres _reçoivent_ le contenu que vous créez.
+
+#### Visuel
+
+Cette section sera la plus longue et interagira avec les autres sections ci-dessous. C’est parce qu’une grande partie du contenu de Mastodon est de nature _visuelle_, qu’il s’agisse de texte brut, de mèmes ou de GIF animés. Voici quelques exemples courants :
+
+* Images, statiques et animées
+* Vidéos
+* "Texte fantaisie" et caractères spéciaux
 * Emoji
-* Hashtags
+* Mots-clics
 
-The direct asks for each of these:
+Les demandes directs pour chacun de ces :
 
-* Include effective alt text
-* Should have a summary, similar to the function of alt text
-* Minimize usage of "fancy text" and special characters
-* Favor longer, complete emoji names over shorter names
-* Use CamelCase
+* Inclure un texte **alt**ernatif efficace
+* Devrait avoir une synthèse, semblable à la fonction de texte **alt**ernatif
+* Minimiser l’utilisation de "texte fantaisie" et de caractères spéciaux
+* Privilégiez les noms emoji complets et plus longs que les noms plus courts
+* Utiliser CamelCase
 
-##### The context <!-- omit from toc -->
+##### The contexte <!-- omit from toc -->
 
-How do people who do not see, or see clearly, the above interact with the content? Typically,
-via screen readers. Screen readers are designed to not only read plaintext documents, like this page,
-but also to read any text associated with a visual. For images and video:
+Comment les personnes qui ne voient pas ou ne voient pas clairement ce qui précède interagissent-elles avec le contenu ? Habituellement, avec l’aide de lecteurs d’écran. Les lecteurs d’écran sont conçus non seulement pour lire des documents en clair, comme cette page, mais aussi pour lire tout texte associé à un visuel. Pour les images et les vidéos :
 
-* Images: will need to have alt text
-    * [Article about how to write good descriptive text by Harvard Digital Accessibility](https://accessibility.huit.harvard.edu/describe-content-images)
-* Videos: either a summary description and/or full transcript as appropriate
-    * [W3C Web Accessibility Initiative page for Audio and Video Content](https://www.w3.org/WAI/media/av/av-content/)
+* Images : texte **alt**ernatif requis
+    * [Article sur la façon d’écrire un bon texte descriptif par Harvard Digital Accessibility](https://accessibility.huit.harvard.edu/describe-content-images)
+*  Vidéos : soit une description récapitulative et/ou une transcription complète, le cas échéant
+    * [Page de l’Initiative d’Accessibilité Web du W3C pour le contenu audio et vidéo](https://www.w3.org/WAI/media/av/av-content/)
 
-But what about "fancy text", emoji, and hashtags? In fact, what do we mean by "fancy text"?
+Mais qu’en est-il du "texte fantaisiste", des émoticônes et des hashtags? En fait, qu’entendons-nous par "texte fantaisiste" ?
 
-"Fancy text" / special characters actually warrant an article of their own, and Scope has a lovely 2021 article titled
+Les "textes fantaisistes" et les caractères spéciaux justifient en fait un article qui leur est propre, et Scope a un bel article de 2021 intitulé
 [How special characters and symbols affect screen reader accessibility](https://business.scope.org.uk/article/accessibility-screen-readers-special-characters-and-unicode-symbols).
-The article shows how different special character "fonts", typically used to create italics or other visual
-effects, are read by screen readers for those who use them.
+L’article montre comment différentes "polices" de caractères spéciaux, habituellement utilisées pour créer des italiques ou d’autres effets visuels, sont lues par les lecteurs d’écran pour ceux qui les utilisent.
 
-The case is similar for emoji. While in the standard emoji set there is associated
-text for a screen reader to read, like a thumbs up 👍, when reading the text for a
-_custom_ emoji the only text available is the name that is supplied between the colons.
+Le cas est similaire pour les emoji. Alors que dans l’ensemble emoji standard il y a du texte associé pour un lecteur d’écran à lire, comme un pouce en l’air 👍, lors de la lecture du texte pour un emoji personnalisé le seul texte disponible est le nom qui est fourni entre les deux points.
 
-Importantly, this is why here on Hachyderm we favor emoji names like ":verified:" rather
-than "\:v\:", even though the latter is shorter. When a screen reader encounters the text
-"Jayne Cobb \:v\: :gh:" it will read "Jayne Cobb v g h". On the other hand when a screen
-reader encounters "Jayne Cobb :verified: :github:" it will read "Jayne Cobb verified github".
-One of these is significantly more accessible than the other.
+Ce qui est important, c’est pourquoi ici, sur Hachyderm, nous privilégions les noms emoji comme « :verified » plutôt que « :v :», même si ce dernier est plus court. Lorsqu’un lecteur d’écran rencontre le texte « Jayne Cobb :v : :gh:» il se lira « Jayne Cobb v g h ». D’autre part, lorsqu’un lecteur d’écran rencontre « Jayne Cobb :verified : :github:» il se lira « Jayne Cobb verified github ». L’un est beaucoup plus accessible que l’autre.
 
-Hashtags is the last heavily used "type" in the visual section. Many screen readers are aware of
-and able to read hashtags, but only when they use alternating case (PascalCase, camelCase).
-For those unfamiliar, that means that you should use the hashtag #SaturdayCaturday not
-#saturdaycaturday. To show the difference,
-[Belong AU has an excellent 17 second clip showing how screen readers read hashtags](https://twitter.com/BelongAU/status/1450711235704492035).
+Hashtags sont les dernier "type" très utilisé dans la section visuelle. Beaucoup de lecteurs d’écran sont conscients et capables de lire des hashtags, mais seulement lorsqu’ils utilisent un "case" alternatif (PascalCase, camelCase). Pour ceux qui ne connaissent pas, cela signifie que vous devriez utiliser le hashtag #SaturdayCaturday
+Pour montrer la différence, [Belong AU a un excellent clip de 17 secondes montrant comment les lecteurs d’écran lisent les hashtags](https://twitter.com/BelongAU/status/1450711235704492035).
 
 #### Audio
 
-Common sources of audio or audiovisual content on social media are:
+Les sources courantes de contenu audio ou audiovisuel sur les médias sociaux sont :
 
-* Podcasts, recorded messages, and so on.
-* Audio video content like YouTube, TikTok, etc.
+* Balados, messages enregistrés, etc.
+* Contenu vidéo audio comme YouTube, TikTok, etc.
 
-The asks for these:
+Les demandes pour ces:
 
-* When the content is your own, please have a transcript or similar available.
-* When the content is not your own, please favor content that has a transcript for longer
-  content as often as possible.
-* In either case, when posting the content include a short summary (similar to the function of alt text).
+* Lorsque le contenu vous appartient, veuillez avoir une transcription ou un document semblable à votre disposition.
+* Lorsque le contenu n’est pas le vôtre, veuillez privilégier le contenu qui comporte une transcription pour un contenu plus long le plus souvent possible.
+* Dans les deux cas, lorsque vous publiez le contenu, ajoutez un court résumé (similaire à la fonction de texte **alt**ernatif).
 
-##### The context <!-- omit from toc -->
+##### The contexte <!-- omit from toc -->
 
-Due to the sizes of audio files in posts, most audio content, or audiovisual content in the case
-of video, is not hosted on Hachyderm. Linked content comes from various news pages, podcast pages,
-Twitch streams, YouTube, TikTok, and so on. Unless you are the streamer, this also means that you
-don't have as much control over how the content is displayed or rendered, as you would for embedding
-a GIF or meme (with the alt text, etc.). For this reason, the biggest ask here is that you summarize
-audio or video when you post it, so that someone can get the gist of what is posted even if they
-cannot directly use the content. It also helps to start to be aware of what sources have captions
-(many video sites offer automated captions) as well as transcriptions. If you would like an example
-of a podcast that has a transcript, take a look at any of the episode pages for
-PagerDuty's [Page It to the Limit podcast](https://www.pageittothelimit.com/).
+En raison de la taille des fichiers audio dans les publications, la plupart du contenu audio, ou du contenu audiovisuel dans le cas de la vidéo, n’est pas hébergé sur Hachyderm. Le contenu lié provient de diverses pages de nouvelles, pages de podcast, flux Twitch, YouTube, TikTok, et ainsi de suite. Sauf si vous êtes le streamer, cela signifie également que vous n’avez pas autant de contrôle sur la façon dont le contenu est affiché ou rendu, que si vous le feriez pour intégrer un GIF ou un mème (avec le texte **alt**ernatif, etc.). Pour cette raison, la plus grande demande ici est que vous synthétisez audio ou vidéo lorsque vous le publiez, de sorte que quelqu’un peut obtenir l’essentiel de ce qui est publié, même si ils ne peut pas utiliser directement le contenu. Ça aide également à commencer à être conscient des sources qui ont des sous-titres (de nombreux sites vidéo offrent des sous-titres automatisés) ainsi que des transcriptions. Si vous souhaitez obtenir un exemple de balado comportant une transcription, jetez un coup d’œil aux pages de l’épisode de PagerDuty. [Page It to the Limit podcast](https://www.pageittothelimit.com/).
 
-#### Noise
+#### Bruit
 
-"Noise" in this sense applies to:
+"Bruit" dans ce sense correspond à :
 
-* "Too much" audio and/or visual content
-* "Too loud" audio and/or visual content
+* Contenu avec "trop" d'audio et/ou visuel
+* Contenu audio ou visuel "trop fort"
 
-The asks for these:
+Les demandes pour ceux-là :
 
-* Please call out in your post if your linked content fits either of the above.
+* Veuillez indiquer dans votre publication si votre contenu lié correspond à l’un ou l’autre des énoncés ci-dessus.
 
-##### The context <!-- omit from toc -->
+##### The contexte <!-- omit from toc -->
 
-For an example of what might be generating audiovisual noise, try navigating the internet without
-an adblocker or script blocker. Risk of malware aside, there are a lot of audio and/or visual
-ads placed all over web pages and there are frequently pop-ups, notifications, and cookie
-consent windows as well.
+Par exemple, ce qui pourrait générer du bruit audiovisuel, essayez de naviguer sur Internet sans adblocker ou bloqueur de script. Risque de logiciels malveillants mis à part, il y a beaucoup de publicités audio et / ou visuelles placées partout sur les pages Web et il y a souvent des fenêtres pop-ups, notifications, et cookies de consentement aussi.
 
-These situations are usually frustrating when you're trying to navigate the situation as-is, let alone
-what happens when you're trying to convert the page to one particular sense (auditory or visual).
+Ces situations sont généralement frustrantes lorsque vous essayez de naviguer dans la situation telle quelle, sans parler de ce qui se passe lorsque vous essayez de convertir la page à un sens particulier (auditif ou visuel).
 
-Most of these situations do _not_ apply on the Fediverse directly. They appear when links to other
-pages and content. To be clear, on Hachyderm we do not ask you to be responsible for the entirety
-of the internet. That said, if you are posting content that might be "noisy", it might be worth
-mentioning in your post that supplies a link.
+La plupart de ces situations _ne s’appliquent pas_ directement sur le Fediverse. Elles apparaissent lorsque des liens vers d’autres pages et contenus apparaissent. Pour être clair, sur Hachyderm nous ne vous demandons pas d’être responsable de l’intégralité de l’internet. Cela dit, si vous publiez du contenu qui pourrait être "bruyant", cela pourrait valoir la peine de le mentionner dans votre post que fournit un lien.
 
 ### Interpretive
 
-Interpretive accessibility is about how our minds understand presented information. This is a very
-broad set of topics as our minds use _a lot_ of data to process information. As an introduction,
-some common areas to consider for making interpretation more access are listed below.
+L’accessibilité interprétative concerne la façon dont notre esprit comprend l’information présentée. Il s’agit d’un ensemble très large de sujets, car nos esprits utilisent un grand nombre de données pour traiter l’information. En guise d’introduction, voici quelques points communs à considérer pour faciliter l’interprétation.
 
-Almost exclusively, the ask for assisting with accessible interpretation is:
+Presque exclusivement, la demande d’aide à l’interprétation accessible est :
 
-* [Use well written content warnings](../content-warnings/).
+* [Utiliser des avertissements bien écrits](../content-warnings/).
 
-Since the ask is almost always the same, unlike the above section this section will not have
-a "common examples" and "direct asks" pattern.  As an introduction we're
-calling out some of the most common barriers to interpretation, offering a suggestion to handle,
-and reminding everyone that we do not request or require anyone to become experts. Our main ask
-is that you continue to learn and grow in awareness.
+Puisque la question est presque toujours la même, contrairement à la section ci-dessus, cette section n’aura pas un "exemples communs" et "demande directe" modèle.  En guise d’introduction, nous soulignons certains des obstacles les plus courants à l’interprétation, nous offrons une suggestion à traiter et nous rappelons à tout le monde que nous ne demandons pas ou n’exigeons pas que quiconque devienne expert. Notre principale demande est que vous continuiez à apprendre et à grandir en conscience.
 
 #### Neurodiverse
 
-Neurodiversity is the umbrella term for "the range of differences in individual brain function
-and behavioral traits, regarded as part of the normal variation in the human population". (Oxford
-Dictionary) A few common attributes that are part of neurodiversity are:
+La neurodiversité est le terme général pour "la gamme des différences dans la fonction cérébrale individuelle et les traits comportementaux, considérés comme faisant partie de la variation normale dans la population humaine". (Oxford Dictionary) Quelques attributs communs qui font partie de la neurodiversité sont:
 
-* ADHD
-* Dyslexia, Dyscalculia
-* Autism / Spectrum
+* TDAH
+* Dyslexie, dyscalculie
+* Autisme/spectre
 
-There are more than these. The main underlying factors that define different aspects of neurodiversity
-are things like verbal / written skills, hyper/hypofocus, sensory interpretation (e.g. overwhelm when there's
-too much sensory input), mental visualization, and so on.
-[The Web Content Accessibility Guide article on Digital Accessibility and Neurodiversity](https://wcag.com/blog/digital-accessibility-and-neurodiversity/)
-has some excellent tips on the software design level that can also help you build your mental model
-while interacting with others.
+Il y a plus que ça. Les principaux facteurs sous-jacents qui définissent les différents aspects de la neurodiversité sont des choses comme les compétences verbales et écrites, l’hyperfocus et l’hypofocus, l’interprétation sensorielle (p. ex., submerger lorsqu’il y a trop d’intrants sensoriels), la visualisation mentale, et ainsi de suite.
+[L’article du Guide d’Accessibilité du Contenu Web sur l’Accessibilité Numérique et la Neurodiversité](https://wcag.com/blog/digital-accessibility-and-neurodiversity/)
+a quelques excellents conseils sur le niveau de conception du logiciel qui peut également vous aider à construire votre modèle mental tout en interagissant avec d’autres.
 
-Within the context of Mastodon, these will usually come up via links to shared content rather than
-anything hosted on the platform itself. That means that what you can do is include the relevant information
-when you are posting a link to other content. This can either be via a description in the post itself
-or, where relevant, crafting a [content warning](../content-warning/) for the post.
+Dans le contexte de Mastodon, ceux-ci apparaîtront généralement via des liens vers du contenu partagé plutôt que tout ce qui est hébergé sur la plateforme elle-même. Cela signifie que ce que vous pouvez faire est d’inclure les informations pertinentes lorsque vous publiez un lien vers d’autres contenus. Cela peut se faire par le biais d’une description dans le poste lui-même ou, le cas échéant, l’élaboration d’un [avertissement de contenu](../content-warning/) pour le post.
 
 
-#### Medical
+#### Médical
 
-One of the most common medical conditions that can cause issues with audiovisual content is seizures.
-Photosensitive seizures can be triggered by strobing, flickering, and similar visual effects.
-This would only come up if/when a user posted an animated image or video that contained effects similar to
-these. If you would like to read about this in more depth, please take a look at
-[Mozilla's Web accessibility for seizures and physical reactions page](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Seizure_disorders).
+L’une des affections médicales les plus courantes qui peut causer des problèmes de contenu audiovisuel est la saisie.
+Les convulsions photosensibles peuvent être déclenchées par stroboscopie, scintillement, et des effets visuels similaires.
+Cela ne se produirait que si/quand un utilisateur a posté une image animée ou une vidéo qui contenait des effets similaires à ceux-ci. Si vous souhaitez en savoir plus à ce sujet, veuillez consulter
+[Page Web de Mozilla sur les convulsions et les réactions physiques](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Seizure_disorders).
 
-The other two primary medical conditions that come up when interacting with social
-media are eating disorders and addictions. The former can be triggered by images of food,
-discussions of weight gain or loss, and so forth. The latter can be triggered by images
-and discussion around any addictive substance, which includes but is not limited to:
-food, alcohol, various recreational drugs, and gambling.
+Les deux autres problèmes de santé primaires qui surviennent lors de l’interaction avec les médias sociaux sont les troubles de l’alimentation et les dépendances. La première peut être déclenchée par des images d’aliments, des discussions sur le gain ou la perte de poids, etc. Cette dernière peut être déclenchée par des images et des discussions sur toute substance qui crée une dépendance, notamment :
+la nourriture, l’alcool, diverses drogues récréatives et le jeu.
 
-We do not ask that Hachydermians be medical experts in order to interact on the platform.
-The main ask to be aware of situations like these and use content warnings when posting
-content that might be triggering to these groups.
+Nous ne demandons pas que les Hachydermiens soient des experts médicaux afin d’interagir sur la plateforme.
+La principale demande est d’être conscient de situations comme celles-ci et d’utiliser des avertissements de contenu lors de la publication de contenu qui pourrait être déclenchant pour ces groupes.
 
-#### Traumas and phobias
+#### Traumatismes et phobies
 
-Trauma is a very broad category, and the nuance of what can trigger trauma varies between
-individuals. That said, there are some common examples of posting patterns that can be
-assumed to be generally traumatic:
+Le traumatisme est une catégorie très vaste, et la nuance de ce qui peut déclencher un traumatisme varie d’une personne à l’autre. Cela dit, il existe des exemples courants de modèles d’affichage qui peuvent être présumés généralement traumatisants :
 
-* If posting about trauma to an individual member of a community, either via a news cycle
-  or personal experience, in all likelihood the trauma for the collective group will be triggered.
-* If posting about any sort of violence, it can be assumed to be traumatic even to those
-  who have never experienced that type of violence. This includes various forms of violent
-  trauma humans can inflict on each other _as well as_ animal abuse and abuse to our environment.
-* If posting about wealth and poverty, and the topics in-between, it can be assumed that
-  this will trigger the trauma of the many who have had to interact with economic systems
-  from a place of disadvantage.
+* Si l’on affiche un message sur un traumatisme à un membre d’une communauté, soit via d’un cycle de nouvelles ou d’une expérience personnelle, le traumatisme pour le groupe collectif sera vraisemblablement déclenché.
+* S’il est question de violence, on peut supposer qu’elle est traumatisante, même pour ceux qui n’ont jamais vécu ce type de violence. Cela comprend diverses formes de traumatismes violents que les humains peuvent s’infliger les uns aux autres, _ainsi que_ la violence envers les animaux et la violence envers notre environnement.
+* Si vous publiez des articles sur la richesse et la pauvreté, et sur les sujets intermédiaires, on peut supposer que cela déclenchera le traumatisme de ceux qui ont dû interagir avec les systèmes économiques à partir d’un lieu défavorisé.
 
-There are many more traumas than these. There are also common phobias that humans have
-where the response patterns in the mind and body very directly mirror what happens in
-a traumatized person that has been triggered. Common categories of phobias include:
+Il y a beaucoup plus de traumatismes que ceux-ci. Il y a aussi des phobies communes que les humains ont où les schémas de réponse dans l’esprit et le corps reflètent très directement ce qui se passe chez une personne traumatisée qui a été déclenchée. Les catégories courantes de phobies comprennent :
 
-* Death
-* Disease
-* Enclosed spaces
-* Heights
+* Décès
+* Maladie
+* Espaces clos
+* Hauteurs
 
-We do not ask that Hachydermians be experts in trauma and phobias in order to interact
-on the platform. We do ask that users use content warnings when discussing heavy topics
-like the above. This is because, while there is a lot to be gained from discussion, those
-most impacted will see the same traumatic conversations over and over again. Especially if
-it's the Topic Du Jour (or week) or something has happened in a recent news cycle to prompt
-many simultaneous discussions.
+Nous ne demandons pas aux Hachydermiens d’être des experts en traumatismes et phobies afin d’interagir sur la plateforme. Nous demandons aux utilisateurs d’utiliser des avertissements de contenu lorsqu’ils discutent de sujets lourds comme ce qui précède. C’est parce que, bien qu’il y ait beaucoup à gagner de la discussion, les personnes les plus touchées verront les mêmes conversations traumatisantes encore et encore. Surtout si c’est le Topic Du Jour (ou la semaine) ou quelque chose s’est passé dans un cycle de nouvelles récentes pour provoquer de nombreuses discussions simultanées.
 
-#### Language accessibility and ease of translation
+#### Accessibilité linguistique et facilité de traduction
 
-The main goal here is to ensure that both plain text and text descriptions of media
-are copy/pasteable so they can be translated into a different language than they were
-composed in. This allows users that may not be fluent, or fluent enough, in the language
-the text was written in to use translation tools for assistance.
+L’objectif principal ici est de s’assurer que le texte en clair et les descriptions textuelles des médias sont copiables/lisibles afin qu’ils puissent être traduits dans une langue différente de celle dans laquelle ils ont été composés. Cela permet aux utilisateurs qui ne maîtrisent peut-être pas suffisamment la langue dans laquelle le texte a été rédigé d’utiliser des outils de traduction.
 
-For clarity: we do not expect any individual to be a hyperpolyglot. We do not expect Hachydermians
-to post translations of their posts either. What we are asking is for you to be aware of the issue
-and to be aware if you are posting something that cannot be copy/pasted into a third party
-tool for translation assistance if someone needs to do so.
+Par souci de clarté : nous ne nous attendons pas à ce qu’un individu soit hyperpolyglotte. Nous ne nous attendons pas non plus à ce que les Hachydermiens postent des traductions de leurs messages. Ce que nous vous demandons, c’est d’être au courant du problème et de savoir si vous publiez quelque chose qui ne peut pas être copié ou collé dans un outil tiers pour obtenir de l’aide à la traduction si quelqu’un doit le faire.
 
-Some examples:
+Quelques exemples :
 
-* Video content with captions in any language: can another language tool be used to translate
-      the captions and/or does the video host support multiple languages for their captions?
-* Video content with transcript: can that transcript be copy/pasted into a translation tool?
-* Plain-text post: can the post be copy/pasted into a translation tool?
-* Slang: most regional slang doesn't translate well when using tools. If you're making a post that
-         you want others to be able to easily translate, minimize the use of slang.
+* Contenu vidéo avec sous-titres dans n’importe quelle langue : un autre outil linguistique peut-il être utilisé pour traduire
+      les sous-titres et/ou l’hôte de la vidéo supporte-t-il plusieurs langues pour leurs sous-titres?
+* Contenu vidéo avec transcription : cette transcription peut-elle être copiée/collée dans un outil de traduction?
+* Poste en texte clair : le poste peut-il être copié/collé dans un outil de traduction?
+* Argot : l’argot régional ne se traduit pas bien lorsque vous utilisez des outils. Si vous faites un post que
+      vous voulez que les autres puissent traduire facilement, minimiser l’utilisation de l’argot.
 
-### Economic
+### Économique
 
-Within the context of Mastodon, this appears when posts are made that link to paywalled content.
-The paywall may be a direct purchase for that specific piece of content or the content is hosted
-by an entity that requires a subscription to access.
+Dans le contexte de Mastodon, cela apparaît lorsque les "posts" faits redirige vers du contenu payant.
+Le paywall peut être un achat direct pour ce contenu spécifique ou le contenu est hébergé par une entité qui nécessite un abonnement pour y accéder.
 
-From an accessibility and equity mindset: while people should be paid for their work, it is important
-to remember that not everyone can pay for the access to that work. They may be disadvantaged overall,
-or may live outside the country or countries that are allowed to pay for access to it.
+D’un point de vue d’accessibilité et d’équité : bien que les gens devraient être rémunérés pour leur travail, il est important de se rappeler que ce n’est pas tout le monde qui peut payer pour avoir accès à ce travail. Ils peuvent être désavantagés dans l’ensemble ou vivre à l’extérieur du pays ou des pays qui sont autorisés à payer pour y avoir accès.
 
-Another common pattern is for user data to be a type of payment. In this situation, someone must
-typically supply their email and some demographic information for free (as in currency) access
-to the content. Similar to the above, this can be an accessibility issue for those who have reason
-to only share their information cautiously. This is especially in light of increasingly common
-data breaches, where supplied data can be used to target individuals and groups.
+Une autre tendance courante est que les données des utilisateurs sont un type de paiement. Dans cette situation, une personne doit généralement fournir son courriel et certains renseignements démographiques pour un accès gratuit au contenu. Comme ce qui précède, il peut s’agir d’un problème d’accessibilité pour ceux qui ont des raisons de partager leurs renseignements avec prudence. Cela est particulièrement vrai à la lumière des violations de données de plus en plus courantes, où les données fournies peuvent être utilisées pour cibler des individus et des groupes.
 
-Here on Hachyderm _we do not moderate_ you for posting paywalled content. Within the context of
-accessibility, we ask _that you are aware_ (and call out) when you do and that you manage what
-you choose to share with care.
+Ici, sur Hachyderm, _nous ne vous modérons pas_ pour afficher du contenu payant. Dans le contexte de l’accessibilité, nous vous demandons _d’être conscient_ (et de le dire) lorsque vous le faites et de gérer avec soin ce que vous choisissez de partager.
 
-## Summary
+## Synthèse
 
-The length of this particular document should tell you that being accessible requires time and effort.
-As only an intro guide, it should also tell you that there is a lot happening on our biodiverse sphere.
+La longueur de ce document particulier devrait vous indiquer que l’accessibilité exige du temps et des efforts.
+En tant que guide d’introduction, il devrait aussi vous dire qu’il se passe beaucoup de choses sur notre sphère de la biodiversité.
 
-Diversity is one of the primary reasons we _request_, not _require_, use of content warnings in most
-cases. This is because there are many ways two or more groups may be in a state of genuine conflict
-without anyone being in the wrong. One quick example could be if someone was posting about weight loss
-or gain as a response to recovery from a medical issue that triggered someone else's eating disorder. 
-Another might be someone who needs to scream about how transphobia hurts them, while someone else needs to not
-be reminded that's still happening today.
+La diversité est l’une des principales raisons pour lesquelles nous _demandons_, non pas _exigeons_, l’utilisation d’avertissements de contenu dans la plupart des cas. C’est parce qu’il y a plusieurs façons dont deux ou plusieurs groupes peuvent être dans un état de conflit authentique sans que personne ne soit dans en tort. Un exemple rapide pourrait être si quelqu’un publiait sur la perte ou le gain de poids, en temps que réponse à la récupération d’un problème médical, qui a déclenché le trouble de l’alimentation de quelqu’un d’autre. 
+Un autre pourrait être quelqu’un qui a besoin de crier sur la façon dont la transphobie les blesse, tandis que quelqu’un d’autre n’a pas besoin de se rappeler que cela se produit encore aujourd’hui.
 
-Hachyderm needs to be able to accommodate all of these situations and more. To do so, we try to
-create space for disparate needs to co-exist. For situations where instance-level policy wouldn't be
-beneficial to the community, we ask individuals to [create and maintain their personal boundaries
-in a public space](../mental-health). We also ask everyone to use common keywords and hashtags
-so that those who are looking to filter that content can do so easily. As always, [please report](/docs/moderation/reporting/)
-malicious and manipulative individual users and instances to the moderation team.
+Hachyderm doit être en mesure de répondre à toutes ces situations et plus encore. Pour ce faire, nous essayons de créer un espace pour les besoins disparates de coexister. Dans les cas où une politique au niveau de l’instance ne serait pas avantageuse pour la collectivité, nous demandons aux particuliers d'[établir et maintenir leurs limites personnelles dans un espace public](../mental-health). 
+Nous demandons également à chacun d’utiliser des mots-clés et des hashtags communs afin que ceux qui cherchent à filtrer ce contenu puissent le faire facilement. Comme toujours, [veuillez signaler](/docs/moderation/reporting/) utilisateurs individuels malveillants et manipulateurs et instances à l’équipe de modération.
 
-As you learn and grow you may want to help others as well. This is great! Remember to do so only
-when you have the emotional space to help with grace. Different people are at different stages in
-different journeys, which means that the person who you are frustrated with for not understanding
-one facet of accessibility might be very adept with a facet you know very little of.
+À mesure que vous apprenez et que vous grandissez, vous voudrez peut-être aussi aider les autres. C’est formidable ! Rappelez-vous de le faire seulement quand vous avez l’espace émotionnel pour aider avec grâce. Différentes personnes sont à différentes étapes dans différents voyages, ce qui signifie que la personne avec qui vous êtes frustré de ne pas comprendre une facette de l’accessibilité pourrait être très habile avec une facette que vous connaissez très peu.
 
-If you run into situations where your needs and another's come into a state of conflict, please
-approach each other with compassion and respect. Please also remember that you can always walk away from
-disrespectful conversations for any reason. If the other person does not respect your boundaries and/or
-the space you are creating for yourself, you can also request moderator intervention by sending us
-a [report](/docs/moderation/reporting/).
+Si vous vous trouvez dans des situations où vos besoins et ceux des autres entrent en conflit, veuillez vous approcher les uns des autres avec compassion et respect. N’oubliez pas non plus que vous pouvez toujours éviter les conversations irrespectueuses pour n’importe quelle raison. Si l’autre personne ne respecte pas vos limites et/ou l’espace que vous créez pour vous-même, vous pouvez également demander l’intervention du modérateur en nous envoyant un [rapport](/docs/moderation/reporting/).

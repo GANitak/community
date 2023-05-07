@@ -6,7 +6,7 @@ description: >
   Introduction to posting accessibly for new users.
 ---
 
-## How to create accessible posts <!-- omit from toc -->
+## How to create accessible posts? <!-- omit from toc -->
 
 This documentation page is an introductory guide for about posting
 accessibly on Hachyderm. As an introductory guide there are topics
@@ -18,7 +18,7 @@ please read "What do we mean when we talk about accessibility",
 the document.
 
 If you are looking for the underlying nuance and context to apply them more
-effectively and and take an active part in maintaining
+effectively and take an active part in maintaining
 Hachyderm as a safe, active community, please read and reflect on each of the
 deeper sections.
 
