@@ -1,9 +1,9 @@
 ---
-title: "Moderator Covenant"
+title: "Convention de Modérateurs/trices"
 linkTitle: "Covenant"
 weight: 40
 description: >
-   How Hachyderm moderators moderate Hachyderm.
+  Comment Hachyderm modérateurs/trices modère Hachyderm.
 ---
 
 This is the set of principles that Hachyderm moderators agree to
@@ -113,15 +113,6 @@ same, or similar, infractions.
 1. **We will take actions to prevent learning at the community’s
 expense.**<br />
 Specifically:
-    - We will proactively learn and grow to prevent our growth as
-	  individuals and moderators from coming at the community's
-	  expense.
-	- We acknowledge when a user has been reported specifically
-	  for being harmful in the community, they have already caused that harm. While we
-      Understand That People Need to Grow, we will not allow that growth
-      to happen at the expense of the community. That means that when a
-      user is reported for harmful action(s) and we determine there is a
-      risk of future behavior, and/or that the user is not displaying a
-      growth mindset when already prompted, that we will choose
-      action(s) that Prioritize Making Safety the Sustainable State.
+  - Nous apprendrons et grandirons de façon proactive pour empêcher notre croissance en tant qu’individus et modérateurs/trices de se faire au détriment de la communauté.
+	- Nous reconnaissons que lorsqu’un utilisateur a été signalé comme étant nuisible dans la communauté, ils ont déjà causé du mal. Bien que nous comprenions que les Gens ont Besoin de Croître, nous ne permettrons pas que cette croissance se fasse aux dépens de la communauté. Cela signifie que lorsqu’un utilisateur est signalé pour des actions nuisibles et que nous déterminons qu’il y a un risque de comportement futur et/ou que l’utilisateur n’affiche pas un état d’esprit de croissance lorsqu’il a déjà été avisé, nous choisirons des actions qui Priorisent la Sécurité comme État Durable.
 

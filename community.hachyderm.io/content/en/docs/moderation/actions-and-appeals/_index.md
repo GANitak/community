@@ -155,7 +155,7 @@ You may respond to any moderator action with an appeal. In all cases except for
 it is in your interest to file an appeal to start or continue a conversation
 about what you reported for.
 
-#### When not to appeal
+#### When not to appeal ?
 
 The only two situations when filing an appeal will not be helpful. If
 the harm done to the community is repetitive (before it was caught) and
@@ -172,9 +172,9 @@ For clarity: if your account was suspended (or frozen) due to being either
 for your account type (bots, companies, etc.) then you _should_ file an
 appeal.
 
-#### When to appeal
+#### When to appeal ?
 
-If the reason that your account was flagged for a rules violation was
+If the reason that your account was flagged for a rule violation was
 incorrect, you _should_ file an appeal. We again ask for patience and
 understanding as we work with you to correct our mistake in that case.
 
