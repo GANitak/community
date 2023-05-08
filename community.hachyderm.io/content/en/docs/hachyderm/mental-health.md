@@ -75,7 +75,7 @@ These are the features that Mastodon built and highlighted for dealing with
   * You can filter by hashtag and/or keyword
   * You can filter permanently or set an expiration date for the filter
   * This feature is most useful when you want to completely opt-in or opt-out of content.
-    * opt-in: perhaps you want to follow all Caturday posts in a separate panel or follow cat posts generally.
+    * opt-in: perhaps you want to follow all **Caturday** posts in a separate panel or follow **cat** posts generally.
     * opt-out: you do not want to be subject to the unpredictable news cycles around events that
                impact a group you're a member of. Even if people are expressing support for you, you just
                do not want to see any of it at all ever.
@@ -101,7 +101,7 @@ These are the features that Mastodon built and highlighted for dealing with
     * When you block another server you will not see any activity from any user on that instance. Instance
       admins and other users are not notified when you have blocked their instance.
 
-How to implement all of these features are on [Mastodon's Dealing with unwanted content doc page](https://docs.joinmastodon.org/user/moderating/).
+How to implement all of these features, are on [Mastodon's Dealing with unwanted content doc page](https://docs.joinmastodon.org/user/moderating/).
 Please refer to the documentation page for the implementation detail for each.
 
 ### Additional features

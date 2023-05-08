@@ -1,375 +1,273 @@
 ---
-title: "Preserving Your Mental Health"
-linkTitle: "Mental Health"
+title: "Préserver votre Santé Mentale"
+linkTitle: "Santé Mentale"
 weight: 40
 description: >
-  How to use the Mastodon tools help preserve your mental health on the Fediverse.
+  Comment utiliser les outils Mastodon vous aident à préserver votre santé mentale sur le Fediverse.
 ---
 
-## Social media and your mental health <!-- omit from toc -->
+## Les médias sociaux et votre santé mentale <!-- omit from toc -->
 
-There are many articles available online about social media, general online
-engagement, and mental health. This document is going to focus on a subset
-of these and focus on helping you use the Mastodon tools to uphold your
-personal needs and boundaries.
+{{% pageinfo %}}
+<h5 class="text-center">This page was manually translated on 05/08/23. </br> Please utilize the English docs for the most up to date policies.</h5>
+{{% /pageinfo %}}
 
-- [Moderation action and individual action](#moderation-action-and-individual-action)
-- [Mastodon tools at your disposal](#mastodon-tools-at-your-disposal)
-  - [Unwanted content](#unwanted-content)
-  - [Additional features](#additional-features)
-- [Patterns for a better Fediverse experience](#patterns-for-a-better-fediverse-experience)
-  - [Control what content you are exposed to](#control-what-content-you-are-exposed-to)
-    - [Proactively filter content](#proactively-filter-content)
-    - [Proactively obscure media](#proactively-obscure-media)
-  - [Control access to your posts and account](#control-access-to-your-posts-and-account)
+De nombreux articles sont disponibles en ligne sur les médias sociaux, l’engagement général en ligne et la santé mentale. Le présent document se concentrera sur un sous-ensemble de ces éléments et vous aidera à utiliser les outils Mastodon pour respecter vos besoins personnels et vos limites.
+
+- [Action de modération et action individuelle](#moderation-action-and-individual-action)
+- [Outils de Mastodon à votre disposition](#mastodon-tools-at-your-disposal)
+  - [Contenu indésirable](#unwanted-content)
+  - [Fonctionnalités supplémentaires](#additional-features)
+- [Modèles pour une meilleure expérience du Fediverse](#patterns-for-a-better-fediverse-experience)
+  - [Contrôler le contenu auquel vous êtes exposé](#control-what-content-you-are-exposed-to)
+    - [Filtrer le contenu de façon proactive](#proactively-filter-content)
+    - [Obscurcir proactivement les médias](#proactively-obscure-media)
+  - [Contrôler l’accès à vos publications et à votre compte](#control-access-to-your-posts-and-account)
     - [Protect your personal information](#protect-your-personal-information)
-    - [Limit how and who can interact with your account as needed](#limit-how-and-who-can-interact-with-your-account-as-needed)
-    - [Be aware of how the DM feature is implemented](#be-aware-of-how-the-dm-feature-is-implemented)
-  - [Collective action requires a collective](#collective-action-requires-a-collective)
-    - [Give yourself permission](#give-yourself-permission)
-  - [Create and maintain interpersonal boundaries](#create-and-maintain-interpersonal-boundaries)
-      - [When someone violates your boundaries](#when-someone-violates-your-boundaries)
-      - [When you violate someone else's boundaries](#when-you-violate-someone-elses-boundaries)
+    - [Limitez la façon dont vous pouvez interagir avec votre compte et qui peut le faire, au besoin.](#limit-how-and-who-can-interact-with-your-account-as-needed)
+    - [Connaître la mise en œuvre de la fonctionnalité DM](#be-aware-of-how-the-dm-feature-is-implemented)
+  - [L’action collective exige un collectif](#collective-action-requires-a-collective)
+    - [Donnez-vous la permission](#give-yourself-permission)
+  - [Établir et maintenir des limites interpersonnelles](#create-and-maintain-interpersonal-boundaries)
+      - [Quand quelqu’un viole vos limites](#when-someone-violates-your-boundaries)
+      - [Quand vous violez les limites de quelqu’un d’autre](#when-you-violate-someone-elses-boundaries)
 
-## Moderation action and individual action
+## Action de modération et action individuelle
 
-As you navigate the Fediverse, you will frequently run into situations where you need
-to decide if a situation can or should be handled by you individually, by the moderation team,
-or both. When you are deciding which action(s) to take, the main question you should ask is:
+Pendant que vous naviguez dans le Fediverse, vous rencontrerez fréquemment des situations où vous devez décider si une situation peut ou doit être traitée par vous individuellement, par l’équipe de modération, ou les deux. Lorsque vous décidez des mesures à prendre, la principale question que vous devez vous poser est la suivante :
 
-> Is the discussion / interaction that I encountered something that I need to avoid
-> for my own mental health, or is it something that poses a community risk that needs to
-> be handled by moderation?
+> La discussion ou l’interaction que j’ai rencontrée est-elle quelque chose que j'ai besoin éviter?
+> pour ma propre santé mentale, ou est-ce quelque chose qui pose un risque communautaire qui doit
+> être traités par modération ?
 
-A couple examples of discussions or interactions that would have a negative impact on the community:
+Voici quelques exemples de discussions ou d’interactions qui auraient une incidence négative sur la collectivité :
 
-* Any posts that are supporting or perpetuating racist, homophobic, transphobic, and other \*ist / \*phobic viewpoints.
-* Any interactions where a user or users is targeting an individual or group for stalking and/or harassment.
+* Toute publication qui soutient ou perpétue des points de vue racistes, homophobes, transphobes et autres  *ist /  *phobic.
+* Toute interaction où un utilisateur ou des utilisateurs ciblent une personne ou un groupe pour harcèlement.
 
-A couple examples of discussions that can have a positive impact on the community as a whole
-but can have a negative impact on individuals:
+Voici quelques exemples de discussions qui peuvent avoir une incidence positive sur la collectivité dans son ensemble, mais qui peuvent avoir une incidence négative sur les individus :
 
-* Posts sharing and discussing news cycles around individual or state violence,<br />
-  even if they are condemning that violence.
-  * Individuals and communities that are the current or historic target of that violence may be triggered.
-* Posts about individual exposure to, or recovery from, various forms of trauma.
-  * Individuals who have been exposed to the same, or similar, situations may be triggered.
+* Publier des articles sur les cycles de nouvelles entourant la violence individuelle ou étatique<br />
+  même s’ils condamnent cette violence.
+  * Les personnes et les communautés qui sont la cible actuelle ou historique de cette violence peuvent être déclenchées.
+* Publications sur l’exposition individuelle à diverses formes de traumatisme ou sur la guérison de celles-ci.
+  * Les personnes qui ont été exposées à des situations identiques ou similaires peuvent être mises à cran.
 
-The above examples are not comprehensive, but do show situations where you may need to protect
-your own individual mental health even as communities across the Fediverse discuss and interact
-in ways that show collective growth.
+Les exemples ci-dessus ne sont pas complets, mais montrent des situations où vous pouvez avoir besoin de protéger votre propre santé mentale individuelle, même lorsque les communautés à travers le Fediverse discutent et interagissent de manière à avoir une croissance collective.
 
-## Mastodon tools at your disposal 
+## Outils de Mastodon à votre disposition 
 
-Being online is a bit like being in a crowded room or stadium, depending on
-the audience size. That means when you go to take a step back, you may need
-to use some of the Mastodon tools to help you maintain the space you're trying
-to create for yourself either temporarily or permanently. 
+Être en ligne est un peu comme être dans une salle ou un stade bondé, selon la taille de l’auditoire. Cela signifie que lorsque vous prenez du recul, vous devrez peut-être utiliser certains des outils Mastodon pour vous aider à maintenir l’espace que vous essayez de créer pour vous-même, temporairement ou définitivement. 
 
-### Unwanted content
+### Contenu indésirable
 
-These are the features that Mastodon built and highlighted for dealing with
-[unwanted content](https://docs.joinmastodon.org/user/moderating):
+Ce sont les caractéristiques que Mastodon construit et mis en évidence pour traiter le
+[contenu indésirable](https://docs.joinmastodon.org/user/moderating):
 
-* Filtering
-  * You can filter by hashtag and/or keyword
-  * You can filter permanently or set an expiration date for the filter
-  * This feature is most useful when you want to completely opt-in or opt-out of content.
-    * opt-in: perhaps you want to follow all Caturday posts in a separate panel or follow cat posts generally.
-    * opt-out: you do not want to be subject to the unpredictable news cycles around events that
-               impact a group you're a member of. Even if people are expressing support for you, you just
-               do not want to see any of it at all ever.
-* Other users
-  * Following/Unfollowing
-    * Following: explicitly opt-in to another user's posts, boosts, etc.
-    * Unfollowing / not following: a passive opt-out. You will still see posts / etc. if a user you are
-          following interacts with them.
-  * Muting / Blocking
-    * Mute: You will not see another user's posts, boosts, etc. but they can see and interact with yours. (Note:
-          you will not see them doing so.) Users are not notified when they are muted.
-    * Block: You will not see another user's posts, boosts, etc. _and_ they cannot see yours. Users are not
-          notified when they are blocked, but as your content "disappears" for them most users can tell if
-          they're blocked.
-    * Hiding boosts
-      * Less commonly used tool, mainly helpful if you feel another account's boosts are "noisy" but their
-        content is otherwise fine.
-* Other instances 
-  * Block
-    * This is the only action available to individual users. Moderation tools allow for more nuanced
-      instance-level implementations including allowing posts but hiding media. (Please see [Mastodon's instance
-      moderation documentation page](https://docs.joinmastodon.org/admin/moderation/) for the complete list.)
-    * When you block another server you will not see any activity from any user on that instance. Instance
-      admins and other users are not notified when you have blocked their instance.
+* Filtrage
+  * Vous pouvez filtrer par hashtag (mot-clic) ou keyword (mot-clé).
+  * Vous pouvez filtrer de manière permanente ou fixer une date d’expiration pour le filtre
+  * Cette fonction est particulièrement utile lorsque vous souhaitez vous, inscrire / désinscrire complètement du contenu.
+    * opt-in : peut-être que vous voulez suivre tous les posts **Caturday** dans un panneau séparé ou suivre les posts **cat** en général.
+    * Refus (Opt-out): vous ne voulez pas être soumis aux cycles de nouvelles (news) imprévisibles entourant les événements qui touchent un groupe dont vous êtes membre. Même si les gens expriment leur soutien pour vous, vous ne voulez tout simplement jamais voir tout cela.
+* Autres utilisateurs
+  * Suivie /Non-Suivie
+    * Suivie : Opt-in explicite aux publications d’un autre utilisateur, boosts, etc.
+    * Non-Suivie / ne pas suivre : un refus passif. Vous verrez toujours des publications / etc. si un utilisateur que vous
+          suivez interagit avec eux.
+  * Muté /bloqué
+    * Mute (Sourdine) : Vous ne verrez pas les postes d’un autre utilisateur, les boosts, etc., mais ils peuvent voir et interagir avec les vôtres. (Remarque :
+          vous ne les verrez pas faire. ) Les utilisateurs ne sont pas notifiés lorsqu’ils sont désactivés.
+    * Blocage : Vous ne verrez pas les postes, les boosts, etc. d’un autre utilisateur et ils ne verront pas les vôtres. Les utilisateurs ne sont pas notifié quand ils sont bloqués, mais comme votre contenu "disparaît" pour eux la plupart des utilisateurs peuvent dire s’ils sont bloqués.
+    * Cacher les boosts
+      * Outil moins utilisé, principalement utile si vous sentez que les boosts d’un autre compte sont « bruyants », mais que leur contenu est acceptable.
+* Autres instances
+  * Blocage
+    * Il s’agit de la seule action disponible pour les utilisateurs individuels. Les outils de modération permettent des implémentations plus nuancées au niveau de l’instance, y compris l’autorisation de postes mais le masquage des médias. (Veuillez consulter [Page de documentation de modération de l’instance de Mastodon](https://docs.joinmastodon.org/admin/moderation/) pour la liste complète.)
+    * Lorsque vous bloquez un autre serveur, vous ne verrez aucune activité d’aucun utilisateur sur cette instance. Les administrateurs d’instance et les autres utilisateurs ne sont pas notifiés lorsque vous avez bloqué leur instance.
 
-How to implement all of these features are on [Mastodon's Dealing with unwanted content doc page](https://docs.joinmastodon.org/user/moderating/).
-Please refer to the documentation page for the implementation detail for each.
+Comment mettre en œuvre toutes ces fonctionnalités, sont sur [la page de Mastodon Traitement des documents de contenu indésirables(https://docs.joinmastodon.org/user/moderating/).
+Veuillez vous référer à la page de documentation pour les détails de mise en œuvre pour chacun.
 
-### Additional features
+### Fonctions supplémentaires
 
-There are many more Mastodon features that you can use to help improve your experience of the Fediverse,
-in particular in your account profile and preferences settings. These features mostly control the visibility of
-your profile, your posts, and the posts of others.
+Il y a beaucoup plus de fonctionnalités Mastodon que vous pouvez utiliser pour améliorer votre expérience du Fediverse, en particulier dans votre profil de compte et les paramètres de préférences. Ces caractéristiques contrôlent principalement la visibilité de votre profil, vos publications et celles des autres.
 
-* Limiting how other accounts interact with yours (or not)
-  * Follow requests
-    * When enabled, you need to explicitly approve a potential follower. Only approved accounts can follow you.
-  * Hide your social graph
-    * When enabled, other accounts cannot see your followers or who you're following.
-  * Suggest your account to others.
-    * Disabled by default. When enabled your account is suggested to others to follow, increasing your visibility.
-  * DMs, important notes:
-    * DMs cannot be disabled and you cannot restrict who is able to DM you (e.g. Followers Only).
-    * When you include a new user to an existing DM, they can see the DM entire DM history. This is more like adding
-      a new user to a private Slack channel than the way other tools handle DMs by creating a new group thread with no history.
-* Limiting post / account visibility (or not)
-  * Posting privacy
-    * Can be set to public, followers only, or "unlisted". The latter means that someone can see your activity by going
-      to your profile, but cannot see your activity in any of their individual, local, or federating timelines.
-  * Opting out of search engine indexing
-    * [Important note that there are limitations to this feature](https://nexusofprivacy.net/mastodon-privacy-remember-that-public-and-unlisted-posts-can-be-indexed-by-search-engines/). Treat all of your data
-      as public data.
-  * How media displays
-    * Can be set to always show, always hide, or to only hide when marked sensitive. If you find that media such as static
-      and/or animated images, video, etc. have a negative impact on your mental health, you might want to enable Always Hide.
-  * Disable content warnings
-    * If you find that content warnings create more barriers than access, you may want to enable "always expand posts marked
-      with content warnings".
-  * Slow mode
-    * Enabling this feature means you will need to refresh for new posts to be added to the timeline you're
-      currently viewing.
+* Limiter la façon dont les autres comptes interagissent avec les vôtres (ou non)
+  * Demandes de Suivie
+    * Lorsque cette option est activée, vous devez approuver explicitement un abonné potentiel. Seuls les comptes approuvés peuvent vous suivre.
+  * Masquer votre graphique social
+    * Limiter la façon dont les autres comptes interagissent avec les vôtres (ou non)
+  * Demandes de Suivie
+    * Lorsque cette option est activée, vous devez approuver explicitement un abonné potentiel. Seuls les comptes approuvés peuvent vous suivre.
+  * Masquer votre graphique social
+  * Les DM ne peuvent pas être désactivés et vous ne pouvez pas restreindre qui est en mesure de vous DM (p. ex., abonnés seulement).
+    * Lorsque vous incluez un nouvel utilisateur à un DM existant, il peut voir l’historique complet du DM. C’est plus comme ajouter un nouvel utilisateur à un canal Slack privé, plutôt que la façon dont les autres outils gèrent les DM en créant un nouveau thread de groupe sans historique.
+* Limitation (ou non) de la visibilité du compte
+  * Confidentialité des Publications 
+    * Peut être défini sur public, abonnés seulement, ou "unlisted" (non répertorié). Cette dernière signifie que quelqu’un peut voir votre activité en consultant votre profil, mais ne peut voir votre activité dans aucun de leur timelines individuels, locaux ou fédérées.
+  * Retrait de l’indexation des moteurs de recherche
+    * [Remarque importante : cette fonction comporte des limites](https://nexusofprivacy.net/mastodon-privacy-remember-that-public-and-unlisted-posts-can-be-indexed-by-search-engines/). 
+    Traitez toutes vos données comme des données publiques.
+  * Affichage des médias 
+    * Peut être configuré pour toujours s'afficher, être masqué ou masquer uniquement lorsque marquée comme sensible. Si vous constatez que les médias comme les images statiques et/ou animées, les vidéos, etc. ont un impact négatif sur votre santé mentale, vous pourriez vouloir activer Toujours Cacher.
+  * Désactiver les avertissements de contenu
+    * Si vous constatez que les avertissements de contenu créent plus d’obstacles que d’accès, vous pouvez activer l’option « toujours développer les postes marqués d’avertissements de contenu ».
+  * Mode lent
+    * L’activation de cette fonction signifie que vous devrez actualiser les nouvelles publications pour les ajouter à la timeline que vous consultez actuellement.
 
-The above are all set in your profile and preferences. We have documented how to configure these settings on
-our our [Mastodon User Profile and Preferences](/docs/mastodon/user/profile-preferences/)
-doc page.
+Tout ce qui précède est défini dans votre profil et vos préférences. Nous avons documenté la façon de configurer ces paramètres dans notre [Profil d’utilisateur et préférences Mastodon](/docs/mastodon/user/profile-preferences/) page de doc.
 
-## Patterns for a better Fediverse experience
+## Modèles pour une meilleure expérience Fediverse
 
-Here we are detailing patterns that you can implement and iterate to improve
-your Fediverse experience. The tools that can assist are directly referenced
-in each section. For how to implement, please see the docs linked in the above
-[Mastodon tools at your disposal](#mastodon-tools-at-your-disposal) section.
+Ici, nous détaillons les modèles que vous pouvez mettre en œuvre et itérer pour améliorer votre expérience Fediverse. Les outils qui peuvent aider sont directement mentionnés dans chaque section. Pour savoir comment mettre en œuvre, veuillez consulter les documents ci-dessus [Outils Mastodon à votre disposition](#mastodon-tools-at-your-disposal) section.
 
-### Control what content you are exposed to
+### Contrôler le contenu auquel vous êtes exposé
 
-The mental model that helps the most here is to realize that social media by design opts
-everyone into all content by default. Additional tooling constrains this default opt
-in, either by creating a new default of opt-out or by creating situational opt-outs.
+Le modèle mental qui aide le plus ici est de réaliser que les médias sociaux par conception opte tout le monde dans tout le contenu par défaut. D’autres outils limitent cette option par défaut, soit en créant une nouvelle option par défaut, soit en créant des options de refus situationnelles.
 
-Deciding which opt-outs you want to implement will inform what tools you choose to
-use for your benefit. 
+Décider des options de retrait que vous voulez mettre en œuvre indiquera quels outils vous choisissez d’utiliser pour votre avantage. 
 
-#### Proactively filter content
+#### Filtrer le contenu de façon proactive
 
-There will be times that you will want and need to filter content. This might be
-permanent or temporary. 
+Il y aura des moments où vous voudrez et devrez filtrer le contenu. Cela pourrait être permanent ou temporaire. 
 
-* Active opt-in<br />
-  Following keywords and hashtags can provide relief when you need to decompress. Cats, math,
-  stomatopoda - anything that helps.
-* Active opt-out<br />
-  You can filter out keywords and hashtags to either temporarily or permanently remove yourself
-  from certain content and discussions.
 
-We recommend filtering out words, phrases, and/or hashtags that:
+* Participation active<br />
+  Les mots-clés et hashtags suivants peuvent vous soulager lorsque vous avez besoin de décompresser. Chats, mathématiques, stomatopodes - tout ce qui aide.
+* Retrait actif<br />
+  Vous pouvez filtrer les mots-clés et les hashtags pour vous retirer temporairement ou définitivement de certains contenus et discussions.
 
-* You do not want to be exposed to, for any reason.
-  * This includes not wanting to be exposed to messages of support,
-    which can have the unintended, added consequence of reminding you
-    why support is needed. "For any reason" is for any reason.
-* You do not want to be exposed to even via reference in a content warning.
+Nous recommandons de filtrer les mots, les phrases et/ou les mots-clics auxquels :
 
-Filters will filter out posts with content warnings as well.
-When you filter out content you will still be able to see other posts from other users
-you do not actively block in your follows, local, and federated timelines.
+* Vous ne voulez pas être exposé, pour quelque raison que ce soit.
+  * Cela comprend le fait de ne pas vouloir être exposé à des postes de soutien, ce qui peut avoir comme conséquence imprévue de vous rappeler pourquoi le soutien est nécessaire. "Pour n’importe quelle raison" est pour n’importe quelle raison.
+* Vous ne voulez pas être exposé même par référence dans un avertissement de contenu.
 
-Note that you can choose to filter or block content as a separate choice from
-[choosing to report it to the mods](/docs/moderation/reporting/). We will still see the report.
+Les filtres filtreront également les postes avec des avertissements de contenu.
+Lorsque vous filtrez le contenu, vous serez toujours en mesure de voir d’autres messages d’autres utilisateurs que vous ne bloquez pas activement dans vos timelines suivies, locales et fédérées.
 
-#### Proactively obscure media
+Notez que vous pouvez choisir de filtrer ou de bloquer le contenu comme un choix distinct, au lieu de [choisir de le rapporter aux mods](/docs/moderation/reporting/). Nous verrons toujours le signalement.
 
-When changing the default opt-in for media, you can either:
+#### Obscurcir proactivement les médias
 
-* Opt in to all media<br />
-  This will display all media, regardless of whether the media is parked as sensitive.
-* Obscure media marked as sensitive<br />
-  This will only obscure media if the person posting it marked it as sensitive.
-* Obscure all media<br />
-  This will obscure all media, regardless of whether the person posting it marked it
-  as sensitive.
+Lorsque vous modifiez l’option "opt-in" par défaut pour les médias, vous pouvez :
 
-[Please visit the Mastodon preferences doc to show how obscured / hidden media
-appears](https://docs.joinmastodon.org/user/preferences/#sensitive).
+* Optez pour tous les médias<br />
+  Tous les médiass’afficheront, que le média soit ou non en mode sensible.
+* Média obscurci marqué comme sensible<br />
+  Cela n’obscurcira les médias que si la personne qui les a affichés les a marqués comme sensibles.
+* Masquer tous les médias<br />
+  Cela obscurcira tous les médias, peu importe si la personne qui les a affichés les a marqués comme sensibles.
 
-We recommend obscuring media:
+[Veuillez consulter le document sur les préférences de Mastodon pour montrer comment les médias sont obscurcis ou cachés](https://docs.joinmastodon.org/user/preferences/#sensitive).
 
-* If images and other media are a frequent trigger of any kind.
-* If you do not want to be exposed to media that you do not explicitly opt-in to.
+Nous recommandons d’obscurcir les médias :
 
-### Control access to your posts and account
+* Si les images et autres médias sont un déclencheur fréquent.
+* Si vous ne souhaitez pas être exposé à des médias auxquels vous n’avez pas explicitement souscrit.
 
-The mental model here is: anything you post or include in a public facing space
-should be assumed to be public. There are ways to reduce how public it is and
-how long the information is available. Tactics here are particularly useful
-if you find your account attracting a disproportionate amount of "trolls" or
-other types of malicious activity. (You should also [report this behavior
-to the mods](/docs/moderation/reporting/).)
+### Contrôler l’accès à vos publications et à votre compte
 
-#### Protect your personal information
+Le modèle mental ici est : tout ce que vous publiez ou incluez dans un espace public doit être supposé, **public**. Il y a des façons de réduire le caractère public et la durée de l’information. Tactiques ici sont particulièrement utiles si vous trouvez votre compte attirant une quantité disproportionnée de "trolls" ou d’autres types d’activités malveillantes. (Vous devriez également [signaler ce comportement aux mods](/docs/moderation/reporting/).)
 
-The usual advice about not disclosing personally identifying information for yourself
-or others still applies here. Beyond that, you can also:
+#### Protéger vos renseignements personnels
 
-* Hide your social graph<br />
-  This will hide your followers and who you're following. If you have reason to suspect
-  that someone may use your account to find others to target, you should definitely
-  enable this feature.
-* Change the default visibility of your posts<br />
-  By default all posts are public, but you can limit your posting reach by unlisting your
-  posts or restricting them to followers only. When you unlist your posts, that means they
-  are still public and visible if someone navigates to your profile, but your posts will
-  not display in any local or federated timelines.<br />
-  Combining "followers only" for your posts and enabling "follow requests" so you can control
-  who follows you is a way to maximize how private your account is.
-* Auto-delete posts<br />
-  This is enabled and configured via the "Automated post deletion" option on the left nav
-  menu. You can set the threshold from as low as one week to as long as two years. You can
-  also choose types of posts to exclude from the auto-delete like pinned posts, polls, and
-  so forth.
+Le conseil habituel de ne pas divulguer de renseignements personnels pour vous-même ou pour d’autres personnes s’applique toujours ici. Au-delà de cela, vous pouvez également :
 
-#### Limit how and who can interact with your account as needed
+* Masquer votre graphique social<br />
+  Cela va cacher vos "followers" (abonnées) et qui vous suivez. Si vous avez des raisons de soupçonner que quelqu’un peut utiliser votre compte pour trouver d’autres cibles, vous devriez certainement activer cette fonctionnalité.
+* Modifier la visibilité par défaut de vos publications<br />
+  Par défaut, tous les postes sont publics, mais vous pouvez limiter votre portée de publication en supprimant vos postes ou en les limitant aux abonnés seulement. Lorsque vous désactivez vos postes, cela signifie qu’ils sont toujours publics et visibles si quelqu’un navigue vers votre profil, mais vos postes ne s’afficheront dans aucune timeline locale ou fédérée. <br />
+  Combiner "followers only" pour vos postes et activer "follow requests" afin que vous puissiez contrôler qui vous suit est un moyen de maximiser la confidentialité de votre compte.
+* Suppression automatique des postes<br />
+  Ceci est activé et configuré via l’option "Suppression post-automatique" dans le menu de navigation de gauche. Vous pouvez fixer le seuil entre une semaine et deux ans. Vous pouvez également choisir les types de postes à exclure de la suppression automatique comme les postes épinglés, sondages, et ainsi de suite.
 
-By default, everyone and anyone can follow your account from any other Fediverse instance
-that your home instance is federating with. To restrict that behavior, the main feature
-is to enable follow requests for your account. This will require you to explicitly approve
-everyone who follows your account.
+#### Limitez la façon dont vous pouvez interagir avec votre compte et qui peut le faire, au besoin.
 
-#### Be aware of how the DM feature is implemented
+Par défaut, tout le monde peut suivre votre compte depuis n’importe quelle autre instance Fediverse avec laquelle votre instance principale est fédérée. Pour restreindre ce comportement, la principale caractéristique est d’activer les demandes suivantes pour votre compte. Cela vous obligera à approuver explicitement tous ceux qui suivent votre compte.
 
-There is not currently the ability to do much to constrain DMs, so you will need to be
-aware of how they work so you can choose how you want to engage with them (or not).
+#### Connaître la mise en œuvre de la fonction de DM (Direct-Mail)
 
-* You cannot currently limit or disable DMs<br />
-  This means that any account that you have not explicitly blocked can DM you.
-* When you add someone to a group DM, they see the history of that group DM<br />
-  This means that the group DM feature functions more like a private Slack / Discord
-  channel: when you add a new user, they can see the entire history. To change this,
-  you'll need to create a new group DM with the new user(s).
+À l’heure actuelle, il n’est pas possible de faire grand-chose pour contraindre les DM, alors vous devrez être au courant de leur fonctionnement afin de pouvoir choisir la façon dont vous voulez communiquer avec eux (ou non).
+
+* Vous ne pouvez pas actuellement limiter ou désactiver les DM<br />
+  Cela signifie que tout compte que vous n’avez pas explicitement bloqué peut vous DM.
+* Lorsque vous ajoutez quelqu’un à un DM de groupe, il voit l’historique de ce DM de groupe<br />
+  Cela signifie que la fonctionnalité DM de groupe fonctionne plus comme un canal privé Slack / Discord : lorsque vous ajoutez un nouvel utilisateur, il peut voir l’historique complet. Pour changer cela, vous devrez créer un nouveau DM de groupe avec le ou les nouveaux utilisateurs.
  
-### Collective action requires a collective
+### L’action collective exige un collectif
 
-It is common to feel the impulse to respond to content that we see that has a negative
-impact on ourselves and/or others. When these engagements go well, it is/was an opportunity
-to help others grow on their journey to be better humans. When they do not, however,
-they can be a source of stress at best or result in harassment at worst.
+Il est courant de ressentir l’impulsion de répondre au contenu que nous voyons qui a un impact négatif sur nous-mêmes et / ou les autres. Lorsque ces engagements se déroulent bien, c’est/était une occasion d’aider les autres à progresser sur leur chemin pour devenir de meilleurs humains. Toutefois, lorsqu’ils ne le font pas, ils peuvent au mieux être une source de stress ou, au pire, entraîner du harcèlement.
 
-Improving the experiences of yourself and others on social media is a form of collective
-action. There are many, many articles about maintaining or improving your mental health while
-taking part in collective action of some kind.
+Améliorer vos expériences et celles des autres sur les médias sociaux est une forme d’action collective. Il y a beaucoup, beaucoup d’articles sur le maintien ou l’amélioration de votre santé mentale tout en participant à une action collective d’une certaine sorte.
 
-While the research around self-care in that broader context exceeds the scope of this article,
-what everyone should remember is this:
+Bien que la recherche sur les soins-personnels dans ce contexte plus large dépasse la portée du présent article, tout le monde devrait se rappeler ceci :
 
-> It is important for everyone to do their part to create and maintain safe communities
-> (and build a better world). The reason this is called collective action is because it
-> takes more than one person to accomplish group-level and societal changes. As with any
-> effort to build something better, individuals that are doing their part for others must
-> also remember to do their part for themselves.
+> Il est important que chacun fasse sa part pour créer et maintenir des communautés sûres
+> (et construire un monde meilleur). La raison pour laquelle on appelle cela l’action collective est qu’elle
+> nécessite plus d’une personne pour accomplir les changements au niveau du groupe et de la société. Comme pour tout
+> effort construire quelque chose de mieux, les individus qui font leur part pour les autres doivent
+> Aussi ce rappeler de faire leur part pour eux-mêmes.
 
-#### Give yourself permission
+#### Donnez-vous la permission
 
-Questions you should ask yourself when you are deciding whether or not to engage in a
-thread / conversation that has a negative impact on yourself and/or others:
+Questions que vous devriez vous poser lorsque vous décidez de participer ou non à une conversation qui a une incidence négative sur vous-même ou sur les autres :
 
-* Do you, specifically, need to engage at this moment or can another member of the
-  community (collective) do it?
-* If you need to be the one that engages, either due to expertise or some other reason,
-  do you have the capacity to do in the current moment? If not, can you defer until a
-  time that you do? 
+* Devez-vous, précisément, vous engager en ce moment ou un autre membre de la communauté (collectif) peut-il le faire ?
+* Si vous devez être celui qui s’engage, soit en raison de l’expertise ou d’une autre raison, avez-vous la capacité de le faire à l’heure actuelle ? Sinon, pouvez-vous reporter à une date ultérieure ? 
 
-Remember:
+Souvenez-vous :
 
-* The Fediverse is vast and if you see an issue, especially one that the community commonly catches,
-  it is likely someone else will say / do something. 
-* Even if you do not have the capacity at the moment and no one else does, protecting your mental
-  health will ensure your ability to continue to sustainably help others while growing yourself. 
+* Le Fediverse est vaste et si vous voyez un problème, surtout un problème que la communauté capture couramment, il est probable que quelqu’un d’autre dira / fera quelque chose. 
+* Même si vous n’avez pas la capacité en ce moment et que personne d’autre ne l’a, protéger votre santé mentale vous permettra de continuer à aider les autres de façon durable tout en vous développant. 
 
-Being able to make contributions over long periods of time will almost always yield more and better
-results than doing short bursts of high volume.
+Être en mesure de faire des contributions sur de longues périodes de temps donnera presque toujours de meilleurs résultats que de faire de courtes rafales de volume élevé.
 
-Relevantly:
+Pertinent :
 
-* You can leave conversations at any time for any reason. You do not need to justify or inform when
-  you do, especially if doing so will continue to inflame the situation.
-* You can opt-out of any content at any time for any reason. You to not need to justify or inform
-  when you do, especially if doing so will be negatively impactful to yourself.
-* You can also opt-in to content at any time. Any time you feel the need to opt-out of content,
-  the ability is always there to opt back in when you're ready.
+* Vous pouvez quitter des conversations en tout temps pour n’importe quelle raison. Vous n’avez pas besoin de justifier ou d’informer lorsque vous le faites, surtout si cela continue d’aggraver la situation.
+* Vous pouvez opt-out (refuser) tout contenu à tout moment pour quelque raison que ce soit. Vous n’avez pas besoin de justifier ou d’informer lorsque vous le faites, surtout si cela aura une incidence négative sur vous-même.
+* Vous pouvez également opt-in (choisir) le contenu à tout moment. Chaque fois que vous ressentez le besoin de vous désinscrire du contenu, vous pouvez toujours vous réinscrire lorsque vous êtes prêt.
 
-Opting in and out of topics, especially those that might be personally relevant and soul straining
-for you, is a very useful tactic for creating personal boundaries. It limits when and how you are
-exposed to that type of content, especially if / when there is a news cycle or other event increasing
-the discussion frequency.
+Choisir d’entrer et de sortir des sujets, en particulier ceux qui pourraient être personnellement pertinents et cause de tension pour vous, est une tactique très utile pour créer des limites personnelles. Cela limite le moment et la façon dont vous êtes exposé à ce type de contenu, surtout s’il y a un cycle de nouvelles (news) ou un autre événement qui augmente la fréquence des discussions.
 
-### Create and maintain interpersonal boundaries
+### Établir et maintenir des limites interpersonnelles
 
-First and foremost: it is not ok for someone to violate your boundaries or for you to
-violate someone else's. To be clear, this section is _not_ referring to stalking and other forms
-of harassment. If you are experiencing these, please [report it to the moderation team](/docs/moderation/reporting).
+D’abord et avant tout : il n’est pas correct pour quelqu’un de violer vos limites ou pour vous de violer celles de quelqu’un d’autre. Pour être clair, cette section ne fait pas référence au harcèlement et à d’autres formes de harcèlement. Si vous êtes victime de harcèlement, veuillez [le signaler à l’équipe de modération](/docs/moderation/reporting).
 
-The common patterns you'll see here:
+Les modèles courants que vous verrez ici:
 
-* When someone is asked to stop engaging in a topic of conversation, thread, or with someone else overall and they do not. e.g.:
-  * "Please don't talk about TOPIC in this thread."
-  * "Please don't continue to engage with this conversation."
-  * "Please don't continue to engage with me."
-* When a person who is a member of a community posts and clearly identifies an [in-group](https://en.wikipedia.org/wiki/In-group_and_out-group)
-  thread and non-members / out-group persons respond. e.g.:
-  * "Black Mastodon users..." -> If you are not Black, do not respond.
-  * "Non-native English speakers..." -> If your native language is English, do not respond.
+* Lorsqu’on demande à quelqu’un d’arrêter de s’engager dans un sujet de conversation, dans un "thread" (fil) ou avec quelqu’un d’autre en général et qu’il ne le fait pas. p. ex., :
+  * « Veuillez ne pas parler du SUJET dans ce fil. »
+  * « Veuillez ne pas poursuivre cette conversation. »
+  * « S’il vous plaît, ne continuez pas à communiquer avec moi. »
+* Lorsqu’une personne qui est membre d’une communauté publie et identifie clairement un "thread" (fil) [in-group](https://en.wikipedia.org/wiki/In-group_and_out-group) et que les non-membres / personnes hors groupe répondent. p. ex., :
+  * "Black Mastodon utilisateurs..." -> Si vous n’êtes pas Black, ne répondez pas.
+  * "Non-native English speakers..." -> Si votre langue maternelle n'est pas l’anglais, ne répondez pas.
 
-Both of these patterns involve having a healthy understanding of public spaces and consent.
-A conversation thread being on social media does not necessarily mean it is for everyone to
-engage with. This concept should feel familiar: if a group is going for a walk and talking
-together in a park it does not mean that their walk and conversation is for everyone in that
-park at that time. That said, there are also public performances that happen in public
-spaces which _are_ intended for everyone. Similar to the examples just provided, there are
-frequently communicated boundaries and expectations around private and public engagements
-happening in public spaces.
+Ces deux modèles impliquent une compréhension saine des espaces publics et du consentement.
+Un fil de conversation sur les médias sociaux ne signifie pas nécessairement qu’il appartient à tout le monde de s’engager. Ce concept devrait vous être familier : si un groupe fait une promenade et parle ensemble dans un parc, cela ne signifie pas que leur promenade et leur conversation s’adressent à tout le monde dans ce parc à ce moment-là. Cela dit, il y a aussi des spectacles publics qui se déroulent dans des espaces publics destinés _à tous_. Comme dans les exemples qui viennent d’être donnés, il y a souvent des limites et des attentes communiquées au sujet des engagements privés et publics dans les espaces publics.
 
-##### When someone violates your boundaries
+##### Quand quelqu’un viole vos limites
 
-If you have asked someone to stop engaging with you and/or your thread, the main tools at
-your disposal are:
+Si vous avez demandé à quelqu’un d’arrêter de communiquer avec vous et/ou votre fil, les principaux outils à votre disposition sont :
 
-* Mute the user<br />
-  They will still be able to follow you and see your posts. They will not be notified they are muted.
-* Block the user<br />
-  They will not be able to follow you, see your posts, etc. They will not be notified that they are
-  blocked, but they will be able to tell that they are blocked.
-* [Report the user](/docs/moderation/reporting/)<br />
-  Remember you can always escalate to the moderation team.
+* Mettre l’utilisateur en "mute" sourdine<br />
+  Ils pourront toujours vous suivre et voir vos messages. Ils ne seront pas avisés qu’ils sont désactivés.
+* Bloquer l’utilisateur<br />
+  Ils ne seront pas en mesure de vous suivre, voir vos publications, etc. Ils ne seront pas informés qu’ils sont bloqué, mais ils pourront deviner qu’ils sont bloqués.
+* [Signaler l’utilisateur](/docs/moderation/reporting/)<br />
+Souvenez-vous que vous pouvez toujours communiquer avec l’équipe de modération.
+  
+  Les actions que vous choisissez de prendre sont entièrement votre choix. Votre compte est la façon dont vous naviguez dans le Fediverse et vous êtes celui qui devra décider lesquels sont justifiés pour la situation dans laquelle vous êtes.
 
-Which of these actions you take is entirely up to you. Your account is how you navigate the Fediverse
-and you are the one that will need to decide which of these are warranted for the situation you are in.
+Veuillez noter que nous _ne vous recommandons pas_ d’annoncer quand vous avez désactivé ou bloqué quelqu’un, car cela va à l’encontre de l’objectif de vous retirer du conflit. Il existe des exceptions raisonnables en ce qui concerne la sécurité des autres et/ou de l’ensemble de la communauté. Dans ce cas, nous vous demandons de [signaler la situation aux mods](/docs/moderation/reporting), que vous postiez à ce sujet ou non, car c’est le travail de la modération de gérer la politique au niveau de l’instance comme ceci.
 
-Note that we do _not_ recommend announcing when you have muted / blocked someone, as that defeats
-the purpose of removing yourself from the conflict. There are reasonable exceptions to this involving
-the safety of others and/or the overall community. In this case we request that you
-[report the situation to the mods](/docs/moderation/reporting), whether you post about it or not,
-as it is the job of moderation to handle instance-level policy such as this.
+##### Lorsque vous violez les limites de quelqu’un d’autre
 
-##### When you violate someone else's boundaries
-
-* Step away / adhere to the request. This is true regardless of who is "in the right". The
-  conversation is not effective and should cease.
-* Apologize, as appropriate. You will need to use good judgement here and should only apologize
-  if and when you are not emotionally charged in a way that prevents you from using good judgement.
-  * Depending on the impact to the person setting the boundary, if they've asked you to stop engaging
-    there are going to be times when an apology results in further corrective action from them
-    including muting, blocking, or reporting to the moderators.
-  * If this happens this is not a flaw in them or necessarily a flaw in you. Allow them to meet
-    their own needs without judgement or further engagement.
-  * If you are a Hachydermian, refusing to let someone walk away regardless of whether they accepted
-    or rejected your apology, or if/when you don't have clarity on whether they've accepted or
-    rejected your apology, is a violation of our [Don't Be A Dick](/docs/rule-explainer)
-    policy at a minimum.
+* Retirez-vous, respectez la demande. Cela est vrai peu importe qui est « dans le droit ». La conversation n’est pas efficace et devrait cesser.
+* Présenter des excuses, au besoin. Vous devrez faire preuve de bon jugement ici et ne devriez vous excuser que si et quand vous n’êtes pas chargé émotionnellement d’une manière qui vous empêche de faire preuve de bon jugement.
+  * Selon l’incidence sur la personne qui établit les limites, si elle vous a demandé de cesser de vous engager, il y aura des moments où des excuses entraîneront d’autres mesures correctives de sa part, y compris mutage, blocage ou le signalement aux modérateurs.
+  * Si cela se produit, ce n’est pas un défaut en eux, ou nécessairement en vous. Permettez-leur de répondre à leurs propres besoins sans jugement ni engagement supplémentaire.
+  * Si vous êtes un Hachydermien, refuser de laisser quelqu’un s’en aller, peu importe qu’ils aient accepté ou rejeté vos excuses, ou si vous ne savez pas clairement s’ils ont accepté ou rejeté vos excuses, est une violation de notre [Don’t Be A Dick](/docs/rule-explainer) règle à un minimum.
