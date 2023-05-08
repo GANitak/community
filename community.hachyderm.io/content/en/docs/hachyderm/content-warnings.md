@@ -12,14 +12,14 @@ at [our content warning feature doc](/docs/mastodon/user/content-warnings/).
 In this document:
 
 - [What is a content warning?](#what-is-a-content-warning)
-- [When to use content warnings](#when-to-use-content-warnings)
+- [When to use content warnings?](#when-to-use-content-warnings)
 - [Common examples of content warnings](#common-examples-of-content-warnings)
-- [How to structure a good content warning](#how-to-structure-a-good-content-warning)
+- [How to structure a good content warning?](#how-to-structure-a-good-content-warning)
   - ["Spoilers, Sweetie"](#spoilers-sweetie)
   - [Protecting Psychological Safety](#protecting-psychological-safety)
       - [Composing content warnings for psychological safety](#composing-content-warnings-for-psychological-safety)
       - [Nuance and growth](#nuance-and-growth)
-- [What Do the Moderators Enforce](#what-do-the-moderators-enforce)
+- [What Do the Moderators Enforce?](#what-do-the-moderators-enforce)
 
 ## What is a content warning?
 
@@ -29,7 +29,7 @@ is to put a buffer between a passerby and your underlying content, it is importa
 to have something that is descriptive enough to be helpful for someone to
 decide if they should click through the content warning or not.
 
-## When to use content warnings
+## When to use content warnings?
 
 The two main use cases for content warnings:
 
@@ -43,7 +43,7 @@ of the detail of your post by default. They must _consent_ to opt-in.
 In an ideal scenario, other users are able to make an informed decision
 to opt-in, i.e. _informed consent_.
 
-## Common examples of content warnings
+## Common examples of content warnings?
 
 There are a few situations where content warnings are commonly used on the
 Fediverse (these are not exclusive to Hachyderm):
@@ -62,12 +62,12 @@ Fediverse (these are not exclusive to Hachyderm):
 Content warnings feature heavily in [our Accessible Posting doc](../accessible-posts/),
 especially in the [Interpretive Accessibility sections](../accessible-posts/#interpretive).
 
-## How to structure a good content warning
+## How to structure a good content warning?
 
 The goal of a content warning is to communicate what another person needs
 to know, so they can determine if clicking through the warning is something
 they want to do or should be doing, especially if the content is describing
-a situation that may be a traumatic, lived, experience or news event. The
+a situation that may be a traumatic, lived, or news event. The
 question you should ask yourself when you have written your content warning is:
 
 > If I was a user that **_did not_** want to engage with this post, would
@@ -214,7 +214,7 @@ and apply that knowledge to how you interact with each other. There is
 a lot to be said here, and it would exceed this document's scope, but a good place
 to start is learning about anti-racism, accessibility, and anti-ableism.
 
-## What Do the Moderators Enforce
+## What Do the Moderators Enforce?
 
 Succinctly:
 
