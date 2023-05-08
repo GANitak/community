@@ -15,7 +15,7 @@ For issues with this doc page itself, please reach out to us on
 [Hachyderm's Community Issue tracker](https://github.com/hachyderm/community/issues).
 {{% /pageinfo %}}
 
-## What are content warnings?
+## What are content warnings ?
 
 Content warnings are a feature that allows you to
 obscure your content in such a way that it is hidden by default in other
@@ -25,7 +25,7 @@ one of your posts that read "descriptions of war violence" while discussing
 current or past wars, users would only see that description and could then
 choose to click through the content warning to view the content (or not).
 
-## How to apply a content warning
+## How to apply a content warning ?
 
 In order to apply a content warning use the "CW" in the post field:
 
@@ -63,7 +63,7 @@ delete the content warning, but please do so with care. When you remove the cont
 warning from your post all replies _to you_ will _also_ no longer be behind
 a content warning by default, even if they should be.
 
-## When are content warnings used
+## When are content warnings used ?
 
 Content warnings are generally used to either hide spoilers or to provide
 a buffer when it is psychologically safer to choose to opt in to a conversation

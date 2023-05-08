@@ -1,72 +1,51 @@
 ---
-title: "Content Warnings"
-linkTitle: "Content Warnings"
+title: "Avertissements de Contenu"
+linkTitle: "Avertissements de Contenu"
 weight: 40
 description: >
-  Describes what the content warning feature is and how it operates.
+  Décrit la fonction d’avertissement de contenu et son fonctionnement.
 ---
 
 {{% pageinfo %}}
-This page documents features and processes maintained by Mastodon. For
-issues related to these features and/or processes, please reach out to the Mastodon team
-directly on [the Mastodon project's GitHub](https://github.com/mastodon/mastodon).
+Cette page documente les fonctionnalités et les processus gérés par Mastodon.</br>
+Pour les questions liées à ces fonctionnalités et/ou processus, veuillez contacter l’équipe Mastodon directement sur le projet [GitHub Mastodon](https://github.com/mastodon/mastodon).</br>
 
-For issues with this doc page itself, please reach out to us on
-[Hachyderm's Community Issue tracker](https://github.com/hachyderm/community/issues).
+Pour les problèmes avec cette page de doc elle-même, s’il vous plaît, contactez-nous sur [Hachyderm’s Community Issue tracker](https://github.com/hachyderm/community/issues).
 {{% /pageinfo %}}
 
-## What are content warnings?
+{{% pageinfo %}}
+<h5 class="text-center">This page was manually translated on 05/08/23. </br>Please utilize the English docs for the most up to date policies.</h5>
+{{% /pageinfo %}}
 
-Content warnings are a feature that allows you to
-obscure your content in such a way that it is hidden by default in other
-users' timelines. Instead, only the text of the content warning is
-displayed. To put it another way, if you were to put a content warning on
-one of your posts that read "descriptions of war violence" while discussing
-current or past wars, users would only see that description and could then
-choose to click through the content warning to view the content (or not).
+## Que sont les Avertissements de Contenu ?
 
-## How to apply a content warning
+Avertissements de Contenu est une fonctionnalité qui vous permet d’obscurcir votre contenu de manière à ce qu’il soit caché par défaut dans les "timelines" des autres utilisateurs. Au lieu de cela, seul le texte de l’avertissement de contenu est affiché. Autrement dit, si vous mettiez un avertissement de contenu sur l’un de vos messages qui dit « descriptions de la violence de guerre » pendant que vous discutez des guerres actuelles ou passées, les utilisateurs ne verraient que cette description et pourraient ensuite cliquer sur l’avertissement de contenu pour voir le contenu. (ou non).
 
-In order to apply a content warning use the "CW" in the post field:
+## Comment appliquer un avertissement de contenu ?
+
+Pour appliquer un avertissement de contenu, utilisez le "CW" dans le champ post :
 
 <img src="mastodon-content-warning-button.png" 
      width="400"
-     alt="Screenshot of the post field with the CW circled and with
-          an arrow pointing to it" />
+     alt="Capture d’écran du champ de poste avec le CW encerclé et avec une flèche pointant vers lui" />
 
-An example post with a content warning on the text and image looks like
-this:
+Un exemple de publication avec un avertissement de contenu sur le texte et l’image ressemble à ceci :
 
 <img src="mastodon-content-warning.png"
-     alt="Screenshot of a post with content warning 'Politics (CO)' and the
-          blurred out content labeled 'Sensitive Content'"
+     alt="Capture d’écran d’un message avec un avertissement de contenu « Politics (CO)» et du contenu flouté intitulé « Sensitive Content »'"
      width="400"/>
 
-## Threads with a content warning
+## Threads(Fils) avec un avertissement de contenu
 
-Whenever someone replies to a post with a content warning, by default their
-response will carry the same content warning. Here is an example:
+Chaque fois que quelqu’un répond à un message avec un avertissement de contenu, par défaut sa réponse portera le même avertissement de contenu. Voici un exemple :
 
 <img src="mastodon-content-warning-thread.png"
-      alt="Screenshot of a thread with an example content warning,
-           that reads Example Content Warning, showing that when a user
-           replies that content warning is pre-populated" />
+      alt="Capture d’écran d’un thread avec un exemple d’avertissement de contenu, qui lit Exemple d’Avertissement de Contenu, montrant que lorsqu’un utilisateur répond que l’avertissement de contenu est pré-rempli" />
 
-This is the default due to the nature of the content warning: if the top-most
-post of a thread needs a content warning due to what's being shown or discussed,
-then the rest of that thread _probably_ needs the same content warning. This is
-true both for when you respond to your own posts or when other users respond to
-your posts.
+Ceci est la valeur par défaut en raison de la nature de l’avertissement de contenu : 
+si la publication la plus importante d’un thread a besoin d’un avertissement de contenu en raison de ce qui est affiché ou discuté, alors le reste de ce thread a _probablement_ besoin du même avertissement de contenu. Ceci est alors vrai pour quand vous répondez à vos propres messages ou quand d’autres utilisateurs répondent à vos messages.
 
-When you reply to a post with a content warning you can manually disable and
-delete the content warning, but please do so with care. When you remove the content
-warning from your post all replies _to you_ will _also_ no longer be behind
-a content warning by default, even if they should be.
+Lorsque vous répondez à un message avec un avertissement de contenu, vous pouvez désactiver et supprimer manuellement l’avertissement de contenu, mais veuillez le faire avec précaution. Lorsque vous supprimez l’avertissement de contenu de votre message, toutes les réponses _à vous_ ne seront _également plus_ derrière un avertissement de contenu par défaut, même si elles devraient être.
+## Quand les Avertissements de Contenu sont-ils utilisés ?
 
-## When are content warnings used
-
-Content warnings are generally used to either hide spoilers or to provide
-a buffer when it is psychologically safer to choose to opt in to a conversation
-as opposed to being opted in by default (seeing it in a timeline). For more
-information on the nuance for how and when to use content warnings, please
-take a look at our [doc on how to use content warnings](/docs/hachyderm/content-warnings/).
+Avertissements de Contenu sont généralement utilisés pour cacher les spoilers ou pour fournir un "buffer"(tampon) lorsqu’il est psychologiquement plus sûr de choisir de participer à une conversation, plutôt que d’être choisi par défaut (le voir dans une timeline). Pour plus d'information sur la nuance, pour savoir comment et quand utiliser les Avertissements de Contenu, veuillez consulter notre [doc sur l’utilisation des Avertissements de Contenu](/docs/hachyderm/content-warnings/).
