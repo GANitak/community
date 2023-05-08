@@ -10,6 +10,10 @@ Vous trouverez ici, tout ce que vous devez savoir sur ce qu’il faut faire si v
 
 * Les actions précises que nous prenons et ce qu’elles signifient ou impliquent
 * Comment faire appel et comment nous gérons les limites du processus d’appel
+
+{{% pageinfo %}}
+<h5 class="text-center">This page was manually translated on 05/08/23. </br> Please utilize the English docs for the most up to date policies.</h5>
+{{% /pageinfo %}}
   
 ## Tout d'abord <!-- omit in toc -->
 
