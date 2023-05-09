@@ -3,116 +3,56 @@ title: "Convention de Modérateurs/trices"
 linkTitle: "Covenant"
 weight: 40
 description: >
-  Comment Hachyderm modérateurs/trices modère Hachyderm.
+  Comment Hachyderm modérateurs/trices dit "Mods", modèrent Hachyderm ?  
 ---
 
-This is the set of principles that Hachyderm moderators agree to
-inform their decisions and judgment calls when
-creating and maintaining Hachyderm as a safe space and enforcing
-server rules. This is because first and foremost:
+Il s’agit de l’ensemble de principes que les modérateurs/trices d'Hachyderm acceptent, afin d'éclairer leurs décisions et verdicts, lors de la création et de la maintenance d'Hachyderm comme un espace sécurisé et lors de l’application des règles du serveur. C’est avant tout parce que :
 
-> Hachyderm moderators acknowledge the importance of server rules /
-> Codes of Conduct that are complete and clear. Hachyderm moderators
-> _also_ acknowledge that the entirety of human behavior cannot be
-> captured by an itemized list, no matter how many subsections it has, and
-> therefore use the following principles to ensure that we are
-> _always_ able to take action even in situations where a reported
-> infraction “falls between the cracks”.
+{{% pageinfo %}}
+<h5 class="text-center">This page was manually translated on 05/09/23. </br> Please utilize the English docs for the most up to date policies.</h5>
+{{% /pageinfo %}}
 
-1. **We will prioritize the vulnerable.**<br />All actions we take will prioritize the most vulnerable, full stop.
-1. **We acknowledge that we will make mistakes.**<br />
-We acknowledge that we are not infallible. We will constantly be
-learning and growing and will respond to our mistakes with
-acknowledgement, care, and do what is necessary to undo or
-mitigate the harm done.
-1. **We will moderate with respect.**<br />
-We will handle our communications with users and accounts that
-have been reported for moderation with respect.
-1. **We acknowledge and understand that we are strangers on this pale blue dot.**<br />
-The reality is that the vast majority of user interactions are
-between strangers, even if familiarity increases with time. This
-means that in almost all reported situations: the reported user is
-a stranger to us as moderators and that the reported user is a
-stranger to other users in the interaction (on a personal level,
-even if the account is recognizable). This means that while we
-will look at the reported user on the surface to try and
-understand possible intent, we acknowledge that it is not possible
-to use intent or presumed / guestimated intent alone to inform
-what moderation action(s), if any, to take.
-1. **We will prioritize impact over intent.**<br />
-Whenever we look into a reported interaction, we look at as much
-of the situation we can see. This means we do due diligence on
-seeing what, if any, factors are contributing to the situation and
-if that situation is escalating or at risk of escalating. Since we
-acknowledge that We Are Strangers, that means we are doing this
-based on an understanding of people, in general, and the
-intersectionalities at play. Regardless of intent or whether
-actions and words were purposeful, the targeted or affected person
-is still harmed. That's why it is critical to prioritize impact
-and acknowledge the harm that was caused.
-1. **We will trust, but verify.**<br />
-There is a saying that you need to believe someone when they tell
-you who they are. Individuals and communities make use of the reporting
-feature to tell us about other individuals and/or communities who have
-announced who _they_ are in some way so we can take
-appropriate action. There is also the rare occasions where
-individuals will use the reporting feature(s) as a vector of
-harassment or oppression against a targeted user and/or demographic.
-We balance these two realities by trusting that reports are
-filed with good intention, but verifying every time.
-1. **We will hold Hachyderm users accountable for their actions.**<br />
-This is specific to the moderation context of when a reported user
-is a Hachydermian. When we communicate rule violation(s), we will
-also communicate what (if any) actions are needed on your part. To
-put it another way: if you acted in a way that requires moderator
-attention, you must take action to un-require that attention. The
-most common pattern here will be asking you to delete problematic
-posts or similar. Note that this will not be done in situations
-where it comes into conflict with Prioritizing the Vulnerable or
-Making Safety the Sustainable State. Also note that sometimes the
-action isn’t deleting posts, but changing a behavior. Two common
-patterns here are:
-    * Asking a reported user to do some light research into the
-      topic area that caused them to be reported. Small steps
-      iterating over time increase our collective knowledge and
-      our community's ability to be safe and open.
-    * Reminding a reported user that they can always walk away
-      from an interaction that is not going the way they intend.
-1. **We will steward safe spaces to allow for the range of human expression and experience.**<br />
-Since people are more likely to report negative emotions and
-perspectives than positive, this one will be explained by relevant
-examples:
-    - We do not moderate people for being angry at systems of oppression
-functioning as designed, because that design is traumatic.
-    - We do not moderate people for existing in public. This includes,
-but is not limited to, “acting Black”, “acting gay”, being visibly
-a member of a particular religion, and so on.
-1. **We will not create the [Paradox of Tolerance](https://en.wikipedia.org/wiki/Paradox_of_tolerance).**<br />
-Whenever there is a choice that needs to be made between the impact of individual actions 
-and community safety, we will choose community safety.
-1. **We will only take moderation action where doing so increases
-community safety and/or decreases community risk.**<br />
-For every report, we do an analysis to determine whether or not taking
-moderator action will improve community safety and/or decrease
-community risk. If the best action to take is to not react,
-then we will not react.<br />
-For off server users in particular we _also_ recognize the limits
-of what we are able to moderate. Users on the fediverse who did not
-agree to our server rules are not subject to them. In these cases
-we are solely evaluating what, if any, moderation action will protect
-our community and its members rather than evaluating if a user
-who never agreed to our specific rules is abiding by them.
-1. **We understand that people need space and safety to grow.**<br />
-We understand that it is impossible for everyone to know
-everything, and that includes us. We do not expect our community
-to be experts on every fact of life, or experts in every form of
-social interaction. 
-1. **We will prioritize making safety the sustainable state.**<br />
-We will take actions to prevent users from being reported for the
-same, or similar, infractions.
-1. **We will take actions to prevent learning at the community’s
-expense.**<br />
-Specifically:
-  - Nous apprendrons et grandirons de façon proactive pour empêcher notre croissance en tant qu’individus et modérateurs/trices de se faire au détriment de la communauté.
-	- Nous reconnaissons que lorsqu’un utilisateur a été signalé comme étant nuisible dans la communauté, ils ont déjà causé du mal. Bien que nous comprenions que les Gens ont Besoin de Croître, nous ne permettrons pas que cette croissance se fasse aux dépens de la communauté. Cela signifie que lorsqu’un utilisateur est signalé pour des actions nuisibles et que nous déterminons qu’il y a un risque de comportement futur et/ou que l’utilisateur n’affiche pas un état d’esprit de croissance lorsqu’il a déjà été avisé, nous choisirons des actions qui Priorisent la Sécurité comme État Durable.
+> Les mods d'Hachyderm reconnaissent l’importance des Règles du Serveur /
+> Des Codes du Conduite complets et clairs. Les mods d'Hachyderm reconnaissent
+> _également_ que que l’ensemble du comportement humain ne peut être
+> capturé par une liste détaillée, peu importe le nombre de sous-sections qu’il a, et
+> donc utiliser les principes suivants pour s’assurer que nous sommes
+> _toujours_ capable d’agir même dans les situations où une
+> infraction reportée « tombe entre les mailles du filet ».
+
+
+1. **Nous accorderons la priorité aux personnes vulnérables.**<br />Toutes les mesures que nous prendrons accorderont la priorité aux personnes les plus vulnérables, point final.
+1. **Nous reconnaissons que nous ferons des erreurs.**<br />
+Nous reconnaissons que nous ne sommes pas infaillibles. Nous apprendrons et grandirons constamment et nous répondrons à nos erreurs avec reconnaissance, soin et ferons le nécessaire pour réparer ou atténuer les torts causés.
+1. **Nous ferons preuve de respect.**<br />
+Nous gérerons nos communications avec les utilisateurs et les comptes qui ont été signalés pour modération avec respect.
+1. **Nous reconnaissons et comprenons que nous sommes des étrangers sur ce "pale blue dot".**<br />La réalité est que la grande majorité des interactions entre utilisateurs sont entre étrangers, même si la familiarité augmente avec le temps. Cela signifie que dans presque toutes les situations signalées : l’utilisateur déclaré est un étranger pour nous en tant que **mod** et que l’utilisateur déclaré est un étranger pour les autres utilisateurs dans l’interaction (sur le plan personnel, même si le compte est reconnaissable). Cela signifie que, bien que nous examinions l’utilisateur signalé à la surface pour essayer de comprendre l’intention possible, nous reconnaissons qu’il n’est pas possible d’utiliser l’intention ou l’intention présumée ou hypothétique seule pour déterminer les mesures de modération à prendre, le cas échéant.
+1. **Nous privilégierons l’impact sur l’intention.**<br />
+Chaque fois que nous examinons une interaction signalée, nous examinons autant de situations que possible. Cela signifie que nous faisons preuve de diligence raisonnable pour voir quels sont, le cas échéant, les facteurs qui contribuent à la situation et si cette situation s’aggrave ou risque de le devenir. Puisque nous reconnaissons que Nous Sommes des Etrangers, cela signifie que nous le faisons en fonction de la compréhension des gens en général et des intersectionnalités en jeu. Peu importe l’intention ou si les actes et les paroles étaient intentionnels, la personne ciblée ou touchée est quand même blessée. C’est pourquoi il est essentiel de prioriser les répercussions et de reconnaître le tort causé.
+1. **Nous ferons confiance, mais nous vérifierons.**<br />
+Il y a un dicton qui dit que vous devez croire quelqu’un quand il vous dit qui il est. 
+Les personnes et les communautés utilisent la fonction de signalement "report", pour nous parler d’autres personnes ou communautés qui ont annoncé leur identité d’une façon ou d’une autre, afin que nous puissions prendre les mesures appropriées. Il y a aussi les rares occasions où des personnes utiliseront les fonctions de signalement comme vecteur de harcèlement ou d’oppression contre un utilisateur ou un groupe démographique ciblé. 
+Nous équilibrons ces deux réalités en nous assurant que les "reports" soit déposés avec de bonnes intentions, mais en vérifiant à chaque fois.
+1. **Nous tiendrons les utilisateurs d'Hachyderm responsables de leurs actions.**<br />
+Cela est spécifique au contexte de modération dans lequel un utilisateur signalé est, un Hachydermien. Lorsque nous communiquerons les violations de règles, nous communiquerons également les mesures (le cas échéant) que vous devez prendre. Autrement dit, si vous avez agi d’une manière qui exige l'attention de **mods**, vous devez prendre des mesures pour ne plus exiger cette attention. Le modèle le plus commun ici vous demandera de supprimer les messages problématiques ou similaires. Veuillez noter que cela ne sera pas fait dans les situations où cela entre en conflit avec Prioriser les Personnes Vulnérables ou Faire de la Sûreté l’État Durable. Notez également que parfois l’action ne supprime pas les messages, mais change un comportement. Deux modèles courants ici sont :
+    * Demander à un utilisateur signalé de faire une recherche légère sur le
+      sujet qui a causé leur signalement. Les petits pas répétés au fil du temps augmentent notre connaissance collective et la capacité de notre communauté à être sûre et ouverte.
+    * Rappeler à un utilisateur signalé qu’il peut toujours quitter une interaction qui ne se déroule pas comme prévu.
+1. **Nous gérerons des espaces sûres pour permettre une gamme d’expression et d’expérience humaines.**<br />
+Étant donné que les gens sont plus susceptibles de signaler des émotions et des perspectives négatives que positives, ceci sera expliqué par des exemples pertinents :
+    - Nous ne modérons pas les gens pour être en colère contre les systèmes d’oppression fonctionnant tel qu'ils sont conçus, parce que ces design sont traumatisants.
+    - Nous ne modérons pas les gens pour exister en public. Cela comprend, mais sans s’y limiter, « agir Noir », « agir Gay », être visiblement membre d’une religion particulière, et ainsi de suite.
+1. **Nous ne créerons pas le [Paradoxe de la tolérance](https://en.wikipedia.org/wiki/Paradox_of_tolerance).**<br />
+Chaque fois qu’il y a un choix à faire entre l’impact des actions individuelles et la sûreté de la communauté, nous choisissons la sûreté de la communauté.
+1. **Nous ne prendrons des mesures de modération que lorsque cela augmente la sûreté de la communauté ou diminue les risques pour la communauté.**<br />
+Pour chaque signalement, nous effectuons une analyse afin de déterminer si les mesures prises par les **mods** amélioreront la sûreté de la communauté ou réduiront les risques. Si la meilleure chose à faire est de ne pas réagir, nous ne réagirons pas.<br />
+Pour les utilisateurs hors serveur en particulier, nous reconnaissons _également_ les limites de ce que nous sommes capables de modérer. Les utilisateurs sur le Fediverse qui n’ont pas accepté nos règles de serveur ne sont pas soumis à elles. Dans ces cas, nous évaluons uniquement ce qui, le cas échéant, quelle action de modération protégera notre communauté et ses membres plutôt que d’évaluer si un utilisateur qui n’a jamais accepté nos règles spécifiques les respecte.
+1. **Nous comprenons que les gens ont besoin d’espace et de sécurité pour grandir.**<br />
+Nous comprenons qu’il est impossible pour tout le monde de tout savoir, et cela nous inclut. Nous ne nous attendons pas à ce que notre communauté soit experte de tous les aspects de la vie ou de toutes les formes d’interaction sociale. 
+1. **Nous accorderons la priorité à la sûreté.**<br />
+Nous prendrons des mesures pour empêcher que des utilisateurs soient signalés pour des infractions identiques ou similaires.
+1. **Nous prendrons des mesures pour empêcher l’apprentissage aux dépens de la communauté.**<br />
+Spécifiquement:
+    - Nous apprendrons et grandirons de façon proactive pour empêcher notre croissance en tant qu’individus et modérateurs/trices de se faire au détriment de la communauté.
+	- Nous reconnaissons que lorsqu’un utilisateur a été signalé comme étant nuisible dans la communauté, ils ont déjà causé du mal. Bien que nous comprenions que les Gens ont Besoin de Croître, nous ne permettrons pas que cette croissance se fasse aux dépens de la communauté. Cela signifie que lorsqu’un utilisateur est signalé pour des actions nuisibles et que nous déterminons qu’il y a un risque de comportement futur et/ou que l’utilisateur n’affiche pas un état d’esprit de croissance lorsqu’il a déjà été avisé, nous choisirons des actions qui Priorisent la Sûreté comme État Durable.
 
