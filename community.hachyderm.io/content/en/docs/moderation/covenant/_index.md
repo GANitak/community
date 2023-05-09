@@ -97,7 +97,7 @@ moderator action will improve community safety and/or decrease
 community risk. If the best action to take is to not react,
 then we will not react.<br />
 For off server users in particular we _also_ recognize the limits
-of what we are able to moderate. Users on the fediverse who did not
+of what we are able to moderate. Users on the Fediverse who did not
 agree to our server rules are not subject to them. In these cases
 we are solely evaluating what, if any, moderation action will protect
 our community and its members rather than evaluating if a user

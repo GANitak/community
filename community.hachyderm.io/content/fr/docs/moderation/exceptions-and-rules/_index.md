@@ -1,34 +1,42 @@
 ---
-title: "Exceptions and Rule Changes"
-linkTitle: "Exceptions and Rule Changes"
+title: "Exceptions et Modifications des Règles"
+linkTitle: "Exceptions et Modifications des Règles"
 weight: 50
 description: >
-  Steps to take to request an exception to an existing rule or a rule change.
+  Mesures à prendre pour demander une exception à une règle existante ou un changement de règle.
 ---
+{{% pageinfo %}}
+<h5 class="text-center">This page was manually translated on 05/10/23. </br> Please utilize the English docs for the most up to date policies.</h5>
+{{% /pageinfo %}}
 
-## The Rules
+## Les Règles
 
-In accordance with the [Moderator Covenant](./covenant):
-> Hachyderm moderators acknowledge the importance of server rules / Codes of Conduct that are complete and clear. Hachyderm moderators also acknowledge that the entirety of human behavior cannot be captured by an itemized list, no matter how many subsections it has, and therefore use [a set of] principles to ensure that we are always able to take action even in situations where a reported infraction “falls between the cracks”.
+Conformément à la [Convention de Modérateurs/trices](./covenant):
+>  Les mods d'Hachyderm reconnaissent l’importance des Règles du Serveur /
+> Des Codes du Conduite complets et clairs. Les mods d'Hachyderm reconnaissent
+> _également_ que que l’ensemble du comportement humain ne peut être
+> capturé par une liste détaillée, peu importe le nombre de sous-sections qu’il a, et
+> donc utiliser les principes suivants pour s’assurer que nous sommes
+> _toujours_ capable d’agir même dans les situations où une
+> infraction reportée « tombe entre les mailles du filet ».
 
-This means that we will always do our best to take action on reports, but we also acknowledge that there are situations where the rules may not be clear or may not apply. In these cases, we will do our best to take action that is in the spirit of the rules and the spirit of the Hachyderm community. In addtion, we will work to expand and clarify the rules as the community grows and the need change.
+Cela signifie que nous ferons toujours de notre mieux pour donner suite aux rapports, mais nous reconnaissons également qu’il y a des situations où les règles peuvent ne pas être claires ou ne pas s’appliquer. Dans ces cas, nous ferons de notre mieux pour agir dans l’esprit des règles et de l’esprit de la communauté Hachyderm. De plus, nous travaillerons à élargir et à clarifier les règles à mesure que la communauté grandit et que les besoins changent.
 
 ## Exceptions
 
-If you would like to request an exception to the rules, please email us at [admin@hachyderm.io](mailto:admin@hachyderm.io) with the following information:
-- Your username
-- A link to or description of the rule that you are impacted by
-- A description of why you believe you are an exception
+Si vous souhaitez demander une exception aux règles, veuillez nous envoyer un courriel à [admin@hachyderm.io](mailto:admin@hachyderm.io) avec les informations suivantes:
+- Votre nom d’utilisateur
+- Un lien ou une description de la règle qui vous touche
+- Une description des raisons pour lesquelles vous croyez être une exception
+## Changements de Règles
 
-## Rule Changes
+Il y a deux façons de changer les règles :
 
-There are two routes for changing rules:
-
-- Create a new issue in the [Hachyderm Community's GitHub Issues](https://github.com/hachyderm/community/issues/new/choose)
-  - Select "Documentation Request," if you believe that the documenation associated with a specific rule needs to be updated
-  - Select "General Suggestions," if you believe would like to propose a new rule or a modification to the rule
-- Create a pull request with the proposed update
-  1. When viewing the documentation, click the "Edit this page" link in the right-hand menu of the page (only visible on desktop)
-  1. Make the changes you would like to see
-  1. Commit the changes to your fork
-  1. Create a pull request with the changes
+- Créer une nouvelle "issue" dans les [Issues GitHub de la communauté d'Hachyderm](https://github.com/hachyderm/community/issues/new/choose)
+  - Sélectionnez « Demande de documentation », si vous croyez que la documentation associée à une règle particulière doit être mise à jour.
+  - Sélectionnez « Suggestions générales » si vous souhaitez proposer une nouvelle règle ou une modification à la règle.
+- Créer une "pull request" avec la mise à jour proposée
+  1. Lorsque vous consultez la documentation, cliquez sur le lien "Modifier cette page" dans le menu de droite de la page (visible uniquement en mode bureau)
+  1. Apportez les changements que vous aimeriez voir
+  1. Valider les modifications sur votre "fork" fourchette
+  1. Créer une "pull request" avec les modifications
