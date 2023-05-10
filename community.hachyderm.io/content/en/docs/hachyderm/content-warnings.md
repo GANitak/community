@@ -43,7 +43,7 @@ of the detail of your post by default. They must _consent_ to opt-in.
 In an ideal scenario, other users are able to make an informed decision
 to opt-in, i.e. _informed consent_.
 
-## Common examples of content warnings?
+## Common examples of content warnings
 
 There are a few situations where content warnings are commonly used on the
 Fediverse (these are not exclusive to Hachyderm):

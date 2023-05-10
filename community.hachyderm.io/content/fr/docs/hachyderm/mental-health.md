@@ -9,28 +9,28 @@ description: >
 ## Les médias sociaux et votre santé mentale <!-- omit from toc -->
 
 {{% pageinfo %}}
-<h5 class="text-center">This page was manually translated on 05/08/23. </br> Please utilize the English docs for the most up to date policies.</h5>
+<h5 class="text-center">This page was manually translated on 05/10/23. </br> Please utilize the English docs for the most up to date policies.</h5>
 {{% /pageinfo %}}
 
 De nombreux articles sont disponibles en ligne sur les médias sociaux, l’engagement général en ligne et la santé mentale. Le présent document se concentrera sur un sous-ensemble de ces éléments et vous aidera à utiliser les outils Mastodon pour respecter vos besoins personnels et vos limites.
 
-- [Action de modération et action individuelle](#moderation-action-and-individual-action)
-- [Outils de Mastodon à votre disposition](#mastodon-tools-at-your-disposal)
-  - [Contenu indésirable](#unwanted-content)
-  - [Fonctionnalités supplémentaires](#additional-features)
-- [Modèles pour une meilleure expérience du Fediverse](#patterns-for-a-better-fediverse-experience)
-  - [Contrôler le contenu auquel vous êtes exposé](#control-what-content-you-are-exposed-to)
-    - [Filtrer le contenu de façon proactive](#proactively-filter-content)
-    - [Obscurcir proactivement les médias](#proactively-obscure-media)
-  - [Contrôler l’accès à vos publications et à votre compte](#control-access-to-your-posts-and-account)
-    - [Protect your personal information](#protect-your-personal-information)
-    - [Limitez la façon dont vous pouvez interagir avec votre compte et qui peut le faire, au besoin.](#limit-how-and-who-can-interact-with-your-account-as-needed)
-    - [Connaître la mise en œuvre de la fonctionnalité DM](#be-aware-of-how-the-dm-feature-is-implemented)
-  - [L’action collective exige un collectif](#collective-action-requires-a-collective)
-    - [Donnez-vous la permission](#give-yourself-permission)
-  - [Établir et maintenir des limites interpersonnelles](#create-and-maintain-interpersonal-boundaries)
-      - [Quand quelqu’un viole vos limites](#when-someone-violates-your-boundaries)
-      - [Quand vous violez les limites de quelqu’un d’autre](#when-you-violate-someone-elses-boundaries)
+- [Action de modération et action individuelle](#action-de-modération-et-action-individuelle)
+- [Outils de Mastodon à votre disposition](#outils-de-mastodon-à-votre-disposition)
+  - [Contenu indésirable](#contenu-indésirable)
+  - [Fonctionnalités supplémentaires](#fonctionnalités-supplémentaires)
+- [Modèles pour une meilleure expérience du Fediverse](#modèles-pour-une-meilleure-expérience-du-fediverse)
+  - [Contrôler le contenu auquel vous êtes exposé](#contrôler-le-contenu-auquel-vous-êtes-exposé)
+    - [Filtrer le contenu de façon proactive](#filtrer-le-contenu-de-façon-proactive)
+    - [Obscurcir proactivement les médias](#obscurcir-proactivement-les-médias)
+  - [Contrôler l’accès à vos publications et à votre compte](#contrôler-laccès-à-vos-publications-et-à-votre-compte)
+    - [Protéger vos renseignements personnels](#protéger-vos-renseignements-personnels)
+    - [Limitez la façon dont vous pouvez interagir avec votre compte et qui peut le faire, au besoin.](#limitez-la-façon-dont-vous-pouvez-interagir-avec-votre-compte-et-qui-peut-le-faire-au-besoin)
+    - [Connaître la mise en œuvre de la fonctionnalité de DM](#connaître-la-mise-en-œuvre-de-la-fonctionnalité-de-dm)
+  - [L’action collective exige un collectif](#laction-collective-exige-un-collectif)
+    - [Donnez-vous la permission](#donnez-vous-la-permission)
+  - [Établir et maintenir des limites interpersonnelles](#établir-et-maintenir-des-limites-interpersonnelles)
+      - [Quand quelqu’un viole vos limites](#quand-quelquun-viole-vos-limites)
+      - [Lorsque vous violez les limites de quelqu’un d’autre](#lorsque-vous-violez-les-limites-de-quelquun-dautre)
 
 ## Action de modération et action individuelle
 
@@ -89,7 +89,7 @@ Ce sont les caractéristiques que Mastodon construit et mis en évidence pour tr
 Comment mettre en œuvre toutes ces fonctionnalités, sont sur [la page de Mastodon Traitement des documents de contenu indésirables(https://docs.joinmastodon.org/user/moderating/).
 Veuillez vous référer à la page de documentation pour les détails de mise en œuvre pour chacun.
 
-### Fonctions supplémentaires
+### Fonctionnalités supplémentaires
 
 Il y a beaucoup plus de fonctionnalités Mastodon que vous pouvez utiliser pour améliorer votre expérience du Fediverse, en particulier dans votre profil de compte et les paramètres de préférences. Ces caractéristiques contrôlent principalement la visibilité de votre profil, vos publications et celles des autres.
 
@@ -118,7 +118,7 @@ Il y a beaucoup plus de fonctionnalités Mastodon que vous pouvez utiliser pour 
 
 Tout ce qui précède est défini dans votre profil et vos préférences. Nous avons documenté la façon de configurer ces paramètres dans notre [Profil d’utilisateur et préférences Mastodon](/docs/mastodon/user/profile-preferences/) page de doc.
 
-## Modèles pour une meilleure expérience Fediverse
+## Modèles pour une meilleure expérience du Fediverse
 
 Ici, nous détaillons les modèles que vous pouvez mettre en œuvre et itérer pour améliorer votre expérience Fediverse. Les outils qui peuvent aider sont directement mentionnés dans chaque section. Pour savoir comment mettre en œuvre, veuillez consulter les documents ci-dessus [Outils Mastodon à votre disposition](#mastodon-tools-at-your-disposal) section.
 
@@ -187,7 +187,7 @@ Le conseil habituel de ne pas divulguer de renseignements personnels pour vous-m
 
 Par défaut, tout le monde peut suivre votre compte depuis n’importe quelle autre instance Fediverse avec laquelle votre instance principale est fédérée. Pour restreindre ce comportement, la principale caractéristique est d’activer les demandes suivantes pour votre compte. Cela vous obligera à approuver explicitement tous ceux qui suivent votre compte.
 
-#### Connaître la mise en œuvre de la fonction de DM (Direct-Mail)
+#### Connaître la mise en œuvre de la fonctionnalité de DM
 
 À l’heure actuelle, il n’est pas possible de faire grand-chose pour contraindre les DM, alors vous devrez être au courant de leur fonctionnement afin de pouvoir choisir la façon dont vous voulez communiquer avec eux (ou non).
 

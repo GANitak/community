@@ -11,12 +11,12 @@ description: >
 
 Il y a trois façons de correspondre avec l’équipe de Modération d'Hachyderm  :
 
-- [Attentes](#expectations)
-- [Comment et quand utiliser le Courriel](#how-and-when-to-use-email)
-- [Comment et quand utiliser l’Interface Utilisateur de Mastodon](#how-and-when-to-use-the-mastodon-ui)
-  - [Ce que vous devriez inclure dans votre rapport](#what-you-should-include-in-your-report)
-    - [Limites de l’Interface d’Administration de Mastodon](#limitations-of-the-mastodon-admin-interface)
-- [Comment et quand utiliser l’outil de Suivi des Problèmes GitHub](#how-and-when-to-use-the-github-issue-tracker)
+- [Attentes](#attentes)
+- [Comment et quand utiliser le Courriel](#comment-et-quand-utiliser-le-courriel)
+- [Comment et quand utiliser l’IU Mastodon](#comment-et-quand-utiliser-liu-mastodon)
+  - [Ce que vous devriez inclure dans votre rapport](#ce-que-vous-devriez-inclure-dans-votre-rapport)
+    - [Limites de l’Interface d’Administration de Mastodon](#limites-de-linterface-dadministration-de-mastodon)
+- [Comment et Quand utiliser l’outil de Suivi des Problèmes GitHub](#comment-et-quand-utiliser-loutil-de-suivi-des-problèmes-gitHub)
 
 En général, l’interface utilisateur de Mastodon (c.-à-d. la fonctionnalité "rapport" sur Hachyderm.io) est utilisée spécifiquement pour signaler les postes, les utilisateurs et les domaines. Le suivi des problèmes de la communauté GitHub est destiné à d’autres types de rapports, ainsi qu’à soulever d’autres questions et conversations avec l’équipe de modération d'Hachyderm. En option, les utilisateurs peuvent également nous envoyer des informations par e-mail si ni les rapports Mastodon ni les GitHub Issues ne sont appropriés pour la conversation.
 
@@ -24,7 +24,7 @@ En général, l’interface utilisateur de Mastodon (c.-à-d. la fonctionnalité
 
 Nos règles de serveur s’appliquent toujours lors du dépôt d’un rapport ou de toute autre communication avec les équipes de modération et d’infrastructure.
 
-## Comment et Quand utiliser le Courriel ?
+## Comment et Quand utiliser le Courriel 
 
 En général, l’équipe de modération ne doit être contactée que par courriel à :
 
@@ -44,7 +44,7 @@ L’IU Mastodon, c.-à-d. ce que vous voyez lorsque vous utilisez Hachyderm.io o
 
 Pour en savoir plus sur la fonctionnalité de rapport et ce que nous voyons lorsque vous nous envoyez un rapport, veuillez consulter notre [page de documentation Fonctionnalité de Signalement](../../mastodon/moderation/report-feature/).
 
-### Ce que vous devriez inclure dans votre signalement
+### Ce que vous devriez inclure dans votre rapport
 
 * Inclure des publications spécifiques, le cas échéant
     * Ceci inclut si vous signalez un utilisateur spécifique en tant qu’individu ou en tant que représentation générale d’un serveur dédié à ce type de comportement.

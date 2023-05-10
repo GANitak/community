@@ -9,19 +9,19 @@ description: >
 Ce document décrit comment utiliser les avertissements de contenu et comment ils sont modérés. Pour comprendre la fonctionnalité elle-même, veuillez consulter [our content warning feature doc](/docs/mastodon/user/content-warnings/).
 
 {{% pageinfo %}}
-<h5 class="text-center">This page was manually translated on 05/08/23. </br> Please utilize the English docs for the most up to date policies.</h5>
+<h5 class="text-center">This page was manually translated on 05/10/23. </br> Please utilize the English docs for the most up to date policies.</h5>
 {{% /pageinfo %}}
 Dans ce document:
 
-- [Qu’est-ce qu’un avertissement de contenu?](#what-is-a-content-warning)
-- [Quand utiliser les avertissements de contenu?](#when-to-use-content-warnings)
-- [Exemples courants d’avertissements de contenu](#common-examples-of-content-warnings)
-- [Comment structurer un bon avertissement de contenu?](#how-to-structure-a-good-content-warning)
+- [Qu’est-ce qu’un avertissement de contenu?](#quest-ce-quun-avertissement-de-contenu)
+- [Quand utiliser les avertissements de contenu?](#quand-utiliser-les-avertissements-de-contenu)
+- [Exemples courants d’avertissements de contenu](#exemples-courants-davertissements-de-contenu)
+- [Comment structurer un bon avertissement de contenu?](#comment-structurer-un-bon-avertissement-de-contenu)
   - ["Spoilers, Sweetie"](#spoilers-sweetie)
-  - [Protection de la Sécurité Psychologique](#protecting-psychological-safety)
-      - [Rédiger des avertissements pour la sécurité psychologique](#composing-content-warnings-for-psychological-safety)
-      - [Nuance et croissance](#nuance-and-growth)
-- [Que font appliquer les modérateurs](#what-do-the-moderators-enforce)
+  - [Protection de la Sécurité Psychologique](#protection-de-la-sécurité-psychologique)
+      - [Rédiger des avertissements pour la sécurité psychologique](#rédiger-des-avertissements-pour-la-sécurité-psychologique)
+      - [Nuance et croissance](#nuance-et-croissance)
+- [Que font appliquer les modérateurs](#que-font-appliquer-les-modérateurs)
 
 ## Qu’est-ce qu’un avertissement de contenu?
 
@@ -147,7 +147,8 @@ Poser les questions de cette façon vous permet de fournir le sujet général _a
 Les domaines qui pourraient nécessiter davantage d’apprentissage et de croissance pour comprendre et adopter sont normalement ceux qui impliquent la compréhension de l’intersectionnalité des utilisateurs sur la plateforme. Par exemple, vous pouvez voir des gens utiliser des avertissements de contenu sur des images avec des visages (surtout avec un contact visuel) ou sur des aliments. Avec ces exemples spécifiques, l’utilisation d’un avertissement de contenu pour les visages et le contact visuel est d’aider les utilisateurs neurodiversifiés sur la plateforme qui luttent avec ceux-ci et ont de fortes réactions indésirables à celui-ci, et pour ce dernier, il peut être d’aider les personnes souffrant de troubles de l’alimentation ou qui se rétablissent. (Ou semblable pour les images d’alcool pour les utilisateurs qui ont de la difficulté à se remettre d’une dépendance à l’alcool.) 
 
 Pour participer activement au maintien de la sécurité psychologique de Hachyderm, il est important de comprendre les autres et d’appliquer ces connaissances à la façon dont vous interagissez les uns avec les autres. Il y a beaucoup de choses à dire ici, et cela dépasserait la portée de ce document, mais un bon point de départ est d’en apprendre davantage sur l’antiracisme, l’accessibilité et l’anti-ableisme.
-## Que font appliquer les modérateurs ?
+
+## Que font appliquer les modérateurs
 
 Succinctement :
 
