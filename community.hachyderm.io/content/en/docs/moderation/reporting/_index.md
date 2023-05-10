@@ -87,7 +87,7 @@ send us a report, please look at our [Report Feature doc page](../../mastodon/mo
       opt-in to tasks like these when they appear.
 
  
-What to know about the Additional Comments:
+What to know about the Additional Comments :
 
 The most important limitation you should know is
 that the Additional Comments field has a character limit of 1000
@@ -108,7 +108,7 @@ clear cause, we will close the report without moderator action._**
 When we receive a report, we cannot follow up with the reporting user to ask for
 additional information using the admin tools.
 
-How this impacts you:
+How this impacts you :
 
 If you are reporting an issue and do not include enough
 information and/or a way for us to get in touch with you to
@@ -133,8 +133,8 @@ The Community Issues can still be used to report domains, as you would do in the
 It can also be used to request emoji, report a service outage (you can also use
 [omg.hachyderm.io](https://omg.hachyderm.io) for this),
 request updates / changes to the docs, and so on. There are issue
-templates for the most common issues that prompt users for the information
+templates for the most common issues, that prompt users for the information
 we need to respond to requests efficiently. Depending on the
-nature of the request / discussion, a member of the infrasture
+nature of the request / discussion, a member of the infrastructure
 team and/or the moderation team will respond.
 

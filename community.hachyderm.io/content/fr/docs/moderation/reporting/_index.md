@@ -1,140 +1,95 @@
 ---
-title: "Reporting Issues and Communicating with Moderators"
-linkTitle: "Reporting and Communication"
+title: "Signalement des problèmes et communication avec les modérateurs/trices"
+linkTitle: "Signaler et Communiquer"
 weight: 40
 description: >
-  How to report issues and interact with the moderation team.
+  Comment signaler les problèmes et interagir avec l’équipe de modération.
 ---
+{{% pageinfo %}}
+<h5 class="text-center">This page was manually translated on 05/10/23. </br>Please utilize the English docs for the most up to date policies.</h5>
+{{% /pageinfo %}}
 
-There are three ways to correspond with the Hachyderm Moderation
-team:
+Il y a trois façons de correspondre avec l’équipe de Modération d'Hachyderm  :
 
-- [Expectations](#expectations)
-- [How and When to use Email](#how-and-when-to-use-email)
-- [How and When to use the Mastodon UI](#how-and-when-to-use-the-mastodon-ui)
-  - [What you should include in your report](#what-you-should-include-in-your-report)
-    - [Limitations of the Mastodon Admin Interface](#limitations-of-the-mastodon-admin-interface)
-- [How and When to use the GitHub Issue Tracker](#how-and-when-to-use-the-github-issue-tracker)
+- [Attentes](#expectations)
+- [Comment et quand utiliser le Courriel](#how-and-when-to-use-email)
+- [Comment et quand utiliser l’Interface Utilisateur de Mastodon](#how-and-when-to-use-the-mastodon-ui)
+  - [Ce que vous devriez inclure dans votre rapport](#what-you-should-include-in-your-report)
+    - [Limites de l’Interface d’Administration de Mastodon](#limitations-of-the-mastodon-admin-interface)
+- [Comment et quand utiliser l’outil de Suivi des Problèmes GitHub](#how-and-when-to-use-the-github-issue-tracker)
 
-In general, the Mastodon UI (i.e. the "report" feature on
-Hachyderm.io) is used for reporting specific posts, users, and
-domains. The GitHub Community Issue tracker is for other types of
-reports as well as raising other questions and conversations with
-the Hachyderm Moderation Team. Optionally, users may also send us
-information via email if neither Mastodon reports nor the
-GitHub Community Issues are appropriate for the conversation.
+En général, l’interface utilisateur de Mastodon (c.-à-d. la fonctionnalité "rapport" sur Hachyderm.io) est utilisée spécifiquement pour signaler les postes, les utilisateurs et les domaines. Le suivi des problèmes de la communauté GitHub est destiné à d’autres types de rapports, ainsi qu’à soulever d’autres questions et conversations avec l’équipe de modération d'Hachyderm. En option, les utilisateurs peuvent également nous envoyer des informations par e-mail si ni les rapports Mastodon ni les GitHub Issues ne sont appropriés pour la conversation.
 
-## Expectations
+## Attentes
 
-Our server rules still apply when filing a report or otherwise
-communicating with the moderation and infrastructure teams.
+Nos règles de serveur s’appliquent toujours lors du dépôt d’un rapport ou de toute autre communication avec les équipes de modération et d’infrastructure.
 
-## How and When to use Email
+## Comment et Quand utiliser le Courriel ?
 
-The moderation team should, in general, only be contacted via
-email to:
+En général, l’équipe de modération ne doit être contactée que par courriel à :
 
-* Supplement a report in the Mastodon UI
-* Provide a report or other communication that cannot be in a
-public forum, like the GitHub Issue tracker, and cannot be
-submitted via the Mastodon UI.
-* Request information about creating a [specialized account](../../account-types/).
+* Compléter un rapport/signalement dans l’Interface Utilisateur Mastodon
+* Fournir un rapport ou une autre communication qui ne peut pas se trouver dans un forum public, comme l’outil de "Suivi des Problèmes" (Issue Tracker) de GitHub, et qui ne peut pas être soumis via l’IU Mastodon.
+* Demander des informations sur la création d’un [compte spécialisé](../../account-types/).
 
-In short: please prioritize using the Mastodon UI and/or GitHub
-issues as often as possible. That said, if you would need to reach
-out to the admin team for any of the above situations or another
-grey area, please use [admin@hachyderm.io](mailto:admin@hachyderm.io).
+En bref : veuillez prioriser l’utilisation de l’Interface Utilisateur Mastodon et/ou GitHub aussi souvent que possible. Cela dit, si vous devez communiquer avec l’équipe d’administration pour l’une des situations ci-dessus ou une autre zone grise, veuillez utiliser [admin@hachyderm.io](mailto:admin@hachyderm.io).
 
-## How and When to use the Mastodon UI
+## Comment et Quand utiliser l’IU Mastodon
 
-The Mastodon UI, i.e. what you see when you're using Hachyderm.io
-or your home Mastodon instance of choice, should generally be used
-for reporting issues that can be reported via reporting individual
-posts. This typically is used for:
+L’IU Mastodon, c.-à-d. ce que vous voyez lorsque vous utilisez Hachyderm.io ou l’instance Mastodon de votre choix, devrait généralement être utilisé pour signaler les problèmes qui peuvent être signalés via des publications individuelles. Ceci est généralement utilisé pour :
 
-* Reporting individual posts but not the user overall
-* Reporting a user via their posts
-* Reporting a domain via the posts of their users
+* Signaler les publications individuelles, mais pas l’utilisateur dans son ensemble
+* Signaler un utilisateur via ses publications
+* Reporting d’un domaine via les posts de leurs utilisateurs
 
-For information about the report feature, and what we see when you
-send us a report, please look at our [Report Feature doc page](../../mastodon/moderation/report-feature/).
+Pour en savoir plus sur la fonctionnalité de rapport et ce que nous voyons lorsque vous nous envoyez un rapport, veuillez consulter notre [page de documentation Fonctionnalité de Signalement](../../mastodon/moderation/report-feature/).
 
-### What you should include in your report
+### Ce que vous devriez inclure dans votre signalement
 
-* Include specific posts where relevant
-    * This includes if you're reporting a specific user as an individual or as
-    as a general representation of a server dedicated to that type of behavior.
-    * Note that it is important to include posts, where relevant, as the report
-      feature does keep the posts even if the user / their server admin deletes
-      the posts or suspends the user's account. So if a user has been posting
-      and deleting those posts, we won't see it by looking at the timeline but
-      the UI will keep them if you include them.
-* Always include the context when you are prompted for Additional Comments,
-  even if it is obvious. This can be as succinct as "spam".
-    * If you are sending us a report for a server violation and the posted
-      content is not in English, please supply the translation and relevant
-      context. In many cases, online translation tools can only directly
-      translate the words but not the commonly understood (or dogwhistled)
-      meaning. If you run out of characters, please submit the report and tell
-      us you have emailed us, and email us at [admin@hachyderm.io](mailto:admin@hachyderm.io).
-    * If you are sending us a report with a short / one-word description, please make sure it
-      correctly captures the situation. If the reported description does not align
-      with what is included with the report, we will close the report.
-    * If you are sending us a report of problematic content where the visuals
-      may be traumatizing in and of themselves, you _can_ choose not to include
-      the posts but please always include what we will see when we look
-      at the reported user's account or the reported server. We have moderators
-      opt-in to tasks like these when they appear.
+* Inclure des publications spécifiques, le cas échéant
+    * Ceci inclut si vous signalez un utilisateur spécifique en tant qu’individu ou en tant que représentation générale d’un serveur dédié à ce type de comportement.
+    * Notez qu’il est important d’inclure les postes, le cas échéant, car la fonctionnalité de signalement conserve les postes même si l’utilisateur / son administrateur serveur supprime les postes ou suspend le compte de l’utilisateur. Donc, si un utilisateur a posté et supprimé ces messages, nous ne le verrons pas en regardant la chronologie (timeline), mais l’interface les conservera si vous les incluez.
+* Toujours inclure le contexte lorsque vous êtes invité à entrer des Commentaires Supplémentaires, même si c’est évident. Cela peut être aussi succinct que "spam".
+    * Si vous nous envoyez un rapport pour une violation de serveur et que le contenu publié n’est pas en anglais, veuillez fournir la traduction et le contexte pertinent. Dans de nombreux cas, les outils de traduction en ligne ne peuvent traduire directement les mots, mais pas le sens communément compris (ou "dogwhistled"). Si vous manquez de caractères, veuillez soumettre le rapport et nous dire que vous nous avez envoyé un courriel, et envoyez-nous un courriel à [admin@hachyderm.io](mailto:admin@hachyderm.io).
+    * Si vous nous envoyez un rapport avec une brève description, même un mot, assurez-vous qu’il reflète bien la situation. Si la description ne correspond pas à ce qui est inclus dans le rapport, nous fermerons le rapport.
+    * Si vous nous envoyez un rapport de contenu problématique où les éléments visuels peuvent être traumatisants en eux-mêmes, vous _pouvez_ choisir de ne pas inclure
+      les postes, mais veuillez toujours inclure ce que nous verrons lorsque nous regarderons
+      le compte de l’utilisateur déclaré ou le serveur signalé. Nous avons des modérateurs pour des tâches comme celles-ci quand elles apparaissent.
 
  
-What to know about the Additional Comments:
+Ce qu’il faut savoir au sujet des Commentaires Supplémentaires :
 
-The most important limitation you should know is
-that the Additional Comments field has a character limit of 1000
-characters (as of this writing). If you need to supply more
-context, or the translation takes more than 1000 characters,
-please:
+La limitation la plus importante que vous devriez savoir est que le champ Commentaires Supplémentaires à une limite de caractères de 1000 caractères (à l'heure où nous écrivons). Si vous avez besoin de fournir plus de contexte, ou la traduction prend plus de 1000 caractères, s’il vous plaît :
 
-* File the report with what you can
-* Make sure to leave enough space to tell us there is a
-  supplementary email
-* Email us at [admin@hachyderm.io](mailto:admin@hachyderm.io)
+* Envoyer le rapport avec ce que vous pouvez 
+* Assurez-vous de laisser suffisamment d’espace pour nous informer qu’il y a un courriel supplémentaire.
+* Envoyez-nous un courriel à [admin@hachyderm.io](mailto:admin@hachyderm.io)
 
-**_Please note: if we receive an empty report and cannot see a
-clear cause, we will close the report without moderator action._**
+**_Remarque : si nous recevons un rapport vide et que nous ne voyons pas de cause claire, nous fermerons le rapport sans action de modération._**
 
-#### Limitations of the Mastodon Admin Interface
+#### Limites de l’Interface d’Administration de Mastodon
 
-When we receive a report, we cannot follow up with the reporting user to ask for
-additional information using the admin tools.
+Lorsque nous recevons un rapport, nous ne pouvons pas faire de suivi auprès de l’utilisateur pour lui demander des renseignements supplémentaires à l’aide des outils d’administration.
 
-How this impacts you:
+Comment cela vous touche :
 
-If you are reporting an issue and do not include enough
-information and/or a way for us to get in touch with you to
-clarify, we might not be able to take the appropriate action.
-So please do make sure to include posts as needed, comments and
-context, and email us at [admin@hachyderm.io](mailto:admin@hachyderm.io)
-as needed.
+Si vous signalez un problème et que vous n’incluez pas suffisamment d’information ou de moyen pour que nous puissions communiquer avec vous.
+Clairement, nous pourrions ne pas être en mesure de prendre les mesures appropriées.
+Veuillez donc vous assurer d’inclure les publications, les commentaires et le contexte, et envoyez-nous un courriel à [admin@hachyderm.io](mailto:admin@hachyderm.io) au besoin.
 
-## How and When to use the GitHub Issue Tracker
+## Comment et Quand utiliser l’outil de Suivi des Problèmes GitHub
 
-The [Community's GitHub Issues](https://github.com/hachyderm/community/issues),
-a.k.a. Issue Tracker, is for communicating with the moderation
-_and_ infrastructure teams, as needed. To create an issue:
+Le [Community's GitHub Issues](https://github.com/hachyderm/community/issues),
+a.k.a. Issue Tracker, est pour communiquer avec les équipes modération _et_ d'infrastructure 
+Pour créer une "issue" :
 
-1. Go to [github.com/hachyderm/community/issues](https://github.com/hachyderm/community/issues)
-1. Click on "New Issue" in the upper right side.
-1. Select one of the issue templates that applies to you / your situation
-1. Enter the information needed on the Issue. Depending on the template, there
-   may be some prompts for what information should be included.
+1. Allez à [github.com/hachyderm/community/issues](https://github.com/hachyderm/community/issues)
+1. Cliquez sur "New Issue" dans le coin supérieur droit.
+1. Sélectionnez l’un des modèles de problème qui s’applique à vous ou à votre situation.
+1. Entrez les renseignements nécessaires sur le problème. Selon le modèle, il peut y avoir des indications sur les renseignements à inclure.
 
-The Community Issues can still be used to report domains, as you would do in the UI.
-It can also be used to request emoji, report a service outage (you can also use
-[omg.hachyderm.io](https://omg.hachyderm.io) for this),
-request updates / changes to the docs, and so on. There are issue
-templates for the most common issues that prompt users for the information
-we need to respond to requests efficiently. Depending on the
-nature of the request / discussion, a member of the infrasture
-team and/or the moderation team will respond.
+"The Community Issues" peuvent toujours être utilisés pour rapporter des domaines, comme vous le feriez dans l’interface utilisateur.
+Il peut également être utilisé pour demander des émoticônes, signaler une panne de service (vous pouvez également utiliser
+[omg.hachyderm.io](https://omg.hachyderm.io) pour cela),
+demander des mises à jour ou des changements aux documents, etc. Il existe des modèles de problèmes pour les problèmes les plus courants, qui incitent les utilisateurs à obtenir l’information dont nous avons besoin pour répondre efficacement aux demandes. Selon la nature de la demande ou de la discussion, un membre de l’équipe responsable de l’infrastructure ou de l’équipe de modération répondra.
 
