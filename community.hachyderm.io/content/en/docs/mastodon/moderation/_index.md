@@ -15,7 +15,6 @@ For issues with this doc page itself, please reach out to us on
 [Hachyderm's Community Issue tracker](https://github.com/hachyderm/community/issues).
 {{% /pageinfo %}}
 
-The documentation in this section is meant to supplement, not supplant, [Mastodon's
-documentation at docs.joinmastodon.org](https://docs.joinmastodon.org/). This section
-of the documentation is specifically for the Mastodon UI and features that are used
-by the moderation team here at Hachyderm. 
+#### The documentation in this section is meant to supplement, not supplant, [Mastodon's documentation at docs.joinmastodon.org](https://docs.joinmastodon.org/). 
+
+### This section of the documentation is specifically for the Mastodon UI and features that are used by the moderation team here at Hachyderm.
