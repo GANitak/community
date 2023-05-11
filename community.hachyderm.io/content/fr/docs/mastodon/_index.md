@@ -1,22 +1,19 @@
 ---
-title: "Mastodon for Users and Moderators"
+title: "Mastodon pour les Utilisateurs et les Mods"
 linkTitle: "Mastodon"
 weight: 40
 description: >
-    Supplementary documentation for Hachyderm users and moderators.
+    Documentation supplémentaire pour les utilisateurs et mods d'Hachyderm.
 ---
 
 {{% pageinfo %}}
-This section documents features and processes maintained by Mastodon. For
-issues related to these features and/or processes, please reach out to the Mastodon team
-directly on [the Mastodon project's GitHub](https://github.com/mastodon/mastodon).
-
-For issues with this doc page itself, please reach out to us on
-[Hachyderm's Community Issue tracker](https://github.com/hachyderm/community/issues).
+<h5 class="text-center">This page was manually translated on 05/11/23. </br>Please utilize the English docs for the most up to date policies.</h5>
 {{% /pageinfo %}}
 
-The documentation in this section is meant to supplement, not supplant, [Mastodon's
-documentation at docs.joinmastodon.org](https://docs.joinmastodon.org/). We are choosing
-to write clarifications around the Mastodon UI and features that are either frequently
-used by the Hachyderm community or provide aadded clarity for any features that we
-require our users to make use of.
+{{% pageinfo %}}
+Cette section décrit les caractéristiques et les processus mis à jour par Mastodon. Pour tout problème lié à ces fonctions ou processus, veuillez communiquer directement avec l’équipe de Mastodon sur [GitHub du projet Mastodon](https://github.com/mastodon/mastodon).
+
+Pour les problèmes avec cette page de doc elle-même, s’il vous plaît contactez-nous sur [Hachyderm’s Community Issue tracker](https://github.com/hachyderm/community/issues).
+{{% /pageinfo %}}
+
+La documentation de cette section vise à compléter, et non à supplanter, [Documentation de Mastodon à docs.joinmastodon.org](https://docs.joinmastodon.org/). Nous choisissons d’écrire des clarifications autour de l’interface utilisateur Mastodon et des fonctionnalités qui sont fréquemment utilisées par la communauté Hachyderm, ou fournir une clarté supplémentaire pour toutes les fonctionnalités que nous demandons à nos utilisateurs d'utiliser.
