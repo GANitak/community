@@ -1,59 +1,49 @@
 ---
-title: "Mastodon Report Feature"
-linkTitle: "Report Feature"
+title: "Mastodon Fonctionnalité de Signalement"
+linkTitle: "Fonctionnalité de Signalement"
 weight: 40
 description: >
-  How to use the Mastodon report feature.
+  Comment utiliser la fonction de signalement de Mastodon.
 ---
 
 {{% pageinfo %}}
-This section documents features and processes maintained by Mastodon. For
-issues related to these features and/or processes, please reach out to the Mastodon team
-directly on [the Mastodon project's GitHub](https://github.com/mastodon/mastodon).
-
-For issues with this doc page itself, please reach out to us on
-[Hachyderm's Community Issue tracker](https://github.com/hachyderm/community/issues).
+<h5 class="text-center">This page was manually translated on 05/11/23. </br>Please utilize the English docs for the most up to date policies.</h5>
 {{% /pageinfo %}}
 
-## Overvew <!-- omit in toc -->
-- [About the Report Feature](#about-the-report-feature)
-- [How to create a report](#how-to-create-a-report)
-- [What a Filed Report Looks Like](#what-a-filed-report-looks-like)
-    - [Who can see moderation reports](#who-can-see-moderation-reports)
-    - [Limitations of the Mastodon Admin Interface](#limitations-of-the-mastodon-admin-interface)
-    - [One Last Reminder](#one-last-reminder)
+{{% pageinfo %}}
+Cette section décrit les caractéristiques et les processus mis à jour par Mastodon. Pour tout problème lié à ces fonctions ou processus, veuillez communiquer directement avec l’équipe de Mastodon sur [GitHub du projet Mastodon](https://github.com/mastodon/mastodon).
 
-## About the Report Feature
+Pour les problèmes avec cette page de doc elle-même, s’il vous plaît contactez-nous sur [Hachyderm’s Community Issue tracker](https://github.com/hachyderm/community/issues).
+{{% /pageinfo %}}
 
-Mastodon's report feature is a way for Mastodon users to send reports to
-a Mastodon instance's admins or moderators. If you are reporting a user to your own
-instance's moderators, then only they will see the report. If you are reporting
-a user on a remote server, then your home instance's admins still see the report.
-In the case of a remote user, you can also choose whether or not to forward
-the report to that instance's admins. The nuance here is capturing whether you
-are reporting a user to their own home instance for their admins to take action,
-to your own instance admins for them to take action, or both.
+## Sommaire <!-- omit in toc -->
+- [À propos de la Fonctionnalité de Signalement](#à-propos-de-la-fonctionnalité-de-signalement)
+- [Comment créer un Rapport](#comment-créer-un-rapport)
+- [À Quoi Ressemble un Rapport Complété](#à-quoi-ressemble-un-rapport-complété)
+    - [Qui Peut Voir les Rapports de Modération](#qui-peut-voir-les-rapports-de-modération)
+    - [Limites de l’Interface d’Administration de Mastodon](#limites-de-linterface-dadministration-de-Mastodon)
+    - [Une Dernière Chose](#une-dernière-chose)
 
-On Hachyderm, we specifically request Hachydermians to use the report feature for the
-following scenarios:
+## À propos de la Fonctionnalité de Signalement
 
-* Reporting individual posts but not the user overall
-* Reporting a user via their posts
-* Reporting a domain via the posts of a user on that domain
+La fonctionnalité de signalement de Mastodon permet aux utilisateurs de Mastodon d’envoyer des rapports aux administrateurs ou modérateurs d’une instance de Mastodon. Si vous signalez un utilisateur aux modérateurs de votre propre instance, alors seulement eux verront le rapport. Si vous signalez un utilisateur sur un serveur distant, les administrateurs de votre instance d’origine voient toujours le rapport. Dans le cas d’un utilisateur distant, vous pouvez également choisir de transmettre ou non le rapport aux administrateurs de cette instance. La nuance ici est de saisir si vous signalez un utilisateur à sa propre instance pour que ses administrateurs prennent des mesures, ou à vos propres administrateurs d’instance pour qu’ils prennent des mesures, ou les deux.
 
-When submitting a report, it is important to include all relevant information.
-This includes supporting information, **_even if it seems obvious_**, any relevant 
-posts as needed, as well as comments supplied by you.
+Sur Hachyderm, nous demandons expressément aux Hachydermiens d’utiliser la fonctionnalité de rapport pour les scénarios suivants :
 
-**_Please note: if we receive an empty report and cannot see a
-clear cause, we will close the report without moderator action._**
+* Signaler les publications individuelles, mais pas l’utilisateur dans son ensemble
+* Signaler un utilisateur via ses publications
+* Signaler un domaine via les messages d’un utilisateur sur ce domaine
 
-For more information about this, please see our [doc on Reporting Issues and Communicating with Moderators](../../../moderation/reporting/).
+Lors de la soumission d’un signalement, il est important d’inclure tous les renseignements pertinents. Cela comprend des informations à l’appui, même si cela semble évident, tous les messages pertinents au besoin, ainsi que vos commentaires.
 
-## How to create a report
+**_Remarque : si nous recevons un rapport vide et que nous ne voyons pas de cause claire, nous fermerons le rapport sans intervention du modérateur._**
 
-1. Click on the meatballs(⋯) menu below the post and select
-"report"<br /> 
+Pour de plus amples renseignements à ce sujet, veuillez consulter notre [doc. sur les questions de signalement et de communication avec les modérateurs](../../../moderation/reporting/).
+
+## Comment créer un Rapport
+
+1. Cliquez sur (...) menu sous le poste et sélectionnez "signaler"
+<br /> 
 <img src="report-post-drop-down-menu.png"
      alt="Example post with the text This is a blob fox
      appreciation post and three blob fox emoji. The UI menu is
@@ -61,16 +51,14 @@ For more information about this, please see our [doc on Reporting Issues and Com
      mute the user, block the user, or report the user. The
      following steps are for reporting the user."
      width="400" />
-1. Select why you're reporting.<br />
+1. Sélectionnez la raison de votre signalement.<br />
 <img src="report-post-why-part1.png"
      alt="Dialog box with four options to select for reporting a
      user. The options are I don't like it, It's spam, It violates
      server rules, and It's something else. In the example, It
      violates server rules is selected."
      width="400" />
-1. If you selected Server Rules for the reason, as we did in this
-   example, then you'll be asked to select which and can select
-   more than one:<br />
+1. Si vous avez choisi Règles du Serveur pour la raison, comme nous l’avons fait dans cet exemple, alors il vous sera demandé de sélectionner laquelle et vous pouvez en sélectionner plus d’une :<br />
 <img src="report-post-why-part2.png"
      alt="Additonal dialog box to allow user to select which rules
      are violated. All the server rules, including Don't be a
@@ -78,8 +66,7 @@ For more information about this, please see our [doc on Reporting Issues and Com
      one or more server rules as being violated. Here only Don't
      be a dick is selected."
      width="400" />
-1. Please select any and all additional posts to include in the
-report<br />
+1. Veuillez sélectionner toutes les publications supplémentaires à inclure dans le rapport.<br />
 <img src="report-post-why-part3.png"
      alt="Dialog that allows you to select other user posts that
      may be related to the report. The posts shown are not all in
@@ -88,45 +75,32 @@ report<br />
      response window are shown. Only the Blob Fox Appreciation
      post is selected."
      width="400" />
-1. Please include all relevant context to help us
-   process the report:<br />
+1. Veuillez inclure tout le contexte pertinent pour nous aider à traiter le rapport :<br />
 <img src="report-post-why-part4-submit.png"
      alt="Additional Comments dialog box, with a limit of 1000
      characters, to allow users to supply additional information
      with their report."
      width="400" />
-1. You can **optionally** choose to unfollow, mute, or block
-   the user before you click "Done".<br />
+1. Vous pouvez **optionnellement** choisir de vous désabonner, de mute/désactiver ou de bloquer l’utilisateur avant de cliquer sur « Terminé ».<br />
 <img src="report-post-why-part5-done.png"
       alt="You can optionally unfollow, mute, or block the user you are
       reporting before selecting Done. You do not need to do any of
       these actions for the report to be submitted."
       width="400" />
 
-The Additional Comments step is very important. To help us process reports
-efficiently there should _always_ be additional context in the
-Additional Comments field - the more the better. This should be done
-**_even if the report seems self-explanatory_**. In the case of
-reports of posts, users, and domains that are in languages other
-than English, we will need an English translation supplied.
+L’étape des Commentaires Supplémentaires est très importante. Pour nous aider à traiter les rapports de façon efficace, il devrait toujours y avoir un contexte supplémentaire dans le champ Commentaires Supplémentaires - le plus possible. Cela doit être fait **_même si le rapport semble être explicite_**. Dans le cas de rapports de postes, d’utilisateurs et de domaines dans des langues autres que l’anglais, nous aurons besoin d’une traduction en anglais fournie.
 
-The most important limitation you should know at this stage is
-that the Additional Comments field has a character limit of 1000
-characters (as of this writing). If you need to supply more
-context, or the translation takes more than 1000 characters,
-please:
+La limitation la plus importante que vous devriez connaître à ce stade est que le champ Commentaires Supplémentaires a une limite de caractères, de 1000 caractères (à ce jour). Si vous avez besoin de fournir plus de contexte, ou la traduction prend plus de 1000 caractères, s’il vous plaît :
 
-* File the report with what you can
-* Make sure to leave enough space to tell us there is a
-  supplementary email
-* Email us at [admin@hachyderm.io](mailto:admin@hachyderm.io)
+* Compléter le rapport avec ce que vous pouvez
+* Assurez-vous de laisser suffisamment d’espace pour nous informer qu’il y a un courriel supplémentaire.
+* Envoyez-nous un courriel à [admin@hachyderm.io](mailto:admin@hachyderm.io)
 
-## What a Filed Report Looks Like
+## À Quoi Ressemble un Rapport Complété
 
-For an example, I had Björn's user create a report against my Blob
-Fox Appreciation Post that I used for the screenshots above. When
-a member of the moderation team reviews the report, it looks like
-this:
+Par exemple, j’ai demandé à l’utilisateur de Björn de créer un rapport contre mon Blob
+Fox Appreciation Post que j’ai utilisé pour les captures d’écran ci-dessus. Quand un membre de l’équipe de modération examine le rapport, ça ressemble à
+ceci :
 
 <img src="filed-report-overview.png"
      alt="Zoomed out view of what the report looks like for a
@@ -137,9 +111,7 @@ this:
      in detail below."
      width="400" />
 
-Since that is a very zoomed out view, let's look at each of the
-sections. At the top is the same user information you'd see if you
-navigated to the top of a user's profile page:
+Comme il s’agit d’une vue très agrandie, examinons chacune des sections. En haut, vous trouverez les mêmes renseignements que si vous naviguez vers le haut de la page du profil d’un utilisateur :
 
 <img src="filed-report-top.png"
      alt="This is the top of the same report. The user is user
@@ -150,14 +122,9 @@ navigated to the top of a user's profile page:
      report is shown as violates server rules - Don't be a dick."
      width="400" />
 
-This section also shows the moderator team why the report was
-filed, in this case the "Don't Be A Dick" rule is selected.
+Cette section montre également à l’équipe de modérateur pourquoi le rapport a été déposé, dans ce cas, la règle "Don’t Be A Dick" est sélectionnée.
 
-Underneath that is the comment that the user supplied when they
-filed the report as well as all the posts they selected to include
-with it. If the user is a Hachydermian, the user name is
-supplied as you can see here. If the user is off our server, only
-the source server is supplied.
+En dessous se trouve le commentaire fourni par l’utilisateur lorsqu’il a déposé le rapport ainsi que tous les postes qu’il a choisi d’inclure avec lui. Si l’utilisateur est un Hachydermien, le nom d’utilisateur est fourni comme vous pouvez le voir ici. Si l’utilisateur est hors de notre serveur, seul le serveur source est fourni.
 
 <img src="filed-report-user-comment.png"
      alt="This section shows the additional information provided
@@ -166,8 +133,7 @@ the source server is supplied.
      as well as the post that was included in the report."
      width="400" />
 
-At the bottom is the section where moderators can leave comments
-and choose what action to take:
+Au bas se trouve la section où les modérateurs peuvent laisser des commentaires et choisir les mesures à prendre :
 
 <img src="filed-report-mod-comment-and-action.png"
      alt="Moderator actions are shown here as Mark As Resolved -
@@ -176,70 +142,46 @@ and choose what action to take:
      comments."
      width="400" />
 
-Moderators can choose to close the issue with only an explaining
-comment, or to take one of the shown actions and close the issue.
-For visibility, the moderation actions are:
+Les modérateurs peuvent choisir de clore le problème "issue" avec seulement un commentaire explicatif, ou de prendre l’une des mesures indiquées et de clore le problème "issue".
+Pour la visibilité, les actions de modération sont :
 
-1. Mark as Resolved (No moderator action)
-1. Delete posts (Moderator resolves by deleting the offending
-post(s))
-1. Limit (Formerly known as "silence". The user can still
-participate but they will not show in Local or Federated feeds.)
-1. Freeze (User can log into their account but cannot interact.)
-1. Warn (Moderators send a note through the interface to the
-reported user. Note this option is not visible on the screenshot.)
-1. Suspend (Also known as "ban". If the user is a Hachydermian
-then their account is removed from our server. If they are on a
-different server that user is banned from interacting with our
-server.)
+1. Marquer comme résolu (aucune mesure de modération)
+1. Supprimer les postes (mods résolvent en supprimant le poste(s) offensant)
+1. Limite (Anciennement connu sous le nom de « silence ». L’utilisateur peut toujours participer, mais il ne s’affichera pas dans les flux Locaux ou Fédérés.)
+1. Gel (l’Utilisateur peut ouvrir la session de leur compte, mais ne peut pas interagir)
+1. Avertissement (les Mods envoient une note à l’utilisateur signalé par l’intermédiaire de l’interface. Notez que cette option n’est pas visible sur la capture d’écran.)
+1. Suspendre (Aussi appelé « ban ». Si l’utilisateur est un hachydermien, son compte est supprimé de notre serveur. S’il est sur un serveur différent, il est interdit à l’utilisateur d’interagir avec notre serveur.)
 
-Of the above actions, the only moderation actions that are visible
-are if a moderator deletes a post or suspends an account. When an
-issue is closed without action or when a user is warned, frozen, or
-limited, the action is not visible to the reporting user or other
-users. This means that we / your instance moderators may have taken
-action as the result of your report, but that action is not
-publicly visible.
+Parmi les actions ci-dessus, les seules actions de modération qui sont visibles sont si un mod supprime un poste ou suspend un compte. Lorsqu’un problème est clos sans action ou lorsqu’un utilisateur est averti, gelé ou limité, l’action n’est pas visible pour l’utilisateur déclarant ou les autres utilisateurs. Cela signifie que nous ou les mods de votre instance avons peut-être pris des mesures à la suite de votre rapport, mais que ces mesures ne sont pas visibles publiquement.
 
-Please look at [our Actions and Appeals doc](../../../moderation/actions-and-appeals/)
-for more information about how we use the moderation tools to
-moderate Hachyderm.
+Veuillez consulter [notre doc Actions et Appels](../../../moderation/actions-and-appeals/)
+pour en savoir plus sur la façon dont nous utilisons les outils de modération pour modérer Hachyderm.
 
-#### Who can see moderation reports
+#### Qui Peut Voir les Rapports de Modération
 
-If you are reporting a user on the same instance as you are (local user):
+Si vous signalez un utilisateur sur la même instance que vous (utilisateur local) :
 
-* The instance moderators can see your report
+* Les mods de l’instance peuvent voir votre rapport
 
-If you are reporting a user _not_ on the same instance as you are (remote user):
+Si vous signalez un utilisateur _pas_ sur la même instance que vous (utilisateur distant) :
 
-* Your instance moderators can see your report
-* Remote instance moderators / the moderators for the reported user's instance can
-  only see the report if you forward the report.
+* Les mods de votre instance peuvent voir votre rapport
+* Les mods d’instance distante / les mods de l’instance de l’utilisateur signalé ne peuvent voir le rapport que si vous le transmettez.
 
-Regular users do **_not_** have access to moderation reports.
+Les utilisateurs réguliers **_n'ont pas_** accès aux rapports de modération.
 
-#### Limitations of the Mastodon Admin Interface
+#### Limites de l’Interface d’Administration de Mastodon
 
-When we receive a report in the admin tools, there are two main
-drawbacks:
+Lorsque nous recevons un rapport dans les outils d’administration, il y a deux inconvénients principaux :
 
-* We cannot follow up with the reporting user to ask for
-  additional information
-* We cannot follow up with the reported user, even if they file an
-  appeal
+* Nous ne pouvons pas faire de suivi auprès de l’utilisateur déclarant pour demander des informations complémentaires
+* Nous ne pouvons pas faire de suivi auprès de l’utilisateur déclaré, même s'il fait appel.
 
-How this impacts you:
+Comment cela vous touche :
 
-* If you are reporting an issue and do not include enough
-  information and/or a way for us to get in touch with you to
-  clarify, we might not be able to take the appropriate action.
-* If you are appealing a moderation decision and do not include
-  enough information for us to make a decision and a way to
-  contact you, we might not have enough information to reverse the
-  decision and no way to request more information from you.
+* Si vous signalez un problème et que vous n’incluez pas suffisamment d’information ou de moyen pour nous de communiquer avec vous pour obtenir des précisions, nous pourrions ne pas être en mesure de prendre les mesures appropriées.
+* Si vous faites appel pour une décision de modération et que vous ne nous fournissez pas suffisamment d’information pour que nous puissions prendre une décision et communiquer avec vous, il se peut que nous n’ayons pas suffisamment d’information pour annuler la décision et qu’il soit impossible de vous demander plus d’information.
 
-#### One Last Reminder
+#### Une Dernière Chose
 
-**_If we receive an empty report and cannot see a
-clear cause, we will close the report without moderator action._**
+**_Si nous recevons un rapport vide et que nous ne voyons pas de cause claire, nous fermerons le rapport sans mods intervention._**

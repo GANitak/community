@@ -15,7 +15,7 @@ For issues with this doc page itself, please reach out to us on
 [Hachyderm's Community Issue tracker](https://github.com/hachyderm/community/issues).
 {{% /pageinfo %}}
 
-## Overvew <!-- omit in toc -->
+## Overview <!-- omit in toc -->
 - [About the Report Feature](#about-the-report-feature)
 - [How to create a report](#how-to-create-a-report)
 - [What a Filed Report Looks Like](#what-a-filed-report-looks-like)
@@ -27,11 +27,11 @@ For issues with this doc page itself, please reach out to us on
 
 Mastodon's report feature is a way for Mastodon users to send reports to
 a Mastodon instance's admins or moderators. If you are reporting a user to your own
-instance's moderators, then only they will see the report. If you are reporting
+instance's moderators, then only them will see the report. If you are reporting
 a user on a remote server, then your home instance's admins still see the report.
 In the case of a remote user, you can also choose whether or not to forward
 the report to that instance's admins. The nuance here is capturing whether you
-are reporting a user to their own home instance for their admins to take action,
+are reporting a user to their own home instance for their admins to take action, or
 to your own instance admins for them to take action, or both.
 
 On Hachyderm, we specifically request Hachydermians to use the report feature for the
