@@ -18,9 +18,7 @@ For issues with this doc page itself, please reach out to us on
 ## Overview <!-- omit from toc -->
 
 This documentation page covers the customization options available to you via Profile and Preferences settings.
-The majority of the article length is due to screenshots that show the main view for each settings page. All of
-the settings shown in the screenshots are the default settings, done for the purposes of this article. This document
-only provides explanation text where the feature being enabled / disabled is not self-descriptive.
+The majority of the article length is due to screenshots that show the main view for each settings page. All of the settings shown in the screenshots are the default settings, done for the purposes of this article. This document only provides explanation text where the feature being enabled / disabled is not self-descriptive.
 
 - [Profile Settings](#profile-settings)
   - [Appearance](#appearance)
@@ -32,7 +30,7 @@ only provides explanation text where the feature being enabled / disabled is not
 
 ## Profile Settings
 
-In order to edit your profile settings, you can click the "Edit Profile" text beneath your handle on
+In order to edit your profile settings, you can click the "Edit Profile" text beneath your _handle_ on
 the left side, like so:
 
 <img src="profile-preferences-edit.png"
@@ -50,7 +48,7 @@ the settings for Profile <i class="fas fa-arrow-right"></i> Appearance:
 
 <img src="profile-preferences-settings.png"
      alt="Screenshot of the complete profile settings configuration options, including but not limited to
-          the bio text area, the uploads for avatar and page banner, check boxes to control follower and
+          the bio text area, the uploads for avatar and page banner, check boxes to control followers and
           following activity, metadata for URLs, and so forth."
      width="450px" />
 
@@ -186,7 +184,7 @@ To recap the above, here is where you can:
 
 * Opt-out of search engine indexing
 * Group boosts in timelines
-  * Enabled by default. When enabled, if multiple people have boosted the same post in a short timeframe you will
+  * Enabled by default. When enabled, if multiple people have boosted the same post in a short timeframe you will see
     only one of the boosts rather than all of the boosts separately.
 * Set your default posting privacy
   * Posting privacy options are:<br />
