@@ -61,8 +61,8 @@ That said, one of the big reasons that we do not moderate for tag casing is
 because of this feature: users will frequently not catch that their tags have
 been overwritten while composing their post.
 
-For completely new tags the tag is stored with the case you compose it with. This is when
-you should take additional care: the next person who types the tag after you
+For completely new tags, the tag is stored with the case you compose it with. This is when
+you should take additional care: the next person who types the tag after you,
 will be presented to autocomplete the version you have typed (as the only one
 that exists).
 
