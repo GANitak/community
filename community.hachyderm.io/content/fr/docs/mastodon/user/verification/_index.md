@@ -1,126 +1,97 @@
 ---
-title: "How to Verify with Mastodon"
+title: "Comment Vérifier avec Mastodon"
 linkTitle: "Verification"
 weight: 40
 description: >
-  How to verify with Mastodon.
+  Comment vérifier avec Mastodon
 ---
 
 {{% pageinfo %}}
-This page documents a process maintained by Mastodon. For
-verification failures, please reach out to the Mastodon team
-directly on [the Mastodon project's GitHub](https://github.com/mastodon/mastodon).
-
-For issues with this doc page itself, please reach out to us on
-[Hachyderm's Community Issue tracker](https://github.com/hachyderm/community/issues).
+<h5 class="text-center">This page was manually translated on 05/12/23. </br>Please utilize the English docs for the most up to date policies.</h5>
 {{% /pageinfo %}}
 
-## What is verification?
+{{% pageinfo %}}
+Cette section décrit les caractéristiques et les processus mis à jour par Mastodon. Pour tout problème lié à ces fonctions ou processus, veuillez communiquer directement avec l’équipe de Mastodon sur [GitHub du projet Mastodon](https://github.com/mastodon/mastodon).
 
-Verification on Mastodon works less like Twitter and more like an identity
-service. That is, you do not need to prove your association with your own
-brand to an entity or to pay a fee, you are only showing that you are the owner of one
-(or more) domains or accounts on separate services to substantiate your digital
-identity.
+Pour les problèmes avec cette page de doc elle-même, s’il vous plaît contactez-nous sur [Hachyderm’s Community Issue tracker](https://github.com/hachyderm/community/issues).
+{{% /pageinfo %}}
 
-Here's what it looks like when a profile has verified via their GitHub
-identity:
+## Qu’est-ce que la vérification?
+
+La vérification sur Mastodon fonctionne moins comme Twitter et plus comme un service d’identité. Autrement dit, vous n’avez pas besoin de prouver votre association avec votre propre marque à une entité ou de payer des frais, vous montrez seulement que vous êtes le propriétaire d’un (ou plusieurs) domaines ou des comptes sur des services distincts pour justifier votre identité numérique.
+
+Voici à quoi cela ressemble quand un profil a été vérifié via leur identité GitHub :
 
 <img src="mastodon-verification-profile-quintessence.png"
-     alt="Screenshot of profile for user quintessence, showing avatar, header
-          and relevantly the verified GitHub URL field which is highlighted in
-          green and has a green checkmark next to the URL." />
+     alt="Capture d’écran du profil pour l'utilisatrice quintessence, montrant avatar, en-tête et pertinemment le champ vérifié URL GitHub qui est mis en évidence en vert et a une coche 'checkmark' verte à côté de l’URL." />
 
-GitHub shows as verified with a green checkmark and complete URL,
-including username / handle.
+GitHub s’affiche comme vérifié avec une _checkmark_ verte un URL complet, y compris le nom d’utilisateur / handle.
 
-### What domains or accounts can you verify?
+### Quels domaines ou comptes, pouvez-vous vérifier?
 
-You can verify via:
+Vous pouvez vérifier via :
 
-* Any domain that you can edit pages for
-* Any online service that recognizes, supplies, or allows you to
-  supply the "rel me" attribute (see below).
+* Tout domaine pour lequel vous pouvez modifier des pages
+* Tout service en ligne qui reconnaît, fournit ou permet de fournir l’attribut « rel me » (voir ci-dessous).
 
-## How to verify
+## Comment vérifier
 
-### Verifying with domains
+### Vérification avec les domaines
 
-In general, when you verify you will do so by using the following HTML on the
-page you are editing, like a personal site or blog:
+En général, lorsque vous vérifiez, vous le ferez en utilisant le HTML suivant sur la page que vous éditez, comme un site personnel ou un blog :
 
 ```html
-<a rel="me" href="https://hachyderm.io/@username">Hachyderm</a>
+<a rel="me" href="https://hachyderm.io/@nomutilisateur">Hachyderm</a>
 ```
 
-If you would like to avoid using a visible link, like the above, you can
-also put the following in the page headers:
+Si vous souhaitez éviter d’utiliser un lien visible, comme ci-dessus, vous pouvez également mettre ce qui suit dans les en-têtes de page :
 
 ```html
-<link rel="me" href="https://hachyderm.io/@username">
+<link rel="me" href="https://hachyderm.io/@nomutilisateur">
 ```
 
-After doing either of the above, you will need to add the URL of the site
-to your Hachyderm / Mastodon profile. You will do that by:
+Après avoir fait l’un ou l’autre des éléments ci-dessus, vous devrez ajouter l’URL du site à votre profil Hachyderm / Mastodon. Vous le ferez en :
 
-1. Go to Edit Profile
-2. In one of the four fields of Profile Metadata, add the URL of the
-   destination you are verifying
-3. Save changes
+1. Allez à Modifier le Profil.
+2. Dans l’un des quatre champs des métadonnées de profil, ajoutez l’URL de la destination que vous vérifiez.
+3. Enregistrer les changements
 
-Here is an example profile with two separate sources of identity
-verification:
+Voici un exemple de profil avec deux sources distinctes de vérification de l’identité :
 
 <img src="mastodon-verification-profile-matt-stratton.png"
-     alt="Screenshot of profile for user Matty Stratton, used with permission,
-          showing two sources of URL verification. One is his own website,
-          mattstratton.com and the other is his Keyoxide account. Both are
-          highlighted in green with green checkmarks next to the URL to show
-          they are verified." />
+     alt="Capture d’écran du profil de l’utilisateur Matty Stratton, utilisé avec permission, montrant deux sources de vérification d’URL. L’un est son propre site web, mattstratton.com et l’autre est son compte Keyoxide. Les deux sont surlignés en vert avec des _checkmarks_ vertes à côté de l’URL pour montrer qu’ils sont vérifiés." />
 
-<small>Screenshot of Hachyderm user profile taken with permission.</small>
+<small>Capture d’écran du profil utilisateur de Hachyderm prise avec permission.</small>
 
-### Verifying with services
+### Vérification auprès des services
 
-We will add more services as requested by the Community either by
-[creating an issue on our Community Issue Tracker](https://github.com/hachyderm/community/issues) or via a
-direct [pull request on the Community repo](https://github.com/hachyderm/community/pulls).
+Nous ajouterons d’autres services à la demande de la Communauté soit en
+[créant une "issue" sur notre _Community Issue Tracker_](https://github.com/hachyderm/community/issues) ou via un direct [_Pull Request_ sur le repo de la Communauté](https://github.com/hachyderm/community/pulls).
 
-Instructions for current, commonly requested, services are below.
+Les instructions pour les services courants, communément demandés, sont ci-dessous.
 
-As with the verification process itself: **when verifying with a
-service, that service is responsible for assisting with errors or
-issues with verification. If you experience issues with the
-verification process, please reach out to the relevant service for
-assistance.**
+Comme pour le processus de vérification lui-même : **lors de la vérification avec un service, ce service est responsable d’aider avec les erreurs ou les problèmes de vérification. Si vous éprouvez des problèmes avec le processus de vérification, veuillez communiquer avec le service concerné pour obtenir de l’aide.**
 
 #### GitHub
 
-In early 2023 GitHub announced support for multiple social URLs,
-including adding support for Mastodon specifically. In order to
-verify via GitHub:
+Au début de 2023 GitHub a annoncé un support d'intégration pour plusieurs URL sociales, y compris l’ajout de support pour Mastodon spécifiquement. Afin de vérifier via GitHub :
 
-1. Go to your GitHub profile page and click "Edit"
-1. Provide your Hachyderm account URL of the format `https://hachyderm.io/@USERNAME`
-1. Click "Save"
+1. Allez à votre page de profil GitHub et cliquez sur "Modifier"
+1. Fournissez l’URL de votre compte Hachyderm du format </br>« https://hachyderm.io/@NOMUTILISATEUR »
+1. Cliquez sur Enregistrer.
 
-Once you have saved, your GitHub profile should now render your
-Mastodon account in the format `@USERNAME@hachyderm.io`.
+Une fois que vous avez enregistré, votre profil GitHub devrait maintenant afficher votre compte Mastodon au format « @NOMUTILISATEUR@hachyderm.io ».
 
-**Visually**
+**Visuellement**
 
-When you edit, it will look like this:
+Lorsque vous modifiez, ça ressemblera à ceci :
 
 <img src="mastodon-github-verification-edit-2023-change.png"
-     alt="Screenshot of editable fields on Quintessence's GitHub
-	 profile. Specifically under social fields the full URL for
-	 her Hachyderm account, of the pattern https://hachyderm.io/@USERNAME, is
-	 supplied."
+     alt="Capture d’écran des champs modifiables sur le profil GitHub de Quintessence. Spécifiquement sous les champs sociaux l’URL complet, pour son compte Hachyderm, du modèle https://hachyderm.io/@USERNAME, est fourni."
 	 width="400px"/>
 
-Once saved, your Hachyderm account will look like this:
+Une fois enregistré, votre compte Hachyderm ressemblera à ceci :
 
 <img src="mastodon-github-verification-saved-2023-change.png"
-     alt="Screenshot of only the rendered Mastodon handle after
-	 saving the change, of the format @username@hachyderm.io" />
+     alt="Capture d’écran uniquement du _handle_ Mastodon rendue après enregistrement de la modification, au format @nomUTILISATEUR@hachyderm.io" />
 
