@@ -3,168 +3,103 @@ title: "Blocklists"
 linkTitle: "Blocklists"
 weight: 40
 description: >
-  Community information about Blocklists and how Blocklists are built.
+  Informations communautaires sur les Blocklists et comment les Blocklists sont construits.
 ---
 
-## The Basics of Blocklists
+{{% pageinfo %}}
+<h5 class="text-center">This page was manually translated on 05/13/23. </br>Please utilize the English docs for the most up to date policies.</h5>
+{{% /pageinfo %}}
 
-### General Purpose
+## Les bases des Blocklists
 
-Blocklists are one way that a Mastodon instance can handle unwanted
-content on the instance level. When a Mastodon domain is on the Blocklist,
-this means that the server administrators have limited or completely
-suspended activity with the server at that domain. The specific actions
-are:
+### Objectif Général
 
-- Suspend<br />This is the most commonly known one, as it prevents all
-instance-to-instance activity.
-- Limit<br />Previously known as "silencing". This means that accounts on
-the home server can follow accounts on the limited server, but that general
-content from that server does not show up on the Federated timeline.
-- Reject Media<br />Media from the moderated server will not display on the
-home server, this includes not only media in the posts themselves but
-avatars and headers as well.
+Les blocklists sont un moyen qu’une instance de Mastodon à pour gérer le contenu indésirable au niveau de l’instance. Lorsqu’un domaine Mastodon est sur la Blocklist, cela signifie que les administrateurs du serveur ont une activité limitée ou complètement suspendue avec le serveur de ce domaine. Les actions spécifiques sont :
 
-[Mastodon has these features in their documentation](https://docs.joinmastodon.org/admin/moderation/#server-wide-moderation).
+- Suspendre<br />C’est le plus connu, car il empêche tout
+activité d’instance à instance.
+- Limite<br />Précédemment appelé "silencieux". Cela signifie que les comptes sur le serveur d’accueil peuvent suivre les comptes sur le serveur limité, mais que le contenu général de ce serveur n’apparaît pas sur la timeline fédérée.
+- Rejeter les Médias<br />Les médias du serveur modéré ne s’affichent pas sur le serveur principal, cela inclut non seulement les médias dans les postes eux-mêmes, mais
+avatars et en-têtes aussi.
 
-### Moderator vs User Actions
+ [Mastodon a ces caractéristiques dans sa documentation](https://docs.joinmastodon.org/admin/moderation/#server-wide-moderation).
 
-Users can _also_ take individual action to prevent themselves from seeing
-unwanted content by blocking or limiting other accounts on the user level.
-This is recommended for cases where the content is perhaps unwanted by
-an individual user, but that content does not violate the home server's
-ethos.
+### Modération Actions vs Utilisateur Actions
 
-Mastodon has additional documentation about actions that individual
-users can take on their [Dealing With Unwanted Content documentation page](https://docs.joinmastodon.org/user/moderating/).
+Les utilisateurs peuvent également prendre des mesures individuelles pour éviter de voir du contenu indésirable en bloquant ou en limitant d’autres comptes au niveau de l’utilisateur.
+Ceci est recommandé pour les cas où le contenu est peut-être considéré indésirable par un utilisateur individuel, mais que le contenu ne viole pas l’ethos du serveur d’accueil.
 
-## How Hachyderm's Blocklist is Built
+Mastodon a de la documentation supplémentaire sur les actions que les utilisateurs individuels peuvent prendre sur leur [page Traiter le Contenu Indésirable](https://docs.joinmastodon.org/user/moderating/).
 
-At Hachyderm, we do our best to balance what actions should be taken at the
-instance level and what should be handled at the user level - both when it
-comes to our own users and when we receive reports of users on other
-instances or the instances themselves. The vast majority of the moderator
-action we have taken on servers on our Blocklist is to either
-silence/limit or suspend/block. The domains that are included on this list are:
+## Comment la Blocklist d'Hachyderm est-elle Construite
 
-- Curated from a variety of published Blocklists on other Mastodon instances
-- Added based on user reports. This can mean either:
-  - A domain has been reported, researched, and moderated individually, _or_
-  - A high volume of reports regarding several users on an instance have led
-    to an instance being researched and moderated
+Chez Hachyderm, nous faisons de notre mieux pour équilibrer les actions à prendre au niveau de l’instance et celles à traiter au niveau de l’utilisateur - quand il s’agit de nos propres utilisateurs et quand nous recevons des signalements d’utilisateurs sur d’autres instances ou les instances elles-mêmes. La grande majorité d'action de mod que nous avons prise sur les serveurs de notre Blocklist est soit de silence / limite ou de suspendre / bloquer. Les domaines inclus dans cette liste sont :
 
-Although suspension is the most well-known and discussed moderation action,
-domains may be limited as well. For example, we might limit a server that
-has several bots that are taking over the Federated timeline but not
-suspend so users can continue to follow individual accounts.
+- Organisé à partir d’une variété de Blocklists publiés sur d’autres instances Mastodon
+- Ajouté en fonction des signalements d'utilisateurs. Cela peut signifier :
+  - Un domaine a été signalé, étudié et modéré individuellement, _ou_
+  - Un volume élevé de signalements concernant plusieurs utilisateurs sur une instance a conduit
+    à une instance d'être recherchée et de modérée
+ 
+Bien que la suspension soit l’action de modération la plus connue et discutée, les domaines peuvent aussi être limités. Par exemple, nous pourrions limiter un serveur qui a plusieurs bots qui envahissent la timeline fédérée, mais pas suspendre afin que les utilisateurs puissent continuer à suivre les comptes individuels.
 
-### Concerns that go into building the Blocklist
+### Préoccupations qui entrent dans la construction de la Blocklist
 
-There are a few top level concerns that go into determining adding servers
-to the Blocklist:
+Il ya quelques préoccupations de haut niveau qui entrent dans la détermination de l’ajout de serveurs à la Blocklist :
 
-1. Does the ethos of a specific server violate the ethos of this server?<br />A few
-   easily understood examples would be if a server is anti-Black, anti-queer,
-   or endorses either direct or dog-whistled hate speech and content.
-1. Is there a security concern around this server?<br />As a broad example,
-   if we see malicious traffic coming from a specific server or servers.
-1. What risk does the server pose to our users?<br />We prioritize the safety and
-   experience of our users that are in historically underrepresented
-   groups.
-1. What do our user reports look like? Are they user level on a given
-   server or are they indicative of malicious patterns server-wide?
-1. What level of moderation is needed? Limit/silence or block/suspend?
+1. L’ethos d’un serveur spécifique viole-t-il l’ethos de ce serveur ? <br />Quelques exemples faciles à comprendre seraient si un serveur est anti-Noirs, anti-queer, ou endosse un discours et un contenu haineux, direct ou "dog-whistled".
+1. Y a-t-il un problème de sécurité autour de ce serveur ? <br />À titre d’exemple général,
+   si nous voyons du trafic malveillant provenant d’un ou de plusieurs serveurs spécifiques.
+1. Quel risque le serveur représente-t-il pour nos utilisateurs? <br />Nous accordons la priorité à la sûreté et à l’expérience de nos utilisateurs qui font partie de groupes historiquement sous-représentés.
+1. À quoi ressemblent nos signalements d’utilisateurs? Sont-ils au niveau de l’utilisateur sur un serveur donné ou sont-ils indicatifs de modèles malveillants à l’échelle du serveur?
+1. Quel niveau de modération est nécessaire? Limiter/silence ou bloquer/suspendre?
 
-It is our opinion that it is in our users' best interest to federate with
-as much of the Fediverse as possible so that we can all share our joys,
-sorrows, growth, learning, etc. with each other.
+Nous sommes d’avis qu’il est dans l’intérêt de nos utilisateurs de se fédérer avec autant de Fediverse que possible afin que nous puissions tous partager nos joies, nos peines, notre croissance, notre apprentissage, etc. les uns avec les autres.
 
-Our goal with the maintenance of the Blocklist is to ensure that all of
-our users are safe on Hachyderm. That means when we move forward with taking
-moderation action on a server, that we will take the best course of
-action to ensure that safety. We will prioritize the safety of our
-marginalized users over the broader experience of a completely open
-and unmoderated (at the server level) Fediverse.
+Notre objectif avec la maintenance de la Blocklist est de s’assurer que tous nos utilisateurs sont en sécurité sur Hachyderm. Cela signifie que lorsque nous prenons des mesures de modération sur un serveur, nous prenons les meilleures mesures pour assurer cette sécurité. Nous accorderons la priorité à la sécurité de nos utilisateurs marginalisés plutôt qu’à l’expérience plus vaste d’une ouverture complète et non modéré (au niveau du serveur) du Fediverse.
 
-When we take moderation action against a server, we consider:
+Lorsque nous prenons des mesures de modération contre un serveur, nous considérons :
 
-- The items called out in the numbered list above
-- Balancing open participation with curating a safe space
+- Les éléments énumérés dans la liste numérotée ci-dessus
+- Trouver un équilibre entre la participation ouverte et l’aménagement d’un espace sûre 
 
-### Concerns that go into transparency around the Blocklist
+### Préoccupations autour de la transparence de la Blocklist
 
-Some servers have reasons attached to their moderation action and
-others do not. In addition, we may or may not announce when we
-limit/silence or block/suspend individual instances. Why is this?
+Certains serveurs ont des raisons attachées à leur action de modération et d’autres pas. En outre, nous pouvons ou non annoncer quand nous limitons/silence ou bloquons/suspendons des instances individuelles. Pourquoi ?
 
-When we choose what level of notification to send, and how
-transparent to be, with moderation actions we consider:
+Lorsque nous choisissons le niveau de notification à envoyer, et la transparence à être, nous considérons, les actions de modération ci-après: 
 
-1. The impact of the change
-1. The interest level in the change
-1. The risk of publicizing/being transparent about the change
+1. L’impact du changement
+1. Le niveau d’intérêt dans le changement
+1. Le risque de faire connaître le changement ou d’être transparent à son sujet
 
-For example, if we were to take moderation action against
-any of the large, popular Mastodon instances we would err on
-the side of transparency as this would be a significant and
-user impacting event.
+Par exemple, si nous devions prendre des mesures de modération à l’égard de n’importe laquelle des grandes instances de Mastodon, nous errerions du côté de la transparence, car il s’agirait d’un événement important qui aurait une incidence sur les utilisateurs.
 
-Whenever we take action on a server that has malicious activity,
-and this can be in the form of attacks on our server or in the
-form of social attacks like stalking and harassment, we err on
-the side of safety. This means what level of information
-we provide and how loudly (notifications, etc.) we provide
-it will be based on what is safest for all of our users.
+Chaque fois que nous prenons des mesures sur un serveur qui a une activité malveillante, et cela peut être sous forme d’attaques sur notre serveur ou sous forme d’attaques sociales comme le "stakling" et le harcèlement, nous errons du côté de la sécurité. Cela signifie le niveau d’information que nous fournissons et à quel point (notifications, etc.) nous le fournirons en fonction de ce qui est le plus sûre pour tous nos utilisateurs.
 
-The vast, vast majority of instances fall between these two
-extremes and thus the resulting decisions do not fall
-perfectly in the "fully transparent" or "completely silent" buckets.
-This means:
+La grande, grande majorité des cas se situent entre ces deux extrêmes et donc les décisions qui en résultent ne tombent pas parfaitement dans les clous "entièrement transparents" ou "complètement silencieux".
+Cela signifie :
 
-- Servers may not have reasons attached to their moderation
-  decisions, but that doesn't mean they are a security or safety concern.
-  <br />To do this would immediately out them as a security
-  concern, by the absence of information.
-- Not all changes to individual server status will be loudly announced, but some
-  will.<br />
-  We will use the decision-making process outlined above when
-  announcing.
-- Not announcing that a server has changed status does not
-  mean that server is or was a cause of concern. It can
-  also, and frequently will, mean that the server size doesn't impact
-  enough of our users to make a large announcement.
+- Les serveurs peuvent ne pas avoir de raisons liées à leurs décisions de modération, mais cela ne      signifie pas qu’ils constituent une préoccupation en matière de sécurité, ou sûreté.
+  <br />Cela les exposerait immédiatement en tant que préoccupation de sécurité, en l’absence d’information.
+- Les changements apportés à l’état de chaque serveur ne seront pas tous annoncés, mais certains le seront. <br />
+  Nous utiliserons le processus décisionnel décrit ci-dessus au moment de l’annonce.
+- Ne pas annoncer qu’un serveur a changé de statut ne signifie pas que le serveur est ou était une cause de préoccupation. Cela peut aussi signifier, et le sera souvent, que la taille du serveur n’a pas suffisamment d’impact sur nos utilisateurs pour faire une grande annonce.
 
-## Requesting Moderation Changes for a Server
+## Demander des Changements de Modération pour un Serveur
 
-### What to do if there is a domain on the Blocklist in error
+### Que faire s’il y a un domaine sur la Blocklist par erreur
 
-We are all human and are prone to mistakes. If there is a domain that is
-moderated on our Blocklist that seems to be in error, please open a
-[GitHub Issue in our Community repo](https://github.com/hachyderm/community/issues)
-to request that we take another look at the domain. Please include
-as much relevant context as you can to help us make our decision.
-Note that depending on the circumstances, and as outlined above, we may
-not be able to be fully transparent with our decision - but we commit
-to erring on the side of transparency with these reports as often as possible.
-For more information about how to file a report in our community
-repo, please take a look at our [Reporting
-Documentation](/docs/moderation/reporting).
+Nous sommes tous humains et sommes sujets aux erreurs. S’il y a un domaine qui est modéré sur notre blocklist qui semble être là par erreur, s’il vous plaît ouvrez un
+[Issue GitHub dans notre repo Communautaire](https://github.com/hachyderm/community/issues)
+Demandez que nous regardions le domaine. Veuillez inclure autant de contexte pertinent que possible pour nous aider à prendre notre décision. Veuillez noter que, selon les circonstances, et comme il est indiqué ci-dessus, nous ne serons peut-être pas en mesure d’être entièrement transparents dans notre décision - mais nous nous sommes du côté de la transparence, au maximum avec ces signalements, le plus possible. Pour obtenir de plus amples renseignements sur la façon de faire un signalement via notre repo communautaire, veuillez consulter notre [Documentation sur les Signalements].(/docs/moderation/reporting).
 
-### What to do if you would like us to moderate a server
+### Que faire si vous souhaitez que nous modérions un serveur 
 
-If there is a server that is not currently moderated, i.e. either
-limited/silenced or banned/suspended, then please file a report
-via the Hachyderm (Mastodon) UI or [GitHub Issue in our Community repo](https://github.com/hachyderm/community/issues)
-for us to take a look at that domain or domains. As before, please
-include as much context as possible. If there is a concern around the
-domain(s) you would like to report that would be risky to report in our
-GitHub Issue tracker, please email us at [admin@hachyderm.io](mailto:admin@hachyderm.io).
-For more information about filing reports and how to choose
-between the Mastodon UI and the GitHub Issue tracker, please look
-at our [Reporting Documentation](/docs/moderation/reporting).
+S’il y a un serveur qui n’est pas actuellement modéré, c.-à-d. limité/silencieux ou interdit/suspendu, veuillez déposer un signalement via l’IU Hachyderm (Mastodon) ou [Issue GitHub dans notre repo Communautaire](https://github.com/hachyderm/community/issues)
+pour que nous puissions examiner ce ou ces domaines. Comme auparavant, veuillez inclure le plus de contexte possible. S’il y a une préoccupation concernant le ou les domaines que vous aimeriez signaler et qui serait risquée à signaler dans notre outil de suivi des problèmes de GitHub, veuillez nous envoyer un courriel à [admin@hachyderm.io](mailto:admin@hachyderm.io).
+Pour en savoir plus sur le dépôt de signalements et sur la façon de choisir entre l’IU de Mastodon et l’outil de Suivi des Problèmes GitHub (Issue Tracker), veuillez consulter notre [Documentation sur les Signalements](/fr/docs/moderation/reporting).
 
-### What not to do in either of these cases
+### Que ne pas faire dans l’un ou l’autre de ces cas
 
-There are far, far more Hachydermians than moderators. We do not follow
-tags, posts, etc. to make changes to our Blocklist - we only use the sources
-outlined above.
+Il y a beaucoup plus d’Hachydermiens que de modérateurs. Nous ne suivons pas les tags, postes, etc. pour apporter des modifications à notre Blocklist - nous utilisons uniquement les sources décrites ci-dessus.
