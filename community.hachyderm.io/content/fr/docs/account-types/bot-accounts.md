@@ -1,84 +1,69 @@
 ---
-title: "Bot and Post Automation"
-linkTitle: "Bots and Post Automation"
+title: "Robot et Poste-Automatisation"
+linkTitle: "Robot et Poste-Automatisation"
 weight: 40
 description: >
-  For all types of automated and scheduled content.
+  Pour tous les types de contenu automatisé et planifié.
 ---
 
-If you are running a bot account and/or plan on making use of post scheduling - this
-article is for you!
+{{% pageinfo %}}
+<h5 class="text-center">This page was manually translated on 05/14/23. Please utilize the English docs for the most up to date policies.</h5>
+{{% /pageinfo %}}
 
-## Overview
+Si vous utilisez un compte bot et/ou que vous prévoyez d’utiliser le Poste-Planning - cet article est pour vous !
 
-- Automated posts and bot accounts
-- Posting rules for automated content
-- Posting rules and behavior restrictions for bots
-- All bots must be [verified with Hachyderm](../verification/)
-- Where applicable, accounts should [be verified](../../mastodon/user/verification/)
-  with their relevant domain(s).
+## Sommaire
 
-## A bit about post automation
+- [A Propos de la Poste-Automatisation](#a-propos-de-la-poste-automatisation)
+- [Règles de publication pour le contenu automatisé](#règles-de-publication-pour-le-contenu-automatisé)
+- [Règles de publication et restrictions de comportement pour les bots](#règles-de-publication-et-restrictions-de-comportement-pour-les-bots)
+- Tous les robots doivent être [vérifiés avec Hachyderm](../verification/)
+- Le cas échéant, les comptes doivent [être vérifiés](../../mastodon/user/verification/) avec leurs domaines pertinents.
 
-Not all posting automation is bot, or bot-like, in nature. Many specialized accounts make
-use of post scheduling to help communicate with their intended userbase.
-This can include, but not be limited to, sign up windows for an event that must
-be done in a specific time frame, automated posts when a blog is updated, and so on.
+## A Propos de la Poste-Automatisation
 
-The line between automated posts and bot posts is a thin one, and mostly dependent on
-whether a human composed a post (whether it is scheduled for now or later) and whether or not
-that post is intended to repeat (the "say it once" policy on the [Specialized Account Expectations](../covenant/)).
+L’automatisation de publication n’est pas toujours de nature bot ou bot-like. De nombreux comptes spécialisés utilisent le Poste-Automatisation pour communiquer avec leur base d’utilisateurs visée.
+Cela peut inclure, mais sans s’y limiter, des fenêtres d’inscription pour un événement qui doit être fait dans un délai précis, des postes automatisés lorsqu’un blog est mis à jour, et ainsi de suite.
 
-As with many of our rules on Hachyderm, the rules and regulations for bot and automated posting
-is about their impact on the server. We want that impact to be positive and non-invasive. It is
-our belief that collaboration thrives where there is genuine connection. Genuine connection _can_
-happen via bot and automated posts, but cannot thrive if those posts become invasive or compete with
-each other negatively.
+La ligne entre les postes automatisés et les postes bot est mince, et dépend principalement de si un humain a composé un poste (si elle est prévue pour maintenant ou plus tard) et si oui ou non ce poste est destiné à répéter (le "Une fois suffit" sur les [Attentes Relatives aux Comptes Spécialisés](../covenant/)).
 
-When we enforce the rules and regulations on bots and automated content, as outlined in the next
-section, we do so with the goal of increasing the connected, collaborative nature of the
-Hachyderm community.
+Comme avec beaucoup de nos règles sur Hachyderm, les règles et règlements pour le bot et la publication automatisé est à propos de leur impact sur le serveur. Nous voulons que cet impact soit positif et non invasif. Nous croyons que la collaboration prospère là où il y a un véritable lien. Une véritable connexion peut se faire via des postes de bot et automatisés, mais ne peut pas prospérer si ces postes deviennent invasifs ou en concurrence les uns avec les autres négativement.
 
-## Posting Rules
+Lorsque nous appliquons les règles et les règlements sur les robots et le contenu automatisé, comme indiqué dans la section suivante, nous le faisons dans le but d’accroître la nature connectée et collaborative de la communauté Hachyderm.
 
-All accounts that make use of automated and/or scheduled posts must adhere to the following:
+## Règles de publication pour le contenu automatisé
 
-- **There is an upper limit of 5 curated/scheduled/automated posts per day. Lower is better.**
-- Posts cannot violate other rules
-  - This includes server rules disallowing spam, fundraising, NSFW/18+ content (et al)
-  - Hybrid accounts, those that make use of scheduled posts and are also another specialized type,
-    are bound to all sets of rules for their combined, hybrid, account type.
-  - Posts cannot violate the [Specialized Account Expectations](../covenant/)
-- There is one exception: automated posts _can_ skirt the "say it once" policy, unless it
-  becomes spam-worthy (**_community discretion_**). So, if you need to post about your event,
-  blog, etc. and stay within the total number of posts per day, this is fine.
+Tous les comptes qui utilisent des publications automatisées ou planifiées doivent respecter les exigences suivantes :
 
-Accounts that violate the above may be limited or suspended.
+- **Il y a une limite supérieure de cinq publications sélectionnées, planifiées ou automatisées par jour. Il vaut mieux réduire.**
+- Les publications ne peuvent violer d’autres règles
+  - Cela comprend les règles du serveur, autour des postes monétaires, spams interdiction, ou le contenu NSFW/18+ (et al)
+  - Les comptes hybrides, ceux qui utilisent des postes à horaire fixe et qui sont également un autre type spécialisé, sont liés à tous les ensembles de règles pour leur type de compte hybride combiné.
+  - Les publications ne peuvent pas violer les [Attentes Relatives aux Comptes Spécialisés](../covenant/)
+- Il y a une exception : les postes automatisés peuvent contourner la politique "Une fois suffit", à moins qu’elle ne devienne indésirable (**_communauté discrétion_**). Donc, si vous avez besoin de poster sur votre événement, blog, etc. et rester dans le nombre total de messages par jour, c’est très bien.
 
-### Bot Specific Rules
+Les comptes qui violent les règles ci-dessus peuvent être limités ou suspendus.
 
-#### Account Configuration
+## Règles de publication et restrictions de comportement pour les bots
 
-- All bot accounts must [be verified with Hachyderm](../verification/), which means they agree to the [Specialized Account Expectations](../covenant/).
-- All bots must select the bot checkbox in their profile settings. (Open image in new window to enlarge.)<br />
+#### Configuration du Compte
+
+- Tous les comptes robots doivent [être vérifiés avec Hachyderm](../verification/), ce qui signifie qu’ils acceptent les [Attentes Relatives aux Comptes Spécialisés](../covenant/).
+- Tous les robots doivent cocher la case du robot dans leurs paramètres de profil. (Ouvrez l’image dans une nouvelle fenêtre pour l’agrandir.)<br />
   <img src="../mastodon-bot-account.png"
-       alt="Screenshot of four check boxes in account settings: require follow
-       requests, this is a bot account, suggest account to others, and hide
-       your social graph" 
+       alt="Capture d’écran de quatre cases à cocher dans les paramètres du compte : demander de suivre les demandes, il s’agit d’un compte bot, suggérer un compte à d’autres et masquer votre graphique social" 
        width="400px" />
-- Bots are required to put the `#hachybots` hashtag in _all_ posts
-  to allow users to opt into, or out of, bot posts.
+- Les bots sont tenus de mettre le `#hachybots` hashtag dans _tous_ les postes pour permettre aux utilisateurs de s’inscrire ou non aux messages bot.
 
-#### Restrictions on Behavior
+#### Restrictions Relatives au Comportement
 
-All bot accounts, and bot-like posts, must respect consent (i.e. opt-in). This means:
+Tous les comptes bot, et les publications similaires, doivent respecter le consentement (c.-à-d. opt-in). Cela signifie :
 
-- Bots may respond directly to posts that they have been tagged in.
-- Reactionary bots may only be triggered / "summoned" by posts that include their handle.
-  - But they cannot "doom spiral". Essentially: they _cannot_ continue to respond to every response in
-    a thread, because they were tagged once, and thus auto-tagged in all subsequent responses.
-- Bots _cannot_ respond to hashtags, keywords, etc. without being tagged - e.g. bots that respond to user posts based on keywords and similar.
-- Bots designed to consume, use, store, or otherwise handle data (even public data) can only do so with consent (opt-in).
-- Bots designed for fun _can_ skirt the "say it once" policy, unless it becomes spam-worthy (**_community discretion_**). So, if your bot only responds with "honk", and only when summoned, this is fine.
+- Les robots peuvent répondre directement aux postes dans lesquels ils ont été tagués.
+- Les robots réactionnaires ne peuvent être déclenchés / "invoqués" que par des postes qui incluent leur 'handle' /nom.
+  - Mais ils ne peuvent pas "devenir spirale infernale". Essentiellement : ils _ne peuvent pas_ continuer à répondre à chaque réponse dans un fil, parce qu’ils ont été tagués une fois, et donc auto-tagué dans toutes les réponses subséquentes.
+- - Les robots _ne peuvent pas_ répondre aux hashtags, aux mots-clés, etc. sans être tagués - p. ex., les robots qui répondent aux messages des utilisateurs en fonction de mots-clés et de choses semblables.
+- Les robots conçus pour consommer, utiliser, stocker ou autrement traiter des données (même des données publiques) ne peuvent le faire qu’avec le consentement (opt-in).
+- Les robots conçus pour le plaisir _peuvent_ contourner la politique « Une fois suffit », à moins qu’ils ne deviennent des spams (**_communauté discrétion_**). Donc, si votre bot ne répond qu’avec "klaxonner", et seulement lorsqu’il est convoqué, c’est bien.
 
-Bot accounts that violate any of the above may be limited or banned.
+Les comptes Bot qui violent l’un des éléments ci-dessus peuvent être limités ou interdits.

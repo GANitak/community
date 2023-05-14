@@ -11,12 +11,11 @@ article is for you!
 
 ## Overview
 
-- Automated posts and bot accounts
-- Posting rules for automated content
-- Posting rules and behavior restrictions for bots
+- [A bit about post automation](#a-bit-about-post-automation)
+- [Posting rules for automated content](#posting-rules-for-automated-content)
+- [Posting rules and behavior restrictions for bots](#posting-rules-and-behavior-restrictions-for-bots)
 - All bots must be [verified with Hachyderm](../verification/)
-- Where applicable, accounts should [be verified](../../mastodon/user/verification/)
-  with their relevant domain(s).
+- Where applicable, accounts should [be verified](../../mastodon/user/verification/) with their relevant domain(s).
 
 ## A bit about post automation
 
@@ -39,13 +38,13 @@ When we enforce the rules and regulations on bots and automated content, as outl
 section, we do so with the goal of increasing the connected, collaborative nature of the
 Hachyderm community.
 
-## Posting Rules
+## Posting Rules for automated content
 
 All accounts that make use of automated and/or scheduled posts must adhere to the following:
 
 - **There is an upper limit of 5 curated/scheduled/automated posts per day. Lower is better.**
 - Posts cannot violate other rules
-  - This includes server rules disallowing spam, fundraising, NSFW/18+ content (et al)
+  - This includes server rules around, monetary posts, spam disallowance, NSFW/18+ content (et al)
   - Hybrid accounts, those that make use of scheduled posts and are also another specialized type,
     are bound to all sets of rules for their combined, hybrid, account type.
   - Posts cannot violate the [Specialized Account Expectations](../covenant/)
@@ -55,7 +54,7 @@ All accounts that make use of automated and/or scheduled posts must adhere to th
 
 Accounts that violate the above may be limited or suspended.
 
-### Bot Specific Rules
+## Posting rules and behavior restrictions for bots
 
 #### Account Configuration
 
