@@ -1,219 +1,152 @@
 ---
-title: "Account Types"
-linkTitle: "Account Types"
+title: "Types de Comptes"
+linkTitle: "Types de Comptes"
 weight: 20
 description: >
-  Permissible Hachyderm account types and features, with an account FAQ.
+  Types et fonctionnalités de compte Hachyderm autorisés, avec un compte FAQ .
 ---
 
-Hachyderm generalizes accounts into one of two account types for moderation:
+{{% pageinfo %}}
+<h5 class="text-center">This page was manually translated on 05/14/23. Please utilize the English docs for the most up to date policies.</h5>
+{{% /pageinfo %}}
 
-- User accounts, also referred to as general accounts ([Skip to User Accounts](#user-accounts))
-- Specialized accounts ([Skip to Specialized Accounts](#specialized-accounts))
+Hachyderm généralise les comptes en deux types de comptes pour la modération :
 
-Specialized accounts are, broadly, any account where the account is not
-for the purpose of an individual user who represents themselves on the platform.
-Some examples of specialized accounts include, but aren't limited to: novelty
-accounts, bot accounts, corporate accounts, event accounts, project accounts, and so on.
+- Comptes d’utilisateur, aussi appelés comptes généraux ([Passer aux Comptes Utilisateur](#comptes-utilisateur))
+- Comptes Spécialisés ([Passer aux Comptes Spécialisés](#comptes-spécialisés))
 
-For specialty accounts: we recognize and have rules around some. **If
-an account is not a user account and not one of the recognized specialized
-account types below, then it is not an account type permitted on this
-server.** If you are interested in creating an account that is not
-a user account or a recognized specialized account type, then you need to
-reach out to us at [admin@hachyderm.io](mailto:admin@hachyderm.io).
+Les comptes spécialisés sont, en gros, tous les comptes où le compte n’est pas destiné à un utilisateur individuel qui se représente sur la plateforme. Voici quelques exemples de comptes spécialisés :
+comptes, comptes robots, comptes d’entreprise, comptes événements, comptes projets, etc.
 
-Unrecognized specialized accounts will be removed. Recognized account
-types that do not follow the rules of their account type will be
-moderated as needed.
+Pour les comptes spécialisés : nous reconnaissons et avons des règles autour de certains. **Si un compte n’est pas un compte d’utilisateur et ne fait pas partie des types de comptes spécialisés reconnus ci-dessous, alors il ne s’agit pas d’un type de compte autorisé sur ce serveur.** Si vous souhaitez créer un compte qui n’est pas un compte d’utilisateur ou un type de compte spécialisé reconnu, vous devez :
+nous contacter à [admin@hachyderm.io](mailto:admin@hachyderm.io).
 
-**Note: The Hachyderm Moderation Team does not try to proactively determine your account type.**
+Les comptes spécialisés non reconnus seront supprimés. Les types de comptes reconnus qui ne respectent pas les règles de leur type de compte seront modérés au besoin.
 
-In most cases, unless you've reached out to us via [admin@hachyderm.io](mailto:admin@hachyderm.io),
-then the first time we encounter your account is when it has been reported for a rules violation
-based on your perceived account type. In general, unless we see a discrepancy that indicates otherwise,
-we will moderate based on that perceived type.
+**Remarque : L’équipe Hachyderm Moderation n’essaie pas de déterminer de façon proactive le type de votre compte.**
 
-For all account types: username parking is prohibited on this server.
-Please only create an account that is in active use, even if only
-lurking. Accounts that appear to be "parked" will be suspended.
+Dans la plupart des cas, à moins que vous ayez communiqué avec nous via [admin@hachyderm.io](mailto:admin@hachyderm.io), la première fois que nous rencontrons votre compte est quand il a été signalé pour une violation des règles en fonction de votre type de compte perçu. En général, à moins que nous constations une divergence qui indique le contraire, nous allons modérer en fonction de ce type perçu.
 
-## User Accounts
+Pour tous les types de comptes : le parking par nom d’utilisateur est interdit sur ce serveur.
+S’il vous plaît créer seulement un compte qui est en usage actif, même si vous "lurker" uniquement. Comptes qui semblent être "garé" sera suspendu.
 
-User accounts are also referred to as General Accounts, which are
-briefly described on our [General Accounts page](./general-accounts/).
+## Comptes Utilisateur
 
-Similar to all other accounts, General Accounts must follow server rules.
+Les comptes utilisateurs sont aussi appelés comptes généraux, qui sont brièvement décrits dans notre [page Comptes généraux](./general-accounts/).
 
-There are some exceptions that would result in General Accounts being moderated more strictly:
-- Accounts Causing Confusion
-- Influencer Accounts
+Comme tous les autres comptes, les comptes généraux doivent suivre les règles du serveur.
 
-Please review the below sections for details about each of the exceptions
+Il y a certaines exceptions qui leaderait à des comptes généraux modérés plus strictement :
+- Comptes causant de la confusion
+- Comptes d’influenceurs
 
-### Accounts Causing Confusion
+Veuillez consulter les sections ci-dessous pour en savoir plus sur chacune des exceptions.
 
-If your account has habitual posts that result in confusion about the
-purpose of the account, your account could be subject to moderation.
-It's recommended that you review the list of [Recognized Specialized Account Categories](#recognized-specialized-account-categories)
-and the list of [Disallowed Specialized Account Categories](#disallowed-specialized-account-categories)
-to confirm that a significant portion of your posts don't fall into these categories.
+### Comptes Sources de Confusion
 
-In addition, if you are an individual user then you shouldn't
-have a username or an about page that might indicate that you are a
-company, project, or other form of specialized account. As a
-specific example, if you have an account name like MyUserCompany
-or MyPodcast, then you will be considered that specialized account
-type based on name or about page and be bound by those rules.
+Si votre compte a des publications habituelles qui entraînent de la confusion sur l’objectif du compte, votre compte pourrait être sujet à la modération.
+Nous vous recommandons de passer en revue la liste des [Catégories de Comptes Spécialisés Reconnus](#catégories-de-comptes-spécialisés-reconnus) et la liste des [Catégories de Comptes Spécialisés Refusées](#catégories-de-comptes-spécialisés-refusées)
 
-As always, our group of volunteer moderator will always do their best to abide
-by the [Moderator Covenant.](https://community.hachyderm.io/docs/moderation/covenant/)
+En outre, si vous êtes un utilisateur individuel, vous ne devriez pas avoir un nom d’utilisateur ou une page À Propos qui pourrait indiquer que vous êtes une entreprise, un projet ou une autre forme de compte spécialisé. Comme exemple spécifique, si vous avez un nom de compte comme MyUserCompany ou MyPodcast, alors vous serez considéré comme ce type de compte spécialisé basé sur le nom ou sur la page et être lié par ces règles.
 
-### Influencer Accounts = Large Userbase Accounts
+Comme toujours, notre groupe de mods bénévoles fera toujours de son mieux pour respecter la [Convention de Modérateurs/trices"](https://community.hachyderm.io/docs/moderation/covenant/)
 
-Anyone who has more than 10K followers on an existing platform is
-what we refer to as an [Influencer Account](/docs/account-types/influencer-accounts/). The only special rule here is
-that we request that you reach out to us in advance at
-[admin@hachyderm.io](mailto:admin@hachyderm.io) before migrating
-as we will likely need to assist with the migration to prevent
-follows getting "stuck", etc.
+### Comptes Influenceur = Grande Base d'Utilisateurs
 
-## Specialized Accounts
+Toute personne qui compte plus de 10 000 abonnés sur une plateforme existante est ce que nous appelons un [Compte Influenceur](/docs/account-types/influencer-accounts/). La seule règle spéciale ici est que nous vous demandons de nous contacter à l’avance à [admin@hachyderm.io](mailto:admin@hachyderm.io) avant la migration, car nous devrons probablement aider avec la migration pour éviter que les suivis ne soient "bloqués", etc.
 
-The common rules for all specialized account types are:
+Nombre de comptes spécialisés
 
-- Your username and display name must clearly indicate what you are.<br />
-This means for companies, OSS projects, community events, podcasts, newsletters, etc.
-then the username must match the company / project name. For most
-other account types this means "describe what you are" via username,
-e.g. "CuratedTechJobPosts".
-- You must [be verified](../mastodon/user/verification/) with your company, project, etc. page.<br />
-If your company, project, newsletter, etc. has a web page, then
-that web page must be verified on your profile.
-- All specialized accounts are welcome to [become verified with Hachyderm](verification/).
+Les règles communes à tous les types de comptes spécialisés sont les suivantes :
 
-### Guiding Principles for All Specialized Accounts
+- Votre nom d’utilisateur et votre nom d’affichage doivent indiquer clairement ce que vous êtes. <br />
+Cela signifie pour les entreprises, les projets OSS, les événements communautaires, les balados (podcasts), les newsletters, etc. Ensuite le nom d’utilisateur doit correspondre au nom de l’entreprise ou du projet. Pour la plupart des autres types de comptes, cela signifie "décrire ce que vous êtes" via username, e.g. "CuratedTechJobPosts".
+- Vous devez [être vérifié](../mastodon/user/verification/) avec votre entreprise, projet, etc. page. <br />
+Si votre entreprise, projet, newsletter, etc. a une page Web, alors cette page Web doit être vérifiée sur votre profil.
+- Tous les comptes spécialisés sont les bienvenus à être [vérifier avec Hachyderm](verification/).
 
-Similar to the way that Don't Be A Dick is the guiding principle for the user
-accounts, with other rules calling out common "Whataboutisms" for that rule,
-specialized accounts also have three main guiding principles.
+### Principes directeurs pour tous les comptes spécialisés
 
-> We don't want a digital shouting match on Hachyderm.
+De la même façon que Don’t Be A Dick est le principe directeur pour les comptes utilisateurs, avec d’autres règles appelant des communs "Whataboutisms" pour cette règle, les comptes spécialisés ont également trois principes directeurs principaux.
 
-What does this mean? Essentially, it means we recognize that some of the motivation
-behind creating highly repetitive posts is because Entity A posts N times,
-so Entity B posts M times to be visible over Entity A. And so on. The result is a posting
-race so that an entity's posts can be "heard" above the "cacophony" of other posts.
+> On ne veut pas d’altercation sur Hachyderm.
 
-The goal of some of the rules and restrictions we impose on specialized account types is to curtail
-a discordant symphony of competition that drowns out collaboration and connection.
+Ça veut dire quoi ? Essentiellement, cela signifie que nous reconnaissons qu’une partie de la motivation derrière la création de postes très répétitifs est parce que l’entité A poste N fois, donc l’entité B poste M fois pour être visible par l’entité A. Et ainsi de suite. Le résultat est une course de postage de sorte que les postes d’une entité puissent être "entendus" au-dessus de la "cacophonie" des autres postes.
 
-> We don't want to host an ad server.
+Le but de certaines règles et restrictions que nous imposons aux types de comptes spécialisés est de réduire une symphonie discordante de concurrence qui noie la collaboration et la connexion.
 
-The goal of the remaining rules and restrictions that we impose on specialized account
-types is to prevent hosting an abundance of ad and marketing focused content.
-The world is plastered in ads, but we believe what is needed and craved is connection
-and collaboration. With Hachyderm, we seek to nurture a space where these can thrive.
+> Nous ne voulons pas héberger un serveur publicitaire.
 
-The goal of rules related to this principle is not to make it so our accounts that
-have services and ideas they may also be selling unable to interact on our platform.
-Instead, it is our hope and design that accounts this is relevant to reimagine how
-they can interact with our community in a way that will foster connection and
-collaboration with Hachydermians.
+Le but des autres règles et restrictions que nous imposons aux types de comptes spécialisés est d’empêcher l’hébergement d’une abondance de contenu publicitaire et marketing.
+Le monde est couvert de publicités, mais nous croyons que ce qu’il faut et ce qui est désiré, est d'être connecté et de collaborer. Avec Hachyderm, nous cherchons à nourrir un espace où ceux-la peut prospérer.
 
-> We want community consent to be the default.
+Le but des règles liées à ce principe n’est pas de faire en sorte que nos comptes qui ont des services et des idées qu’ils peuvent aussi vendre ne puissent pas interagir sur notre plateforme.
+Au lieu de cela, c’est notre espoir et notre conception que les comptes sont pertinents pour réinventer la façon dont ils peuvent interagir avec notre communauté d’une manière qui favorisera la connexion et la collaboration avec les Hachydermiens.
 
-There is a lot of content on the internet that can be either harmful or fun, depending on
-its frequency and presentation. Bots, newsletters, and so on are execellent examples
-of this: having a bot respond with "honk" when summoned can get a laugh. A bot that
-auto-responds with gas prices when you mention certain keywords is not. When we are
-moderating specialized accounts, and drafting policies around them, the goal is to
-put that account type in alignment with user consent so that people in our community can
-effortlessly opt into and out of the content as often as each person requires.
+Le but des règles liées à ce principe n’est pas de faire en sorte que nos comptes qui ont des services et des idées qu’ils peuvent aussi vendre, incapables d’interagir, sur notre plateforme.
+Au lieu de cela, nous espérons et concevons que les comptes qui sont pertinents pour réinventer la façon dont ils peuvent interagir avec notre communauté, d’une manière qui favorisera la connexion et
+collaboration entre Hachydermiens.
 
-This doesn't mean that you can't post about what is relevant to your account type.
-This does mean we ask you do so in a way that engages with humans the way you'd wish
-to be interacted with.
+> Nous voulons que le consentement de la communauté soit le défaut.
 
-These principles are outlined further in our [Specialized Account Expectations](covenant/). Some specialized accounts
-need to agree to the Specialized Account Expectations as part of account creation; others, only if they
-become verified.
+Il y a beaucoup de contenu sur Internet qui peut être soit nuisible ou amusant, selon sa fréquence et sa présentation. Bots, newsletters, et ainsi de suite sont d’excellents exemples de ceci : avoir un bot répondre avec "klaxonner" quand invoqué peut faire rire. Un bot qui répond automatiquement avec les prix du gaz lorsque vous mentionnez certains mots clés ne l'est pas. Lorsque nous modérons des comptes spécialisés et rédigeons des politiques à leur sujet, l’objectif est d’harmoniser ce type de compte avec le consentement de l’utilisateur afin que les membres de notre communauté puissent facilement choisir d’accéder au contenu et de s’en retirer aussi souvent que chaque personne le souhaite.
 
-### Recognized Specialized Account Categories
+Cela ne signifie pas que vous ne pouvez pas publier sur ce qui est pertinent pour votre type de compte.
+Cela signifie que nous vous demandons de le faire d’une manière qui engage avec les humains de la façon dont vous souhaiteriez être interagi par…
 
-* [Corporate](corporate-accounts/) - For businesses, companies, and similar. Corporate accounts:
-   * Are **_invite-only_**. For information email us at [admin@hachyderm.io](mailto:admin@hachyderm.io).
-   * Must agree to the [Specialized Account Expectations](covenant/) (formerly Corporate Covenant).
-   * Must follow the [the rules for their account type](corporate-accounts/).
-   * Pay for Hachyderm access (as of 1 Mar 2023). Additional information
-     is on the [corporate accounts page](corporate-accounts/).
-   * **Note**: Unofficial corporate accounts will be suspended. You must email us at [admin@hachyderm.io](mailto:admin@hachyderm.io)
-     prior to creating your account.
-* [Events](open-source-accounts/) - For community events, including conferences and meetups.
-* [Projects](open-source-accounts/) - For Open Source Projects.
-* [Curated](curated-accounts/) - These can be accounts that are re-posting / hosting other content, for example a curated
-  newsletter, or for individuals that are creating and hosting their own content. Examples of curated
-  content can include, but aren't limited to: newsletters, podcasts, and streamers.
-* [Automated](bot-accounts/) - Most commonly, but not exclusively, bot accounts. Any posts that are programmatic and/or
-  scheduled in nature.
-* Hybrid - This is when an account falls under more than one category. Typically, but not exclusively, this is
-  companies, events, projects, etc. making use of automated posts. In this case, the account must adhere to all
-  the rules for the different types they house.
+Ces principes sont décrits plus en détail dans nos [Attentes à l’égard des Comptes Spécialisés](covenant/). Some specialized accounts need to agree to the Specialized Account Expectations as part of account creation, only if they become verified.
 
-Of the above, only the [corporate accounts](corporate-accounts/) are invite-only / require approval. That said,
-we do recommend that all specialized accounts reach out to us prior to creating an account so we may assist with
-the expectation setting for your account type.
+### Catégories de Comptes Spécialisés Reconnus
 
-### Disallowed Specialized Account Categories
+* [Corporate](corporate-accounts/) - Pour les businesses, les entreprises et similaires. Comptes Corporate :
+   * Sont **_invitation-seulement_**. Pour information, envoyez-nous un courriel à [admin@hachyderm.io](mailto:admin@hachyderm.io).
+   * Doit accepter les [Attentes à l’égard des Comptes Spécialisés](covenant/) (anciennement Corporate Covenant).
+   * Doit suivre les [règles pour leur type de compte](corporate-accounts/).
+   * Payer l’accès à Hachyderm (à compter du 1er mars 2023). Des renseignements supplémentaires se trouvent sur la [page des Comptes Corporate].(corporate-accounts/).
+   * **Note**: Les comptes d’entreprise non officiels seront suspendus. Vous devez nous envoyer un courriel à [admin@hachyderm.io](mailto:admin@hachyderm.io) avant de créer votre compte.
+* [Événements](open-source-accounts/) - Pour les événements communautaires, y compris les conférences et les rencontres.
+* [Projets](open-source-accounts/) - Pour les Projets Open Source.
+* [Sélectionné](curated-accounts/) - Il peut s’agir de comptes qui publient ou hébergent d’autres contenus, par exemple une newsletter d’information sélectionnés, ou pour des personnes qui créent et hébergent leur propre contenu. Des exemples de contenu sélectionné peuvent inclure, mais ne sont pas limités à : newsletters, podcasts et streamers.
+* [Automatisé](bot-accounts/) - Le plus souvent, mais pas exclusivement, les comptes bot. Tous les messages qui sont programmatiques et / ou prévus par nature.
+* Hybride – Lorsqu’un compte fait partie de plus d’une catégorie. Typiquement, mais pas exclusivement, il s’agit d’entreprises, d’événements, de projets, etc. utilisant des postes automatisés. Dans ce cas, le compte doit respecter toutes les règles pour les différents types qu’ils hébergent.
 
-The following are disallowed as general content on the server, thus are
-also disallowed as a dedicated account type.
+De ce qui précède, seuls les [comptes corporate](corporate-accounts/) are invite-only / require approval. Cela dit, nous recommandons que tous les comptes spécialisés communiquent avec nous avant de créer un compte afin que nous puissions vous aider à établir les attentes pour votre type de compte.
 
-* NSFW / 18+ - This is mostly due to our need to be able to comply with 18+, which
-  isn't in the Mastodon tooling at this time. (See our [Sexual Content Policy](nsfw-policy/) for more information.)
-* Fundraising - No accounts can fundraise on Hachyderm.
-* Unofficial company / corporate accounts - As this account type is invite only, unapproved
-  accounts will be banned.
-* Unrecognized specialized account - Essentially if you are not a regular user, and not one of the
-  explicitly allowed types, you should reach out to [admin@hachyderm.io](mailto:admin@hachyderm.io)
-  prior to making an account.
+### Catégories de Comptes Spécialisés Refusées
 
-## Frequently Asked Questions
+Les éléments suivants sont interdits en tant que contenu général sur le serveur, donc sont également interdits en tant que type de compte dédié.
 
-Below are the FAQ for all Hachyderm accounts.
+* NSFW / 18+ - Cela est principalement dû à notre besoin d’être en mesure de se conformer à 18+, qui n’est pas dans l’outillage Mastodon en ce moment. (Voir notre [Politique sur le Contenu Sexuel](nsfw-policy/) pour en savoir plus.)
+* Comptes Corporate Non-Officiels – Comme ce type de compte est sur invitation seulement, les comptes non approuvés seront interdits.
+* Compte Spécialisé Non Reconnu - Essentiellement, si vous n’êtes pas un utilisateur régulier, et non un des types explicitement autorisés, vous devriez communiquer avec les [admin@hachyderm.io](mailto:admin@hachyderm.io) avant de faire un compte.
 
-### Can I post about my company?
+## Foire Aux Questions
 
-Yes. Posting about your company is different from a corporate account. Feel
-free to say whatever you want about your company.
+Voici la FAQ pour tous les comptes Hachyderm.
 
-### Can I post about my project?
+### Puis-je publier un article à propos de ma compagnie?
 
-Yes. Posting about your project is different from an open source account. Feel
-free to say whatever you want about your project.
+Oui. L’affichage au sujet de votre compagnie est différent d’un compte corporate. N’hésitez pas à dire ce que vous voulez au sujet de votre compagnie.
 
-### Can I create a bot account?
+### Puis-je publier un article à propos de mon projet?
 
-Not without working directly with the moderators.
+Oui. Poster sur votre projet est différent d’un compte open source. N’hésitez pas à dire ce que vous voulez sur votre projet.
 
-### Can I create an anonymous account?
+### Puis-je créer un compte bot ?
 
-Yes. However, we do not want a single person to operate a high number of
-accounts.
+Pas sans travailler directement avec les modérateurs.
 
-We understand the importance of being anonymous from a security, gender,
-safety, and mental health perspective.
+### Puis-je créer un compte anonyme ?
 
-### Can I create multiple accounts?
+Oui. Cependant, nous ne voulons pas qu’une seule personne exploite un grand nombre de
+comptes.
 
-Yes. Within reason. We expect you to use your best judgement in not flooding
-our servers. We understand you might need more than one account. However, it is
-not a free for all.  We understand security, gender, safety, and mental health,
-and safe space from work are all reasons to create multiple and anonymous
-accounts.
+Nous comprenons l’importance d’être anonymes du point de vue de la sécurité, du genre et de la santé mentale.
 
-### Can I create accounts for pets, characters, or imaginary friends?
+### Puis-je créer plusieurs comptes?
 
-We prefer if you didn't. We are trying to build a curated network of
-professionals on Hachyderm and would encourage you to move these accounts to
-another instance.
+Oui. Dans les limites du raisonnable. Nous nous attendons à ce que vous fassiez preuve de jugement pour ne pas inonder nos serveurs. Nous comprenons que vous pourriez avoir besoin de plus d’un compte. Cependant, ce n’est pas libre pour tous.  Nous comprenons que la sécurité, l’égalité des sexes, la sécurité et la santé mentale, ainsi que l'accès à un espace sûr en dehors du travail, sont autant de raisons de créer des comptes multiples et anonymes.
+
+### Puis-je créer des comptes pour des animaux de compagnie, des personnages ou des amis imaginaires ?
+
+On préfère que tu ne le fasses pas. Nous essayons de construire un réseau de professionnels sur Hachyderm et vous encourageons à déplacer ces comptes vers une autre instance.
