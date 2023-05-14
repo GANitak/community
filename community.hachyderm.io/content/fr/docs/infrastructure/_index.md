@@ -1,37 +1,34 @@
 ---
-title: "Open Source Infrastructure"
+title: "Infrastructure Open Source"
 linkTitle: "Infrastructure"
 weight: 4
 description: >
-  Description of our public infrastructure that keeps Hachyderm online.
+  Description de notre infrastructure publique qui maintient Hachyderm en ligne.
 ---
+
+{{% pageinfo %}}
+<h5 class="text-center">This page was manually translated on 05/14/23. </br>Please utilize the English docs for the most up to date policies.</h5>
+{{% /pageinfo %}}
 
 {{% pageinfo %}}
 This page is still being built. Check back often.
 {{% /pageinfo %}}
 
-Hachyderm is taking the first steps towards what we are calling **Open Source Infrastructure** which is where we intend to operate a secure and resilient service completely in the public.
+Hachyderm fait ces premiers pas vers ce que nous appelons **Open Source Infrastructure** où nous avons l’intention d’exploiter un service sécurisé et résilient entièrement dans le public.
 
-## Hachyderm Today
+## Hachyderm Aujourd'hui
 
-Today Hachyderm runs a global topology that is distributed across the following service providers:
+Aujourd’hui, Hachyderm gère une topologie mondiale qui est répartie entre les fournisseurs de services suivants:
 
- - On premise servers in Seattle, Washington also known as "The Watertower".
- - Small lightweight [Linode](https://www.linode.com/) VMs operating around the world.
- - Core infrastructure operating in [Hetzner](https://www.hetzner.com/) in Falkenstein, Germany.
- - Object storage sponsored by [Digital Ocean](https://www.digitalocean.com/products/spaces).
+ - Serveurs sur site 'On premise' à Seattle, Washington, aussi connu sous le nom de "The Watertower".
+ - 'Small lightweight' [Linode](https://www.linode.com/) VMs operating around the world.
+ - Infrastructure de base fonctionnant avec [Hetzner](https://www.hetzner.com/) à Falkenstein, Allemagne.
+ - Stockage d’Objets sponsorisé par [Digital Ocean](https://www.digitalocean.com/products/spaces).
 
 ![](topology-v2.png)
 
+### Expérimentation auprès du public
 
-### Experimenting in the Public
+Hachyderm croit profondément qu’il reste de la valeur inexploitée en informatique. Nous avons l’intention d’aborder notre infrastructure comme une occasion d’expériences sûres et réfléchies, semblables à la façon dont la [Station Spatiale Internationale mène des expériences en orbite](https://www.nasa.gov/mission_pages/station/research/experiments_category). Nous avons l’intention de prototyper de nouvelles technologies, des modèles opérationnels, la structure organisationnelle du 'SRE', des modèles "Follow-The-Sun" et des flux de travail collaboratifs libres pour notre infrastructure. Au cours des prochains mois, nous partagerons les façons dont l’ensemble de la communauté Hachyderm peut se porter volontaire pour soutenir notre infrastructure, ainsi que les expériences fondées sur des hypothèses de registre, pour fonctionner avec nos données et nos services. 
 
-Hachyderm deeply believes there is untapped value left in computer science. We intend on approaching our infrastructure as an opportunity for safe and thoughtful experiments, similar to how the [International Space Station conducts experiments in orbit](https://www.nasa.gov/mission_pages/station/research/experiments_category). We intend on prototyping new technology, operational models, SRE organizational structure, follow-the-sun patterns, and open source collaborative workstreams for our infrastructure. In the coming months we will be sharing ways in which the broader Hachyderm community can volunteer to support our infrastructure, as well as register hypothesis backed experiments to run with our data and our services. 
-
-Your user data will never be leveraged for an experiment. All user profile data, direct messages, post content, access metrics, demographic detail, and personal information will be restricted from any form of experiment. To be even more direct about, you, as a Hachyderm user will never be leveraged in an experiment. We will not be experimenting on you. We are experimenting on the tools and services that support hachyderm's public services such as prototyping databases, HTTP(s) servers, and compute runtimes.
-
-### Meet The Team 
-
- - [Kris Nóva](https://hachyderm.io/@nova)
-
-
+Vos données utilisateur ne seront jamais utilisées pour une expérience. Toutes les données de profil d’utilisateur, les messages directs, le contenu de publication, les mesures d’accès, les détails démographiques et les renseignements personnels seront restreints à toute forme d’expérience. Pour être encore plus direct, vous, en tant qu’utilisateur de Hachyderm, ne serez jamais mis à profit dans une expérience. Nous n’expérimenterons pas sur vous. Nous expérimentons les outils et services qui soutiennent les services publics de Hachyderm tels que les bases de données de prototypage, les serveurs HTTP(s) et calculer les temps d’exécution (compute runtimes).
