@@ -1,56 +1,52 @@
 ---
-title: "Corporate Accounts"
-linkTitle: "Corporate Accounts"
+title: "Comptes Corporate"
+linkTitle: "Comptes Corporate"
 weight: 40
 description: >
-   Who should make corporate accounts, how to make them, and their
-   rules and restrictions.
+   Qui devrait faire des corporate comptes, comment les faire, leurs règles et restrictions.
 ---
+{{% pageinfo %}}
+<h5 class="text-center">This page was manually translated on 05/15/23. Please utilize the English docs for the most up to date policies.</h5>
+{{% /pageinfo %}}
 
-## Overview <!-- omit from toc -->
+## Sommaire <!-- omit from toc -->
 
-- [What is a Corporate Account](#what-is-a-corporate-account)
-- [Rules and restrictions](#rules-and-restrictions)
-- [Corporate account application information and cost](#corporate-account-application-information-and-cost)
-  - [Pricing](#pricing)
+- [Qu’est-ce qu’un Coporate Compte](#quest-ce-quun-corporate-compte)<!-- #FIXME link -->
+- [Règles et Restrictions](#règles-et-restrictions)
+- [Renseignements sur la demande de Corporate Compte et Coût](#renseignements-sur-la-demande-de-corporate-compte-et-coût)
+  - [Tarif](#tarif)
 - [Addenda](#addenda)
     - [The Nivenly Foundation](#the-nivenly-foundation)
-    - [How to become a Nivenly Trade Member](#how-to-become-a-nivenly-trade-member)
-    - [Current corporate accounts](#current-corporate-accounts)
+    - [Comment devenir un(e) Nivenly Trade Member](#comment-devenir-un-e-nivenly-trade-member) <!-- #FIXME link -->
+    - [Corporate comptes actuels](#corporate-comptes-actuels)
 
-## What is a Corporate Account
+## Qu’est-ce qu’un Coporate Compte
 
-Corporate accounts are specialized accounts that apply to those running accounts for businesses
-and business-like entities. This can include certain types of projects, conferences / events,
-and non-profit organizations as well as traditional for-profit companies of any size.
+Corporate Comptes sont des comptes spécialisés qui s’appliquent à ceux qui ont des comptes pour les entreprises et les entités de type commercial. Cela peut comprendre certains types de projets, de conférences ou d’événements, d’organismes sans but lucratif et d’entreprises traditionnelles à but lucratif de toute taille.
 
-Some corporate accounts may be affiliated with Nivenly Trade Members, although this is not
-a requirement. (Clarification: this is a requirement we removed prior to the 1 Mar 2023 launch.)
-For a quick summary of Nivenly, please see the end of this article.
+Certains Corporate comptes peuvent être affiliés à Nivenly Trade Members, bien qu’il ne s’agisse pas d’une exigence. (Précision : il s’agit d’une exigence que nous avons supprimée avant le lancement du 1er mars 2023.)
+Pour un résumé rapide de Nivenly, voir la fin de cet article.
 
-## Rules and restrictions
+## Règles et Restrictions
 
-Corporate accounts:
+Corporate comptes:
 
-* Are invite-only.
-  * Please email [admin@hachyderm.io](mailto:admin@hachyderm.io) to apply.
-* Must abide by the [Specialized Account Expectations](../covenant/) (formerly referred to
-  as the Corporate Covenant).
-* Are [verified with Hachyderm](../verification/).
-  * This last process is new in 2023 to help Hachydermians quickly see that a corporate
-    account has been approved by us.
-* Are [verified with their company/business/entity domain](../../mastodon/user/verification/)
-* Pay a subscription cost as of 1 Mar 2023 (see next section).
+* Sont sur Invitation Seulement.
+  * Veuillez envoyer un courriel à [admin@hachyderm.io](mailto:admin@hachyderm.io) pour appliquer.
+* Doit respecter les [Attentes Relatives aux Comptes Spécialisés](../covenant/) (anciennement appelé le Corporate Covenant).
+* Sont [verifié avec Hachyderm](../verification/).
+  * Ce dernier processus est nouveau en 2023 pour aider les Hachydermiens à constater rapidement qu’un corporate compte a été approuvé par nous.
+* Sont [verifié avec leur compagnie/business/domaine d’entité](../../mastodon/user/verification/)
+* Payer un coût d’abonnement à compter du 1er mars 2023 (voir la section suivante).
 
-## Corporate account application information and cost
+## Renseignements sur la demande de Corporate Compte et Coût
 
-In order to apply to create a corporate account, please email us at [admin@hachyderm.io](mailto:admin@hachyderm.io).
-We will go over the rules and expectations with you and help you be successful interacting with
-members of our community.
+Pour créer un corporate compte, veuillez nous envoyer un courriel à [admin@hachyderm.io](mailto:admin@hachyderm.io).
+Nous examinerons les règles et les attentes avec vous et vous aiderons à interagir avec les membres de notre communauté.
 
-### Pricing
+### Tarifs
 
-Corporate account standard pricing is tiered based on size and is as follows:
+La tarification standard des corporates comptes est établie selon la taille et se présente comme suit :
 
 * <25 employees: $650/year
 * 25-49 employees: $1000/year 
@@ -58,30 +54,27 @@ Corporate account standard pricing is tiered based on size and is as follows:
 * 100-149 employees: $2000/year
 * 150-999 employees: $2500/year
 
-Entities with 1000+ employees or more than 50,000 followers will have customized High
-Volume pricing based on resource usage. If you believe your entity would fall in this range,
-please mention that you will need High Volume Pricing when you email us at [admin@hachyderm.io](mailto:admin@hachyderm.io). 
+Les entités comptant plus de 1 000 employés ou plus de 50 000 abonnés 'followers', auront une tarification personnalisée due au Volume Élevé, en fonction de l’utilisation des ressources. Si vous croyez que votre entité se situerait dans cette fourchette, veuillez mentionner que vous aurez besoin d’une Tarification Volume Élevé lorsque vous nous enverrez un courriel à [admin@hachyderm.io](mailto:admin@hachyderm.io). 
 
-If you are a small startup (<25 employees) and $650/year would be a burden: please still
-reach out to us! We want to help the industry as much as possible and work with you.
+Si vous êtes une petite entreprise en démarrage (moins de 25 employés) et 650 $/ans, serait un fardeau : n’hésitez pas à communiquer avec nous ! Nous voulons aider l’industrie le plus possible et travailler avec vous.
 
 ## Addenda
 
 #### The Nivenly Foundation
 
-[The Nivenly Foundation](https://nivenly.org) will facilitate Hachyderm's governance as well as support other open source projects.
-The governance model will be democratic in nature, and all Nivenly Trade members will be given a vote in member level elections.
-For more information, see [nivenly.org](https://nivenly.org).
+[The Nivenly Foundation](https://nivenly.org) facilitera la gouvernance de Hachyderm et soutiendra d’autres projets libres.
+Le modèle de gouvernance sera de nature démocratique et tous les membres de Nivenly Trade auront droit de vote aux élections des membres.
+Pour plus d’informations, voir [nivenly.org](https://nivenly.org).
 
-#### How to become a Nivenly Trade Member
+#### Comment devenir un(e) Nivenly Trade Member
 
-If you are interested in starting the conversation about the Nivenly Foundation and Trade
-Membership: please email us at [info@nivenly.org](mailto:info@nivenly.org).
+Si vous souhaitez entamer la conversation au sujet de Nivenly Foundation and Trade
+Membership : veuillez nous envoyer un courriel à [info@nivenly.org](mailto:info@nivenly.org).
 
-#### Current corporate accounts
+#### Corporate comptes actuels
 
-Listed here for historical purposes. Please note that as of 1 Mar 2023 all corporate accounts
-are [verified / approved with Hachyderm](../verification/).
+Énumérés ici à des fins historiques. Veuillez noter qu’au 1er mars 2023, tous les corporates comptes 
+sont [verifié / apprové avec Hachyderm](../verification/).
 
 * Oxide Computer Company ([Oxide Computer Company's post](https://hachyderm.io/@oxidecomputer/109328522372516771), [Oxide Computer Company's web page](https://oxide.computer/))
 * Tailscale ([Tailscale's post](https://hachyderm.io/@tailscale/109354733547660732), [Tailscale's web site](https://tailscale.com/))

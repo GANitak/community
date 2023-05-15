@@ -3,14 +3,14 @@ title: "Corporate Accounts"
 linkTitle: "Corporate Accounts"
 weight: 40
 description: >
-   Who should make corporate accounts, how to make them, and their
+   Who should make corporate accounts, how to make them, their
    rules and restrictions.
 ---
 
 ## Overview <!-- omit from toc -->
 
 - [What is a Corporate Account](#what-is-a-corporate-account)
-- [Rules and restrictions](#rules-and-restrictions)
+- [Rules and Restrictions](#rules-and-restrictions)
 - [Corporate account application information and cost](#corporate-account-application-information-and-cost)
   - [Pricing](#pricing)
 - [Addenda](#addenda)
@@ -28,7 +28,7 @@ Some corporate accounts may be affiliated with Nivenly Trade Members, although t
 a requirement. (Clarification: this is a requirement we removed prior to the 1 Mar 2023 launch.)
 For a quick summary of Nivenly, please see the end of this article.
 
-## Rules and restrictions
+## Rules and Restrictions
 
 Corporate accounts:
 
@@ -42,7 +42,7 @@ Corporate accounts:
 * Are [verified with their company/business/entity domain](../../mastodon/user/verification/)
 * Pay a subscription cost as of 1 Mar 2023 (see next section).
 
-## Corporate account application information and cost
+## Corporate Account application Information and Cost
 
 In order to apply to create a corporate account, please email us at [admin@hachyderm.io](mailto:admin@hachyderm.io).
 We will go over the rules and expectations with you and help you be successful interacting with
