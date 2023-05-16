@@ -5,6 +5,9 @@ weight: 10
 description: >
    Anciennement appelé Corporate Covenant. Nous avons rebrandé le nom, car de plus en plus de comptes autres que les corporates, doivent respecter ces attentes, mais nous avons conservé une grande partie de l’intention initiale.
 ---
+{{% pageinfo %}}
+<h5 class="text-center">This page was manually translated on 05/16/23. Please utilize the English docs for the most up to date policies.</h5>
+{{% /pageinfo %}}
 
 Les types de comptes suivants doivent respecter les attentes lors de l’inscription à Hachyderm :
 
