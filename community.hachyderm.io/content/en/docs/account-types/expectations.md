@@ -29,7 +29,7 @@ We expect you to set the bar for what it means to be a Hachydermian, and the
 rules apply extra to you.
 
 > I agree to be a steward and role model in the Hachyderm community. I
-> understand that my presence as a specialized account implies the rules will be more
+> understand that my presence as a specialized account implies the rules will be _more_ 
 > strictly applied to me than normal accounts.
 
 The Hachyderm community is a diverse community comprised of many people with
@@ -103,7 +103,7 @@ with promotional accounts.
 When in doubt, craft new words and form a new opinion. Otherwise, it likely is
 repetitive content.
 
-In short, we hold you to a high bar to be "the first of your kind", otherwise we
+In short, we hold you to a high bar to be « the first of your kind », otherwise we
 expect you to be contributing to the existing resource when applicable.
 
 We understand that this impacts some specialized account types more so than others. We expect
