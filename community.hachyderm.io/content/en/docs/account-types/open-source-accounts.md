@@ -24,10 +24,8 @@ to talk about Aurae as I wish.
 We welcome open source and collaborative projects to create accounts on
 Hachyderm. We also welcome community events to create accounts on Hachyderm.
 
-If your project is an extension of, or resembles, a corporate account, it
-is bound by the [Corporate Account](../corporate-accounts/) rules and restrictions.
-If your event is a corporate event and/or meetup, it is _also_ bound by those
-same rules and restrictions.
+If your project is an extension of, or resembles, a corporate account, it is bound by the [Corporate Account](../corporate-accounts/) rules and restrictions.
+If your event is a corporate event and/or meetup, it is _also_ bound by those same rules and restrictions.
 
 If you are unsure if your project and/or event would be considered corporate,
 please reach out to us at [admin@hachyderm.io](mailto:admin@hachyderm.io).
@@ -41,12 +39,10 @@ Hachyderm as they please.
   Creative Commons or similar licenses.
 - :heavy_check_mark: Open collaborative projects such as [The Gutenberg
   Project](https://www.gutenberg.org/) or collaborative wiki style projects
-  like [Wikipedia](https://wikipedia.org) and
-  [Wikimedia](https://wikimedia.org).
+  like [Wikipedia](https://wikipedia.org) and [Wikimedia](https://wikimedia.org).
 - :heavy_check_mark: Community driven events, open organizations, and volunteer
   driven events like [FOSDEM](https://fosdem.org/).
-- :heavy_check_mark: Open source organizations such as
-  [Matrix](https://matrix.org).
+- :heavy_check_mark: Open source organizations such as [Matrix](https://matrix.org).
 
 OSS projects and industry events that are company-like or business-like in their
 implementation will be considered "corporate" (in the account sense) and require
@@ -61,41 +57,32 @@ account rules and restrictions for that account type. Criteria that would meet t
   events that meet this definition.
 - Projects that resemble paid services for a company or company-like / business-like entity **_or_**<br />
   events that meet this defniition.
-- Projects that have "free tier" and "paid tier" models that resemble company-like
+- Projects that have « free tier » and « paid tier » models that resemble company-like
   or business-like implementation.
 
-Some specific examples that would would not fall under the OSS project / event
+Some specific examples that would not fall under the OSS project / event
 definition (in terms of account type) and would require a [corporate account](../corporate-accounts/):
 
 - :heavy_multiplication_x: Large trade organizations and governing
   bodies such as the [CNCF](https://www.cncf.io/about/join/) or [Cloud
-  Foundry](https://www.cloudfoundry.org/membership/) or their subsequent
-  projects such as [Istio](https://www.cncf.io/projects/istio/) or
-  [Helm](https://www.cncf.io/projects/helm/).
+  Foundry](https://www.cloudfoundry.org/membership/) or their subsequent projects such as [Istio](https://www.cncf.io/projects/istio/) or [Helm](https://www.cncf.io/projects/helm/).
 - :heavy_multiplication_x: Product ecosystem event like [AWS re:Invent](https://reinvent.awsevents.com/)
-- :heavy_multiplication_x: Open source projects with a single corporate
-  sponsor/owner such as Google's [Go Programming language](https://go.dev/)
-  and HashiCorp's [Terraform](https://www.terraform.io/).
+- :heavy_multiplication_x: Open source projects with a single corporate sponsor/owner such as Google's [Go Programming language](https://go.dev/) and HashiCorp's [Terraform](https://www.terraform.io/).
 - :heavy_multiplication_x: Open source projects with structured sponsorship
-  models that resemble paid services. Some examples include unlocking
-  essential features, increasing quotas, and so forth via donation or
-  payment tiers.
+  models that resemble paid services. Some examples include unlocking essential features, increasing quotas, and so forth via donation or payment tiers.
 - :heavy_multiplication_x: "up-sell" or "upgrade to pro" or "free trial" model
-  projects that resemble a paid service such as [pfSense Community
-  Edition](https://www.pfsense.org/download/) or [Wolfram
-  Alpha](https://www.wolfram.com/open-materials/).
+  projects that resemble a paid service such as [pfSense Community Edition](https://www.pfsense.org/download/) or [Wolfram Alpha](https://www.wolfram.com/open-materials/).
 
 ### What is financial bias?
 
-Financial bias is defined as "the ability for a specific vendor, project, or
-organization to pay for a competitive advantage" or sometimes referred to as
-"pay-to-play" vendor spaces. 
+Financial bias is defined as « the ability for a specific vendor, project, or
+organization to pay for a competitive advantage» or sometimes referred to as « pay-to-play » vendor spaces. 
 
 ### Why do we care about financial bias?
 
 We acknowledge the system that we're in: projects and events need money to run
 and continue to have great work and results. What we are specifically concerned
-with is when financial bias can create unhealthy releationships. In particular,
+with is when financial bias can create unhealthy relationships. In particular,
 financial bias can taint the relationship between a project and/or event and its
 intended goals. As that grows and spreads, this in turn drives unhealthy
 relationships between the people building/running the project and/or event
@@ -103,8 +90,7 @@ and the very people they want to bond, collaborate, and share with.
 
 Our goal with the guidance, rules, and restrictions that we have in place
 for these and other account types is to protect our community by promoting
-and nurturing the conditions that allow healthy relationships to thrive by
-default.
+and nurturing the conditions that allow healthy relationships to thrive by default.
 
 ---
 

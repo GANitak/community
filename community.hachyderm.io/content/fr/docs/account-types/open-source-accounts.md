@@ -1,144 +1,93 @@
 ---
-title: "Open Source Project and Community Event Accounts"
-linkTitle: "OSS Projects and Events"
+title: "Projets Libres et Comptes d'Événements Communautaires"
+linkTitle: "OSS Projets et Événements"
 weight: 40
 ---
+{{% pageinfo %}}
+<h5 class="text-center">This page was manually translated on 05/17/23. Please utilize the English docs for the most up to date policies.</h5>
+{{% /pageinfo %}}
 
-This section is for anyone who is interested in creating an account
-specifically for an open source project and/or community driven event.
+Cette section s’adresse à toute personne intéressée à créer un compte spécifiquement pour un projet open source et/ou un événement communautaire.
 
-If you are a maintainer of a project or event organizer and are
-representing yourself, this page does not apply to you. For example:
+Si vous êtes responsable d’un projet ou d’un événement et que vous vous représentez vous-même, cette page ne s’applique pas à vous. Par exemple :
 
-> I, Kris Nóva, am a maintainer of Aurae.
+> Moi, Kris Nóva, suis une mainteneuse d’Aurae.
 
-This documentation only applies to me if I were attempting to create a 2nd
-account in addition to my primary personal account that would be specifically
-for "Aurae".
+Ces documents ne s’appliquent qu’à moi si je tente de créer un deuxième compte en plus de mon compte personnel principal qui serait spécifiquement pour "Aurae".
 
-This documentation does not apply to my personal account, where I would be free
-to talk about Aurae as I wish.
+Cette documentation ne s’applique pas à mon compte personnel, où je serais libre de parler d’Aurae comme je le souhaite.
 
-## Open Source Projects and Community Events
+## Open Source Projets et Événements Communautaires
 
-We welcome open source and collaborative projects to create accounts on
-Hachyderm. We also welcome community events to create accounts on Hachyderm.
+Nous accueillons les projets libres et collaboratifs à créer des comptes sur Hachyderm. Nous accueillons également les événements communautaires à créer des comptes sur Hachyderm.
 
-If your project is an extension of, or resembles, a corporate account, it
-is bound by the [Corporate Account](../corporate-accounts/) rules and restrictions.
-If your event is a corporate event and/or meetup, it is _also_ bound by those
-same rules and restrictions.
+Si votre projet est une extension ou ressemble à un corporate compte, il est lié par les règles [Corporate Account](../corporate-accounts/) et ses restrictions.
+Si votre événement est un corporate événement et/ou meetup, il est _également_ lié par ces mêmes règles et restrictions.
 
-If you are unsure if your project and/or event would be considered corporate,
-please reach out to us at [admin@hachyderm.io](mailto:admin@hachyderm.io).
+Si vous n’êtes pas certain que votre projet ou événement serait considéré comme une activité corporative, veuillez communiquer avec nous à [admin@hachyderm.io](mailto:admin@hachyderm.io).
 
-### Understanding Open Source Projects and Community Events
+### Comprendre les Projets Open Source et les Événements Communautaires
 
-The following are the types of projects that are welcome to come and go from
-Hachyderm as they please.
+Ce qui suit sont les types de projets qui sont les bienvenus pour aller et venir d'Hachyderm comme ils le souhaitent.
 
-- :heavy_check_mark: Open source software projects with MIT, Apache 2.0, GPL,
-  Creative Commons or similar licenses.
-- :heavy_check_mark: Open collaborative projects such as [The Gutenberg
-  Project](https://www.gutenberg.org/) or collaborative wiki style projects
-  like [Wikipedia](https://wikipedia.org) and
-  [Wikimedia](https://wikimedia.org).
-- :heavy_check_mark: Community driven events, open organizations, and volunteer
-  driven events like [FOSDEM](https://fosdem.org/).
-- :heavy_check_mark: Open source organizations such as
-  [Matrix](https://matrix.org).
+- :heavy_check_mark: Open source software projets avec MIT, Apache 2.0, GPL,
+  Creative Commons ou licences similaires.
+- :heavy_check_mark: Open projets de collaboration tels que [The Gutenberg
+  Project](https://www.gutenberg.org/) ou projets de style wiki collaboratif comme [Wikipedia](https://wikipedia.org) et [Wikimedia](https://wikimedia.org).
+- :heavy_check_mark: Événements communautaires, open organisations et événements bénévoles comme [FOSDEM](https://fosdem.org/).
+- :heavy_check_mark: Open source organisations tel que [Matrix](https://matrix.org).
 
-OSS projects and industry events that are company-like or business-like in their
-implementation will be considered "corporate" (in the account sense) and require
-a [corporate account](../corporate-accounts/). They will also be bound by the
-account rules and restrictions for that account type. Criteria that would meet this type:
+Les projets OSS et événements de l’industrie qui sont compagnie-like ou business-like dans leur mise en œuvre seront considérés comme « corporate » (au sens du compte) et nécessiteront un [corporate account](../corporate-accounts/). Ils seront également liés par les règles et les restrictions de ce type de compte. Critères qui répondraient à ce type :
 
-- Projects that are a product / service of a parent entity that would meet the
-  criteria for a corporate account **_or_**<br />
-  events that are for a specific company or company-like organization **_or_**<br />
-  events for a specific product / service of that company or company-like organization.
-- Projects with either a single sponsor or owner that is a company or is company-like / business-like **_or_**<br />
-  events that meet this definition.
-- Projects that resemble paid services for a company or company-like / business-like entity **_or_**<br />
-  events that meet this defniition.
-- Projects that have "free tier" and "paid tier" models that resemble company-like
-  or business-like implementation.
+- Projets qui sont un produit ou un service d’une entité mère qui répondrait aux critères d’un corporate compte **_ou_**<br />
+  événements qui concernent une compagnie spécifique ou une compagnie-like organisation **_ou_**<br />
+  événements pour un produit / un service de cette compagnie ou d’une compagnie-like organisation.
+- Projets avec un seul sponsor ou propriétaire qui est une compagnie ou est compagnie-like / business-like **_or_**<br />
+  événements qui répondent à cette définition.
+- Projets qui ressemblent à des services payants pour une compagnie ou compagnie-like /business-like entité **_ou_**<br />
+événements qui répondent à cette définition.
+- Les projets qui ont des modèles de « niveau gratuit » et de « niveau payant » qui ressemblent à une compagnie-like ou business-like implémentation 
 
-Some specific examples that would would not fall under the OSS project / event
-definition (in terms of account type) and would require a [corporate account](../corporate-accounts/):
+Quelques exemples précis qui ne seraient pas visés par la définition de projet ou d’événement OSS (en termes de type de compte) et qui nécessiteraient un [corporate account](../corporate-accounts/):
 
-- :heavy_multiplication_x: Large trade organizations and governing
-  bodies such as the [CNCF](https://www.cncf.io/about/join/) or [Cloud
-  Foundry](https://www.cloudfoundry.org/membership/) or their subsequent
-  projects such as [Istio](https://www.cncf.io/projects/istio/) or
-  [Helm](https://www.cncf.io/projects/helm/).
-- :heavy_multiplication_x: Product ecosystem event like [AWS re:Invent](https://reinvent.awsevents.com/)
-- :heavy_multiplication_x: Open source projects with a single corporate
-  sponsor/owner such as Google's [Go Programming language](https://go.dev/)
-  and HashiCorp's [Terraform](https://www.terraform.io/).
-- :heavy_multiplication_x: Open source projects with structured sponsorship
-  models that resemble paid services. Some examples include unlocking
-  essential features, increasing quotas, and so forth via donation or
-  payment tiers.
-- :heavy_multiplication_x: "up-sell" or "upgrade to pro" or "free trial" model
-  projects that resemble a paid service such as [pfSense Community
-  Edition](https://www.pfsense.org/download/) or [Wolfram
-  Alpha](https://www.wolfram.com/open-materials/).
+- :heavy_multiplication_x: Les grandes organisations de trades et les organismes directeurs tels que [CNCF](https://www.cncf.io/about/join/) ou [Cloud
+  Foundry](https://www.cloudfoundry.org/membership/) ou leurs projets ultérieurs tels que [Istio](https://www.cncf.io/projects/istio/) ou [Helm](https://www.cncf.io/projects/helm/).
+- :heavy_multiplication_x: Événement d’écosystème de produits comme [AWS re:Invent](https://reinvent.awsevents.com/)
+- :heavy_multiplication_x: Projets open source avec un seul sponsor/propriétaire corporatif tel que Google [Go Programming language](https://go.dev/) et HashiCorp [Terraform](https://www.terraform.io/).
+- :heavy_multiplication_x: Open source projets avec des modèles de sponsorship structurés qui ressemblent à des services payants. Par exemple, déverrouiller les fonctions essentielles, augmenter les quotas, etc., au moyen de dons ou de paiements.
+- :heavy_multiplication_x: Des projets modèles "up-sell" ou "upgrade to pro" ou "free trial" qui ressemblent à un service payant tel que [pfSense Community Edition](https://www.pfsense.org/download/) ou [Wolfram Alpha](https://www.wolfram.com/open-materials/).
 
-### What is financial bias?
+### Qu’est-ce que le biais financier?
 
-Financial bias is defined as "the ability for a specific vendor, project, or
-organization to pay for a competitive advantage" or sometimes referred to as
-"pay-to-play" vendor spaces. 
+Le biais financier est défini comme « la capacité d’un fournisseur, un projet ou d’une organisation en particulier, de payer pour un avantage concurrentiel » ou parfois appelé « pay-to-play » espaces de vente. 
 
-### Why do we care about financial bias?
+### Pourquoi nous soucions-nous des parti-pris financiers?
 
-We acknowledge the system that we're in: projects and events need money to run
-and continue to have great work and results. What we are specifically concerned
-with is when financial bias can create unhealthy releationships. In particular,
-financial bias can taint the relationship between a project and/or event and its
-intended goals. As that grows and spreads, this in turn drives unhealthy
-relationships between the people building/running the project and/or event
-and the very people they want to bond, collaborate, and share with.
+Nous reconnaissons le système dans lequel nous évoluons : les projets et les événements ont besoin d’argent pour fonctionner et continuer à produire d’excellents résultats.Ce qui nous préoccupe particulièrement, c’est lorsque les parti-pris financiers peuvent créer des relations malsaines. En particulier, le **biais** financier peut altérer la relation entre un projet ou un événement et ses objectifs. Au fur et à mesure que cela grandit et se propage, cela entraîne des relations malsaines entre les personnes qui construisent/dirigent le projet et/ou l’événement et les personnes avec lesquelles ils veulent tisser des liens, collaborer et partager.
 
-Our goal with the guidance, rules, and restrictions that we have in place
-for these and other account types is to protect our community by promoting
-and nurturing the conditions that allow healthy relationships to thrive by
-default.
+Notre objectif avec les directives, les règles et les restrictions que nous avons en place pour ces types de comptes et d’autres types est de protéger notre communauté en promouvant et en favorisant les conditions qui permettent aux relations saines de prospérer par défaut.
 
 ---
 
-## Frequently Asked Questions
+## Foire Aux Questions
 
-### Can I create an account for my event? Like DevopsDays?
+### Puis-je créer un compte pour mon événement? Comme DevopsDays?
 
-Yes, the goal is to support community focused events. If the goal of the
-event is the community, then this is the correct account type for your event.
-If your event is business oriented, or for businesses to network with each
-other (e.g. what is sometimes referred to as a tradeshow), your event will
-need a [corporate account](../corporate-accounts/).
+Oui, l’objectif est de soutenir les événements communautaires. Si l’objectif de l’événement est la communauté, alors c’est le bon type de compte pour votre événement.
+Si votre événement est axé sur les affaires, ou pour que les businesses puissent faire du réseautage entre elles (p. ex., ce qu’on appelle parfois un salon professionnel 'tradeshow'), votre événement aura besoin d’un [corporate account](../corporate-accounts/).
 
-#### What about DevopsDays for my specific city?
+#### Qu’en est-il de DevopsDays pour ma ville?
 
-Yes. As long as your subsidiary account isn't repeating the same content as the
-parent account. We expect each account to have relatively independent content.
+Oui. Tant que votre compte subsidiaire ne reprend pas le même contenu que le compte mère. Nous nous attendons à ce que chaque compte ait un contenu relativement indépendant.
 
-### Can I create a support/help/fan/parody account?
+### Puis-je créer un compte soutien/aide/fan/parodie ?
 
-No. Accounts like "Linux Tips" or "Kubernetes Memes" are not in alignment with
-our mission to create a curated group of professionals. We aim to have accounts
-that represent real people.
+Non. Des comptes comme "Linux Tips" ou "Kubernetes Memes" ne sont pas en accord avec notre mission de créer un groupe de professionnels. Nous visons à avoir des comptes qui représentent de vraies personnes.
 
-### Can I create an account if a similar one already exists?
+### Puis-je créer un compte si un compte similaire existe déjà ?
 
-No. We want to have one account for each project. We do not want to have
-"Wikipedia tips" and "Wikipedia facts" as separate accounts. We think that
-collaboration of the same account should be shared at the project level. You
-should join the project and ask for access to the Mastodon account.
+Non. Nous voulons avoir un compte pour chaque projet. Nous ne voulons pas avoir "Wikipedia tips" et "Wikipedia facts" comme comptes séparés. Nous pensons que la collaboration d’un même compte devrait être partagée au niveau du projet. Vous devez rejoindre le projet et demander l’accès au compte Mastodon.
 
-### Can I create a bot account for our open source project?
+### Puis-je créer un compte bot pour notre projet open source ?
 
-No. We know it is fun to automate pull requests, build status, and more. However,
-we try to keep our content based around real words written by real people. That said,
-you are welcome to include some of that data in your project's account posts, it just
-can't be dedicated to only publishing that type of content.
+Non. Nous savons qu’il est amusant d’automatiser les 'pull requests, de construire 'status', et plus encore. Cependant, nous essayons de garder notre contenu basé sur des mots réels écrits par des personnes réelles. Cela dit, vous êtes invités à inclure certaines de ces données dans les postes de compte de votre projet, il ne peut tout simplement pas être consacré à publier uniquement ce type de contenu.
