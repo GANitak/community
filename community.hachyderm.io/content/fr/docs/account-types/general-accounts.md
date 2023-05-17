@@ -10,7 +10,7 @@ weight: 40
 Pour la grande majorité des utilisateurs d'Hachyderm:
 
 * Suivez nos [règles du serveur](/docs/rule-explainer/)
-* Notez toutes les règles de compte qui peuvent s’appliquer à vous, p. ex., [postes automatisés / planifiés](../comptes-robots) si vous les utilisez.
+* Notez toutes les règles de compte qui peuvent s’appliquer à vous, p. ex., [postes automatisés / planifiés](../bot-accounts/) si vous les utilisez.
 
 Et surtout :
 
