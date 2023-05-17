@@ -1,146 +1,117 @@
 ---
-title: "Specialized Account Expectations"
-linkTitle: "Expectations"
+title: "Attentes Relatives aux Comptes Spécialisés"
+linkTitle: "Attentes"
 weight: 10
 description: >
-   Formerly referred to as the Corporate Covenant. We've rebranded the name,
-   as more accounts other than corporations must adhere to these expectations,
-   but have preserved a lot of the original intent.
+   Anciennement appelé Corporate Covenant. Nous avons rebrandé le nom, car de plus en plus de comptes autres que les corporates, doivent respecter ces attentes, mais nous avons conservé une grande partie de l’intention initiale.
 ---
+{{% pageinfo %}}
+<h5 class="text-center">This page was manually translated on 05/16/23. Please utilize the English docs for the most up to date policies.</h5>
+{{% /pageinfo %}}
 
-The following account types should adhere to the expectations as part of signing up
-for Hachyderm:
+Les types de comptes suivants doivent respecter les attentes lors de l’inscription à Hachyderm :
 
-* All specialized accounts that fall under the definition of a:
-  * [Bot Account](../bot-accounts/)
-  * [Curated Content Account](../curated-accounts/)
-* All specialized accounts that wish to be [Verified](../verification/)
-* All [Corporate Accounts](../corporate-accounts) for Nivenly Trade Members
+* Tous les comptes spécialisés qui entrent dans la définition de :
+  * [Comptes Robot](../bot-accounts/)
+  * [Compte de Contenu Sélectionné ](../curated-accounts/)
+* Tous les comptes spécialisés qui souhaitent être [Verifiés](../verification/)
+* Tous [Corporate Comptes](../corporate-accounts) pour Nivenly Trade Members
 
-## Expectations for Specialized Accounts
+## Attentes Relatives aux Comptes Spécialisés
 
-If you are a corporate account, or you are a specialized account that is going to be verified,
-we need you to understand and adhere to our guiding principles in addition to the rules governing
-your account type.
+Si vous êtes un corporate compte ou un compte spécialisé qui sera vérifié, nous avons besoin que vous compreniez et respectiez nos principes directeurs en plus des règles régissants votre type de compte.
 
-### 1. Be a Hachydermian: Fines Doubled In Work Zone
+### 1. Soyez un Hachydermien : Les Amendes Doublées en Zone Travail
 
-We expect you to set the bar for what it means to be a Hachydermian, and the
-rules apply extra to you.
+Nous nous attendons à ce que vous fixiez la barre pour ce que signifie être un Hachydermien, et les règles s’appliquent en plus pour vous.
 
-> I agree to be a steward and role model in the Hachyderm community. I
-> understand that my presence as a specialized account implies the rules will be more
-> strictly applied to me than normal accounts.
+> J’accepte d’être un intendant et un modèle dans la communauté Hachyderm. I
+> comprends que ma présence en tant que compte spécialisé implique que les règles seront _plus_
+> strictement appliqué à moi que les comptes normaux.
 
-The Hachyderm community is a diverse community comprised of many people with
-many economic beliefs and situations.
+La communauté d'Hachyderm est une communauté diversifiée composée de nombreuses personnes ayant de nombreuses croyances et situations économiques.
 
-For companies in particular: We expect you to have a mature understanding of
-various economic structures around the world, and find a strong balance in your
-position as a corporation.
+Pour les compagnies en particulier : Nous nous attendons à ce que vous ayez une compréhension mature des diverses structures économiques dans le monde et que vous trouviez un équilibre solide dans votre position en tant que corporation.
+Dans la communauté Hachyderm, vous trouverez des capitalistes affirmés et même des anti-capitalistes.
+Nous espérons que vous tiendrez compte de ces différentes perspectives, en créant du contenu sur Hachyderm.
 
-In the Hachyderm community, you will find strong capitalists and even anti-capitalists.
-We expect you to consider these different perspectives while creating content
-on Hachyderm.
+En tant que compte spécialisé, les deux docs [nos règles](../../rule-explainer/), et les règles régissant votre type de compte, s’appliquent plus à vous qu’à l’utilisateur moyen.
+Cela signifie que les conséquences d’une violation des règles s’appliquent davantage à vous qu’aux autres.
+En d’autres termes, vos "amendes seront doublées" si vous finissez par violer nos règles.
+Nous vous avertirons d’abord que vous avez violé un principe directeur, et si cela continue, nous vous demanderons de partir.
 
-As a specialized account, both [our rules](../../rule-explainer/), and the rules
-governing your account type, apply more to you than to the average user.
-This means that the consequences of a rule violation applies more to you than others.
-In other words, your "fines will be doubled" if you end up violating our rules.
-We will warn you first that you have violated a guiding principle, and if it
-continues, then we will ask you to leave.
+En fin de compte, vous définissez la barre pour les utilisateurs d'Hachyderm, les corporates comptes exclusifs, ainsi que d’autres comptes spécialisés. 
 
-Ultimately, you are setting the bar for Hachyderm users, the exclusive corporate
-accounts, as well as other specialized accounts. 
+### 2. Soyez La Personne Avec Qui Vous Voulez Travailler
 
-### 2. Be Who You Want To Work With
+Nous attendons de vous que vous fassiez à la communauté ce que vous auriez fait à vous.
 
-We expect you to do unto the community as you would have done unto you.
+"Créer le marché que vous voudriez acheter".
 
-"Create the market you would want to shop at".
+> J’accepte de bâtir un marché où je voudrais magasiner. 
+> J’accepte de mettre la barre haut pour un engagement de classe mondiale sur Hachyderm.
 
-> I agree to build a market that I would want to shop at. I agree to set the
-> bar for having world-class engagement on Hachyderm.
+Nous trouvons utile de faire l’analogie avec la publicité forcée à la station-service.
 
-We find value in drawing the analogy to forced advertising at the gas station.
+En tant que propriétaire d’une station-service, le message forcé est logique en raison du rendement plus élevé de la publicité.
 
-As a gas station owner, forced messaging makes sense because of the higher
-return on advertising.
+En tant que client d’une station-service, il n’y a rien de plus ennuyeux que d’être forcé d’écouter une annonce pendant le pompage du gaz.
 
-As a gas station customer, there is nothing more annoying than being forced to
-listen to an ad while pumping gas.
+Nous voulons que les gens, veuillent, magasiner à votre station-service, ce qui signifie que vous devez tenir compte de leur expérience d’abord.
 
-We want people to want to shop at your gas station, which means you need to
-consider their experience first.
+Nous avons de grandes attentes pour notre communauté remplissant leurs voitures avec votre gaz métaphorique.
 
-We have high expectations for our community filling their cars with your
-metaphorical gas.
+### 3. Une Fois Suffit: "The Wikipedia" politique
 
-### 3. Say It Once: "The Wikipedia" policy
+Il est difficile de mesurer les spams. Nous nous attendons à ce que vous vous teniez loin du contenu répétitif.
 
-Measuring spam is hard. We expect you to stay away from repetitive content.
+> J’accepte de partager du nouveau contenu et de faire de mon mieux pour éviter les contenus répétitifs.
+> Je comprendre que les mots peuvent être modifiés, mais que les messages peuvent rester cohérents.
+> J'accepte de ne partager mon message qu’une seule fois.
 
-> I agree to share new content and do my best to prevent repetitive content. I
-> understand that words can be changed but messaging can remain consistent. I
-> agree to only share my message once.
+On n’a pas le temps de vous courir après.
 
-We don't have time to chase you around.
+Nous trouvons de la valeur dans ce que Wikipedia appellé [Use our own words](https://en.wikipedia.org/wiki/Wikipedia:Use_our_own_words).
 
-We find value in what Wikipedia calls [Use our own words](https://en.wikipedia.org/wiki/Wikipedia:Use_our_own_words).
+> La meilleure pratique consiste à rechercher les sources les plus fiables sur le sujet et
+> résumer ce qu’ils disent avec vos propres mots.
 
-> The best practice is to research the most reliable sources on the topic and
-> summarize what they say in your own words.
+Nous comprenons que même si techniquement, vous ne répétez pas les mêmes mots, vous pouvez transmettre le même message.
 
-We understand that while technically not repeating the exact same words, you can
-deliver the same message.
+Nous nous attendons à ce que vous répétiez votre message une fois, sans le répéter encore et encore.
 
-We expect you to say your message once, and not repeat the same message time
-and time again.
+Nous essayons explicitement d’éviter l’effet "cron job" que nous voyons sur Twitter avec des comptes promotionnels.
 
-We are explicitly trying to avoid the "cron job" effect that we see on Twitter
-with promotional accounts.
+En cas de doute, rédigez de nouveaux mots et former une nouvelle opinion. Sinon, il s’agit probablement d’un contenu répétitif.
 
-When in doubt, craft new words and form a new opinion. Otherwise, it likely is
-repetitive content.
+En bref, nous vous demandons d’être « le premier de votre genre », sinon nous nous attendons à ce que vous contribuiez à la ressource existante, le cas échéant.
 
-In short, we hold you to a high bar to be "the first of your kind", otherwise we
-expect you to be contributing to the existing resource when applicable.
+Nous comprenons que cela touche certains types de comptes spécialisés plus que d’autres. Nous nous attendons à ce que tous les comptes spécialisés fassent preuve de jugement lorsqu’ils doivent respecter cette règle.
 
-We understand that this impacts some specialized account types more so than others. We expect
-all specialized accounts to use good judgement when they need to approach this rule.
+On ne veut pas qu'Hachyderm devienne un centre de recyclage promotionnel. Nous voulons que vous partagiez du nouveau contenu, ou que vous mentionniez la source originale et que vous l’ajoutiez.
 
-We don't want Hachyderm to turn into a promotional recycling center. We want you to be 
-either sharing new content, or mentioning the original source and adding to it.
+### 4. Politique « Nous le Savons Quand Nous le Voyons »
 
-### 4. "We Know It When We See It" Policy
+En fin de compte, la communauté passe en premier et la réponse de la communauté à votre contenu sera notre guide.
 
-Ultimately, the community comes first and the community's response to your
-content will be our guiding light.
+> Je comprends que les politiques sont difficiles à appliquer. 
+> S’il est évident pour moi qu'Hachyderm ne bénéficie plus de ma présence, 
+> je me retirerai poliment en tant que compte spécialisé et je passerai à un autre serveur.
 
-> I understand that policies are difficult to enforce. If it is made obvious to
-> me that Hachyderm is no longer benefiting from my presence, I will politely
-> step down as a specialized account and move to another server.
+Si votre contenu devient "invasif" ou "indésirable" ou semble causer des problèmes, nous vous demanderons de déplacer votre compte vers un autre serveur.
 
-If your content becomes "invasive" or "unwanted" or seems to be causing
-problems, we will ask you to move your account to another server.
+En gros, nous regardons les « mauvais acteurs » comme nous regardons la pornographie. Nous le savons quand nous le voyons. Nous nous réservons le droit de vous demander de partir à tout moment.
 
-Basically, we look at "bad actors" like we look at pornography. We know it when
-we see it. We reserve the right to ask you to leave at any time.
+### 5. Les mods sont des bénévoles, pas des moniteurs de salle
 
-### 5. Mods are Volunteers, Not Hall Monitors
+Votre compte doit être une réussite pour tous les participants, y compris nos modérateurs.
 
-Your account needs to be a win for everyone involved, including our
-moderators.
+> Je comprends que c’est mon travail de m’auto-modérer. Si la modération de Hachyderm
+> est impliqué, nous avons échoué deux fois. 
+> D’abord dans l’auto-modération, et en deuxième violation d’une politique spécifique.
 
-> I understand that it is my job to self-moderate. If moderation from Hachyderm
-> is involved, we have failed twice. First in self-moderation, and 2nd in
-> violating a specific policy.
+Idéalement, un compte spécialisé devrait aider à garder les mauvais acteurs à l’écart tout en établissant une barre extrêmement haute de ce que signifie être un bon membre de la communauté.
 
-Ideally, a specialized account should be helping to keep bad actors out while also
-setting an extremely high bar of what it means to be a good community member.
+Si à tout moment les mods d'Hachyderm passent plus de temps à courir après votre compte, que notre communauté obtient par votre présence, il est temps de s'en aller.
 
-If at any time the Hachyderm moderators are spending more time chasing your
-account around than our community is getting out of your presence, it's time to
-go.
-
-Our moderators are here to keep the community safe.
+Nos mods sont là pour assurer la sûreté de la communauté.
