@@ -1,14 +1,17 @@
 ---
-title: "General Accounts"
-linkTitle: "General Accounts"
+title: "Comptes Généraux"
+linkTitle: "Comptes Généraux"
 weight: 40
 ---
+{{% pageinfo %}}
+<h5 class="text-center">This page was manually translated on 05/17/23. Please utilize the English docs for the most up to date policies.</h5>
+{{% /pageinfo %}}
 
-For the vast majority of Hachyderm users:
+Pour la grande majorité des utilisateurs d'Hachyderm:
 
-* Follow our [server rules](/docs/rule-explainer/)
-* Make note of any account rules that may apply to you, e.g. [automated / scheduled posts](../bot-accounts) if you use them
+* Suivez nos [règles du serveur](/docs/rule-explainer/)
+* Notez toutes les règles de compte qui peuvent s’appliquer à vous, p. ex., [postes automatisés / planifiés](../comptes-robots) si vous les utilisez.
 
-And most of all:
+Et surtout :
 
-Have fun.
+Amusez-vous.
