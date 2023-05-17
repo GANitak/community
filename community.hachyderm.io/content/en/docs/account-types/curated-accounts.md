@@ -20,11 +20,11 @@ them prominently, have restrictions on this server.
 
 * Curated accounts must be "on topic". To put it another way, they must be directly relevant
   to the tech industry.
-* Curated accounts must follow the same posting rules as [automated posts](../bot-accounts/#posting-rules).
+* Curated accounts must follow the same posting rules as [automated posts](../bot-accounts/#posting-rules).</br>
   Notably this includes:
     * **There is an upper limit of 5 curated/scheduled/automated posts per day. Lower is better.**
     * Posts cannot violate other rules
-      * This includes server rules disallowing spam, fundraising, NSFW/18+ content (et al)
+      * This includes server rules around, monetary posts, spam disallowance, NSFW/18+ content (et al)
       * Hybrid accounts, those that make use of curated content and are also another specialized type,
         are bound to all sets of rules for their combined, hybrid, account type.
       * Posts cannot violate the [Specialized Account Expectations](../covenant/)

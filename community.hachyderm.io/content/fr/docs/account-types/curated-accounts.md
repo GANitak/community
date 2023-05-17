@@ -1,34 +1,31 @@
 ---
-title: "Curated Accounts and Content"
-linkTitle: "Curated Content"
+title: "Comptes et Contenu Sélectionnés"
+linkTitle: "Comptes et Contenu Sélectionnés"
 weight: 40
 ---
+{{% pageinfo %}}
+<h5 class="text-center">This page was manually translated on 05/17/23. Please utilize the English docs for the most up to date policies.</h5>
+{{% /pageinfo %}}
 
-Curated accounts are accounts that post content on a regular basis that
-the account owner(s) have previously vetted. This can include, but is not
-limited to:
+Les comptes sélectionnés sont des comptes qui postent régulièrement du contenu que le(s) propriétaire(s) de compte ont déjà vérifié. Cela peut comprendre, sans s’y limiter :
 
-* Job postings for a specific profession, industry, or from a particular source
-* Newsletter or newsletter-like postings relevant to a particular profession or industry
-* Podcasts or other streaming focused content
-* Conference aggregators for CFPs, tickets, sign-up date(s), etc.
+* Offres d’emploi pour une profession, une industrie ou une source particulière 
+* Newsletter ou newsletters-like postant en rapport à une profession ou une industrie en particulier
+* Podcasts/Balados ou autre contenu axé sur la diffusion en continu
+* Agrégateurs de conférences pour les CFPs, tickets, dates d’inscription, etc.
 
-## Restrictions on behavior
+## Restrictions de Comportement
 
-Curated posts, whether they are a dedicated account type or an account that features
-them prominently, have restrictions on this server.
+Les publications sélectionnées, qu’il s’agisse d’un type de compte dédié ou d’un compte qui les mettent en évidences, ont des restrictions sur ce serveur.
 
-* Curated accounts must be "on topic". To put it another way, they must be directly relevant
-  to the tech industry.
-* Curated accounts must follow the same posting rules as [automated posts](../bot-accounts/#posting-rules).
-  Notably this includes:
-    * **There is an upper limit of 5 curated/scheduled/automated posts per day. Lower is better.**
-    * Posts cannot violate other rules
-      * This includes server rules disallowing spam, fundraising, NSFW/18+ content (et al)
-      * Hybrid accounts, those that make use of curated content and are also another specialized type,
-        are bound to all sets of rules for their combined, hybrid, account type.
-      * Posts cannot violate the [Specialized Account Expectations](../covenant/)
-    * Similar to bots, curated accounts must use the `#hachygrator` hashtag ("Hachyderm" + "Aggregator") in their posts to allow users to opt-in or opt-out.
-* Curated accounts must be [verified with Hachyderm](../verification/)
-* Where applicable, accounts should [be verified](../../mastodon/user/verification/)
-  with their relevant domain(s).
+* Les comptes sélectionnés doivent être "sur le sujet". Pour le dire autrement, ils doivent être directement pertinents pour l’industrie technologique.
+* Les comptes sélectionnés doivent suivre les mêmes règles de publication que les [postes automatisés](../bot-accounts/#posting-rules).</br>
+  Cela comprend notamment :
+    * **Il y a une limite supérieure à 5 publications sélectionnées, planifiées ou automatisées par jour. Moins est mieux.**
+    * Les publications ne peuvent violer d’autres règles
+      * Cela comprend les règles du serveur, autour des postes monétaires, spams interdiction, ou le contenu NSFW/18+ (et al)
+      * Les comptes hybrides, ceux qui utilisent du contenu sélectionné et qui sont également un autre type spécialisé, sont liés à tous les ensembles de règles pour leur type de compte hybride combiné.
+      * Les publications ne peuvent pas violer les [Attentes Relatives aux Comptes Spécialisés](../covenant/)
+    * Comme les robots, les comptes sélectionnés doivent utiliser le hashtag « #hachygrator » (« Hachyderm » + « Aggregator ») dans leurs publications pour permettre aux utilisateurs de s’inscrire ou de se retirer.
+* Les comptes sélectionnés doivent être [verifiés avec Hachyderm](../verification/)
+* Le cas échéant, les comptes doivent [être vérifiés](../../mastodon/user/verification/) avec le ou les domaines concernés.
