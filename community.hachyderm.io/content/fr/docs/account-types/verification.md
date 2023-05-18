@@ -1,96 +1,89 @@
 ---
-title: "Specialized Account Verification with Hachyderm"
-linkTitle: "Verify with Hachyderm"
+title: "Vérification de Compte Spécialisé avec Hachyderm"
+linkTitle: "Verifé avec Hachyderm"
 weight: 20
 description: >
-  How to become a verified, specialized, account with Hachyderm.
+  Comment devenir un compte vérifié, spécialisé, avec Hachyderm.
 ---
+{{% pageinfo %}}
+<h5 class="text-center">This page was manually translated on 05/18/23. Please utilize the English docs for the most up to date policies.</h5>
+{{% /pageinfo %}}
 
-## Who should verify?
+## Qui doit vérifier?
 
-Currently, only a subset of our specialized accounts are _required_ to verify. That said, we recommend
-that all specialized accounts (influencer accounts on a case-by-case basis) go through the verification
-process so that Hachyderm users know that your account is officially recognized and that you've
-agreed to the [Specialized Account Expectations](../covenant/).
+À l’heure actuelle, seul un sous-ensemble de nos comptes spécialisés sont _requis_ de vérifié. Cela dit, nous recommandons que tous les comptes spécialisés (comptes d’influenceurs au cas par cas) passent par le processus de vérification afin que les utilisateurs d'Hachyderm sachent que votre compte est officiellement reconnu et que vous avez accepté les [Attentes Relatives aux Comptes Spécialisés](../covenant/).
 
 
-### Required and optional verification
+### Vérification requise et facultative
 
-While we recommend all accounts that are not user accounts apply to be verified with us, only the following
-are required to be verified:
+Bien que nous recommandions que tous les comptes qui ne sont pas des comptes d’utilisateur demande à être vérifiés avec nous, seuls les cas suivants doivent être vérifiés :
 
-* [Corporate accounts](../corporate-accounts/)
-* [Bot accounts](../bot-accounts/)
-* [Curated accounts](../curated-accounts/)
+* [Comptes Corporate](../corporate-accounts/)
+* [Robot et Poste-Automatisation](../bot-accounts/)
+* [Comptes et Contenu Sélectionnés](../curated-accounts/)
 
-Accounts that will likely want to consider being verified:
+Comptes qui voudront probablement considérer à être vérifiés :
 
-* [Community Events](../open-source-accounts/)
-* [Open Source Projects](../open-source-accounts/)
-* Any account that may appear similar to a corporate account (but is not). This may include:
-  * Some of the non-profits we've welcomed on our instance
-* Some of our [Influencer Accounts](../influencer-accounts/) (though not all)
-    * Note that verification is not open to general users at this time.
-    * In general, this is only if your personal brand or posting style could be conflated
-      with one of the recognized specialized account types. If
-      you're using Hachyderm as a general user and happen to have
-      a large following, you likely would not want to be verified
-      at this time.
+* [Événements Communautaires](../open-source-accounts/)
+* [Projets Open Source](../open-source-accounts/)
+* Tout compte qui peut sembler semblable à un compte corporatif (mais qui ne l’est pas). Cela peut comprendre :
+  * Quelques-unes des organisations sans but lucratif que nous avons accueillis sur notre instance
+* Certains de nos [Influencer Accounts](../influencer-accounts/) (mais pas tous)
+    * Veuillez noter que la vérification n’est pas ouverte aux utilisateurs généraux pour le moment.
+    * En général, cela ne se produit que si votre marque personnelle ou votre style de publication peuvent être confondus avec l’un des types de comptes spécialisés reconnus. Si vous utilisez Hachyderm en tant qu’utilisateur général et que vous avez un grand nombre de followers, vous ne voudriez probablement pas être vérifié pour le moment.
 
-## When to verify?
+## Quand verifé?
 
-This process was launched in February 2023. We ask existing accounts that need to be verified to
-do so by the end of March 2023.
+Ce processus a été lancé en février 2023. Nous demandons aux comptes existants qui doivent être vérifiés de le faire d’ici fin mars 2023.
 
-## What does a verified account look like?
-All specialized accounts that have been verified by the Hachyderm moderation team will have a verified link pointing to [community.hachyderm.io/approved](https://community.hachyderm.io/approved) in their profile links. This link should be titled "Approved" on the account bio:
+## À quoi ressemble un compte vérifié?
+Tous les comptes spécialisés qui ont été vérifiés par l’équipe de modération de Hachyderm auront un lien vérifié pointant vers [community.hachyderm.io/approved](https://community.hachyderm.io/approved) dans leurs liens de profil. Ce lien devrait être intitulé « Approuvé » sur la biographie du compte :
 
-<img src="../approved.png" alt="Screenshot of the approved links section of a profiles.
-      There are two verified links. One link is pointing to the companies website.
-      The other link is pointing to https://community.hachyderm.io/approved"
+<img src="../approved.png" alt="Capture d’écran de la section des liens approuvés d’un profil.
+      Il y a deux liens vérifiés. L’un indique le site web de la compagnie. L’autre pointant vers https://community.hachyderm.io/approved"
     width="400px" />
 
-## The Application Process
+## Le processus de demande
 
-**Steps to getting approved**
+**Étapes pour obtenir l’approbation**
 
-This is only for the specialized accounts.
-We are not accepting request for individual users at this time.
+C’est seulement pour les comptes spécialisés.
+Nous n’acceptons pas les demandes d’utilisateurs individuels pour le moment.
 
-_Part 1: Get Pre-Approved_
+_Partie 1 : Obtenir une pré-approbation_
 
-To get started, we will create an issue to track the full process from the creation of your account to the completion of the approval process.
+Pour commencer, nous allons créer un problème pour suivre le processus complet, de la création de votre compte à l’achèvement du processus d’approbation.
 
-1. Read the [Specialized Account Expectations](../covenant/)
-1. Open a "Specialized Account Approval" issue from our [Community Issue Tracker](https://github.com/hachyderm/community/issues/new?assignees=&labels=Specialized+Accounts&template=9.Specialized-Account-Approvals.yml&title=Specialized+Accounts%3A+YOUR_ACCOUNT_NAME)
-1. Include your agreement to the Specialized Account Expectations in the GitHub issue 
-1. Be patient (we are group of volunteer mods and will reach out as soon as we can)
-1. We make a decision
-   - If you are not approved, we will provide a reason and close the GitHub issue.
-   - If you are approved, you can now create your account and then move on to _Part 2_ below
-     - Note: you should leave the GitHub issue _open_.
+1. Lire les [Attentes Relatives aux Comptes Spécialisés](../covenant/)
+1. Open a "Specialized Account Approval" issue from our ['Community Issue Tracker'](https://github.com/hachyderm/community/issues/new?assignees=&labels=Specialized+Accounts&template=9.Specialized-Account-Approvals.yml&title=Specialized+Accounts%3A+YOUR_ACCOUNT_NAME)
+1. Inclure votre consentement aux attentes relatives aux comptes spécialisés dans le numéro GitHub 
+1. Soyez patient (nous sommes un groupe de mods bénévoles et communiquerons avec vous dès que possible)
+1. Nous prenons une décision
+   - Si vous n’êtes pas approuvé, nous vous fournirons une raison et fermerons l'issue GitHub.
+   - Si votre demande est approuvée, vous pouvez alors créer votre compte, puis passer à la partie 2 ci-dessous.
+     - Remarque : vous devez quitter le GitHub issue _open_.
 
-Do not pre-emptively put the Approval URL in your profile metadata.
-Due to the way that verification works, Mastodon will only try to verify you
-_once_ per server when you add a URL. This means that Hachyderm's instance will
-only verify the URL when you add it, prior to it being approved, and will not re-check.
-You will be prompted to add the URL at the appropriate step below so the URL is live
-when Hachyderm checks.
+N’insérez pas par anticipation l’URL d’approbation dans les métadonnées de votre profil.
+En raison de la façon dont la vérification fonctionne, Mastodon tentera seulement de vous vérifier _une fois_ par serveur lorsque vous ajoutez un URL. Cela signifie que l’instance d'Hachyderm ne vérifiera l’URL que lorsque vous l’ajoutez, avant son approbation, et ne vérifiera pas à nouveau.
+Vous serez invité à ajouter l’URL à l’étape appropriée ci-dessous afin que l’URL soit active lorsque Hachyderm vérifie.
+
+Si vous avez ajouté le champ de façon préventive au profil du compte, vous devrez enregistrer de nouveau l’adresse URL d’approbation avec votre compte indiqué à la partie 2 ci-dessous.
+
+_Partie 2 : Fin de la Configuration du compte_
 
 If you've pre-emptively added the field to the account profile, you'll need to re-save after the
 approval URL is live with your account listed in Part 2 below.
 
 _Part 2: Finishing account setup_
 
-1. Ensure you're already [verified with your official domain](/docs/mastodon/user/verification/)
-    - Do not remove the reference link. Moderators will be using this during their validation process.
-1. We will add your verification tag under the appropriate header in the approved file. (Please be patient, we are a group of volunteers and will update as soon as we can.)
-1. We will update the GitHub issue when this is done.
-1.  Using the [verification steps](/docs/mastodon/user/verification/), add the following to your profile metadata
-    - Label: APPROVED
-    - Content: https://community.hachyderm.io/approved
-1. Verify that you can see the appropriate field highlighted in green and the green check mark
-1. Once you have added the above to your profile metadata and verification is successful, please update and close the GitHub issue.
-   - Do not remove the approved link once you have completed the process. This field lets
-     our users know you're an approved account and will prevent your account from being reported as an unapproved account.
-2. _Optional, but recommened:_ Make sure to share that you're an approved account, and include that that means you've agreed to the [Specialized Account Expectations](../covenant/)!
+1. Assurez-vous que vous êtes déjà [vérifié avec votre domaine officiel](/docs/mastodon/user/verification/)
+    - Ne supprimez pas le lien de référence. Les mods l’utiliseront pendant leur processus de validation.
+1. Nous ajouterons votre étiquette de vérification sous l’en-tête approprié dans le fichier approuvé. (Soyez patient, nous sommes un groupe de bénévoles et nous mettrons à jour dès que possible.)
+1. Nous mettrons à jour l'issue GitHub lorsque ce sera fait.
+1. À l’aide des [étapes de vérification](/docs/mastodon/user/verification/), ajoutez ce qui suit aux métadonnées de votre profil
+    - Étiquette 'label' : APPROUVÉ
+    - Contenu : https://community.hachyderm.io/approved
+1. Vérifiez que vous pouvez voir le champ approprié surligné en vert et le crochet vert.
+1. Une fois que vous avez ajouté ce qui précède à vos métadonnées de profil et que la vérification est réussie, veuillez mettre à jour et fermer le problème GitHub.
+   - Ne supprimez pas le lien approuvé une fois que vous avez terminé le processus. Ce champ permet à nos utilisateurs de savoir que vous êtes un compte approuvé et empêchera que votre compte soit signalé comme un compte non approuvé.
+2. __Facultatif, mais recommandé :_ Assurez-vous de dire que vous êtes un compte approuvé et d’indiquer que cela signifie que vous avez accepté les [Attentes Relatives aux Comptes Spécialisés](../covenant/)!

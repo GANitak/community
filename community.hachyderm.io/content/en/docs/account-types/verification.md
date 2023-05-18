@@ -32,9 +32,7 @@ Accounts that will likely want to consider being verified:
 * Some of our [Influencer Accounts](../influencer-accounts/) (though not all)
     * Note that verification is not open to general users at this time.
     * In general, this is only if your personal brand or posting style could be conflated
-      with one of the recognized specialized account types. If
-      you're using Hachyderm as a general user and happen to have
-      a large following, you likely would not want to be verified
+      with one of the recognized specialized account types. If you're using Hachyderm as a general user and happen to have a large following, you likely would not want to be verified
       at this time.
 
 ## When to verify?
@@ -46,7 +44,7 @@ do so by the end of March 2023.
 All specialized accounts that have been verified by the Hachyderm moderation team will have a verified link pointing to [community.hachyderm.io/approved](https://community.hachyderm.io/approved) in their profile links. This link should be titled "Approved" on the account bio:
 
 <img src="../approved.png" alt="Screenshot of the approved links section of a profiles.
-      There are two verified links. One link is pointing to the companies website.
+      There are two verified links. One link is pointing to the company website.
       The other link is pointing to https://community.hachyderm.io/approved"
     width="400px" />
 
@@ -64,7 +62,7 @@ To get started, we will create an issue to track the full process from the creat
 1. Read the [Specialized Account Expectations](../covenant/)
 1. Open a "Specialized Account Approval" issue from our [Community Issue Tracker](https://github.com/hachyderm/community/issues/new?assignees=&labels=Specialized+Accounts&template=9.Specialized-Account-Approvals.yml&title=Specialized+Accounts%3A+YOUR_ACCOUNT_NAME)
 1. Include your agreement to the Specialized Account Expectations in the GitHub issue 
-1. Be patient (we are group of volunteer mods and will reach out as soon as we can)
+1. Be patient (we are a group of volunteer mods and will reach out as soon as we can)
 1. We make a decision
    - If you are not approved, we will provide a reason and close the GitHub issue.
    - If you are approved, you can now create your account and then move on to _Part 2_ below
@@ -86,7 +84,7 @@ _Part 2: Finishing account setup_
     - Do not remove the reference link. Moderators will be using this during their validation process.
 1. We will add your verification tag under the appropriate header in the approved file. (Please be patient, we are a group of volunteers and will update as soon as we can.)
 1. We will update the GitHub issue when this is done.
-1.  Using the [verification steps](/docs/mastodon/user/verification/), add the following to your profile metadata
+1. Using the [verification steps](/docs/mastodon/user/verification/), add the following to your profile metadata
     - Label: APPROVED
     - Content: https://community.hachyderm.io/approved
 1. Verify that you can see the appropriate field highlighted in green and the green check mark
