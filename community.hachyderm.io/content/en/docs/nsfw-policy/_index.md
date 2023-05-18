@@ -61,7 +61,7 @@ We want your sexual content to be obnoxiously "loud" about how well it is protec
 
 To be clear, we ask that any sexual content, imagery, videos, language, or suggestive content by clearly marked "18+".
 
-In the event we find a user is sharing content that puts Hachyderm in legal risk, we will step in and moderate accordingly.
+In the event that we find a user is sharing content that puts Hachyderm in legal risk, we will step in and moderate accordingly.
 The best way to prevent your account from being moderated, is to practice marking any questionable content as "18+" as clearly and often as possible.
 
 In the event there are noticeable instances or accounts that post 18+ content without consent, we will likely step in and moderate accordingly.
@@ -73,17 +73,9 @@ Currently, Mastodon does not allow users to:
 1. Specify that they are 18 or over
 2. Mark that content is specifically 18+ or otherwise NSFW
 
-Content Warnings, as a feature, _do_ help by allowing users
-to make use of warnings to obscure text and visual media
-with an explanation. That said, by itself the Content
-Warning feature does _not_ comply with what is legally
-required to prevent minors from seeing content the law
-considers to be 18+.
+Content Warnings, as a feature, _do_ help by allowing users to make use of warnings to obscure text and visual media with an explanation. That said, by itself the Content Warning feature does _not_ comply with what is legally required to prevent minors from seeing content the law considers to be 18+.
 
-Since Hachyderm is geared for adult professionals, in order
-to be legally compliant and accommodate the limitation in the
-Mastodon tools, servers deemed to be 18+ will be either Limited
-or set to Reject Media.
+Since Hachyderm is geared for adult professionals, in order to be legally compliant and accommodate the limitation in the Mastodon tools, servers deemed to be 18+ will be either Limited or set to Reject Media.
 
 ### Staying on Topic
 
