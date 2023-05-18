@@ -14,22 +14,22 @@ Aujourd’hui, je prends la décision de rouvrir les inscriptions des utilisateu
 <h5 class="text-center">This page was manually translated on 05/06/23. </br>Please utilize the English docs for the most up to date policies.</h5>
 {{% /pageinfo %}}
 
-### Reason for Closing 
+### Raison de la Fermeture 
 
-The primary reason for closing user registrations yesterday was related to the [DDoS Security Threat](https://hachyderm.io/@nova/109451616906969285) that occurred the morning after our [Leaving the Basement](https://community.hachyderm.io/blog/2022/12/03/leaving-the-basement/) migration.
+La raison principale de la fermeture des inscriptions d’utilisateurs hier était liée à la [DDoS Security Threat](https://hachyderm.io/@nova/109451616906969285) qui a eu lieu le lendemain de notre [Leaving the Basement](https://community.hachyderm.io/blog/2022/12/03/leaving-the-basement/) migration.
 
 ![img.png](img.png)
 
-The primary vector that was leveraging Hachyderm infrastructure for perceived malicious use, was creating spam/bot accounts on our system. 
-Out of extreme precaution, we closed signups for roughly 24 hours,
+Le principal vecteur qui tirait parti de l’infrastructure Hachyderm, pour une utilisation malveillante perçue, était la création de comptes de spam/bot sur notre système. 
+Par précaution extrême, nous avons fermé les inscriptions pendant environ 24 heures,
 
-### Reason for Opening
+### Raison de l'Ouverture
 
-Today, Hachyderm does not have a targeted growth or capacity number in mind.
+Aujourd’hui, Hachyderm n’a pas de croissance ou de capacité à l’esprit.
 
-However, what we have observed is that user adoption as dropped substantially compared to November. 
-In my opinion, I believe that we will see substantially less adoption in December than we did in November.
+Cependant, ce que nous avons observé, c’est que l’adoption par les utilisateurs a diminué considérablement par rapport à novembre. 
+À mon avis, je crois que nous verrons beaucoup moins d’adoption en Décembre qu’en Novembre.
 
-We will be watching closely to validate this hypothesis, and will leverage this announcement page as an official source of truth if our posture changes.
+Nous surveillerons de près cette hypothèse et utiliserons cette page d’annonce comme source officielle de vérité si notre posture change.
 
-For now we have addressed some more detail on growth, registrations, and sustainability in our [Growth and Sustainability](https://community.hachyderm.io/blog/2022/12/04/growth-and-sustainability/) blog.
+Pour l’instant, nous avons abordé plus de détails sur la croissance, les inscriptions et la durabilité dans notre [Growth and Sustainability](https://community.hachyderm.io/blog/2022/12/04/growth-and-sustainability/) blog.
